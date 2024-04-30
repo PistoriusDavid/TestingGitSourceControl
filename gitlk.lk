@@ -1,1 +1,185 @@
-{}
+{
+  "\\GitCloneTest\\666.dxp": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\GitCloneTest\\666.dxw": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\GitCloneTest\\designtime\\search.gif": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\GitCloneTest\\images\\hs-tip.gif": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\GitCloneTest\\script\\community.js": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\GitCloneTest\\script\\hs-ajax.js": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\GitCloneTest\\script\\hs-feedlist.js": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\GitCloneTest\\scripts\\mshs.js": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\GitCloneTest\\stylesheets\\branding.css": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\GitCloneTest\\stylesheets\\branding2.css": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\GitCloneTest\\stylesheets\\community.css": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\GitCloneTest\\stylesheets\\customstyles.css": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\GitCloneTest\\stylesheets\\help2.css": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\GitCloneTest\\stylesheets\\hs-boxes.css": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\GitCloneTest\\stylesheets\\mshs.css": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\GitCloneTest\\template\\packages\\core-topics\\css\\topics.css": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\GitCloneTest\\template\\packages\\core-topics\\images\\glyphicons-halflings.png": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\GitCloneTest\\template\\packages\\core-topics\\images\\i-caution.png": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\GitCloneTest\\template\\packages\\core-topics\\images\\i-collapse.png": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\GitCloneTest\\template\\packages\\core-topics\\images\\i-content-collapsed.png": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\GitCloneTest\\template\\packages\\core-topics\\images\\i-content-expanded.png": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\GitCloneTest\\template\\packages\\core-topics\\images\\i-copy-code.png": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\GitCloneTest\\template\\packages\\core-topics\\images\\i-dropdown.png": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\GitCloneTest\\template\\packages\\core-topics\\images\\i-expand.png": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\GitCloneTest\\template\\packages\\core-topics\\images\\i-is-new.png": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\GitCloneTest\\template\\packages\\core-topics\\images\\i-note.png": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\GitCloneTest\\template\\packages\\core-topics\\images\\i-tip.png": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\GitCloneTest\\template\\packages\\core-topics\\script\\debug\\topics.js": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\GitCloneTest\\template\\packages\\core-topics\\script\\debug\\topics.js.map": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\GitCloneTest\\template\\packages\\core-topics\\script\\topics.min.js": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\GitCloneTest\\template\\packages\\core-topics\\script\\topics.min.js.map": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\GitCloneTest\\template\\packages\\core-topics\\topics.mobile.css": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\GitCloneTest\\template\\packages\\core-topics\\topics.mshv1.css": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\GitCloneTest\\template\\packages\\core-topics\\topics.mshv2.css": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\GitCloneTest\\template\\packages\\core-topics\\topics.tablet.css": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\GitCloneTest\\template\\packages\\jquery-ui\\css\\chm.mshc\\jquery-ui-1.8.18.custom.css": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\GitCloneTest\\template\\packages\\jquery-ui\\css\\default\\jquery-ui.min.css": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\GitCloneTest\\template\\packages\\jquery-ui\\script\\chm.mshc\\debug\\jquery-ui-1.8.18.custom.js": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\GitCloneTest\\template\\packages\\jquery-ui\\script\\chm.mshc\\jquery-ui-1.8.18.custom.min.js": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\GitCloneTest\\template\\packages\\jquery-ui\\script\\default\\debug\\jquery-ui.js": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\GitCloneTest\\template\\packages\\jquery-ui\\script\\default\\jquery-ui.min.js": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\GitCloneTest\\template\\packages\\jquery\\script\\chm.mshc\\debug\\jquery-1.7.2.js": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\GitCloneTest\\template\\packages\\jquery\\script\\chm.mshc\\jquery-1.7.2.min.js": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\GitCloneTest\\template\\packages\\jquery\\script\\default\\debug\\jquery.js": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\GitCloneTest\\template\\packages\\jquery\\script\\default\\jquery.min.js": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\GitCloneTest\\template\\packages\\plugins-topics\\css\\chm.mshc\\jquery-plugins.css": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\GitCloneTest\\template\\packages\\plugins-topics\\css\\default\\jquery-plugins.css": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\GitCloneTest\\template\\packages\\plugins-topics\\images\\i-loading.png": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\GitCloneTest\\template\\packages\\plugins-topics\\images\\i-slimbox-closelabel.png": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\GitCloneTest\\template\\packages\\plugins-topics\\images\\i-slimbox-nextlabel.png": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\GitCloneTest\\template\\packages\\plugins-topics\\images\\i-slimbox-prevlabel.png": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\GitCloneTest\\template\\packages\\plugins-topics\\images\\uiTabsArrow.png": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\GitCloneTest\\template\\packages\\plugins-topics\\script\\chm.mshc\\debug\\jquery-plugins.js": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\GitCloneTest\\template\\packages\\plugins-topics\\script\\chm.mshc\\debug\\jquery-plugins.js.map": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\GitCloneTest\\template\\packages\\plugins-topics\\script\\chm.mshc\\jquery-plugins.min.js": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\GitCloneTest\\template\\packages\\plugins-topics\\script\\chm.mshc\\jquery-plugins.min.js.map": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\GitCloneTest\\template\\packages\\plugins-topics\\script\\default\\debug\\jquery-plugins.js": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\GitCloneTest\\template\\packages\\plugins-topics\\script\\default\\debug\\jquery-plugins.js.map": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\GitCloneTest\\template\\packages\\plugins-topics\\script\\default\\jquery-plugins.min.js": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\GitCloneTest\\template\\packages\\plugins-topics\\script\\default\\jquery-plugins.min.js.map": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\README.txt": {
+    "O": "DPISTORIUS-LT01"
+  }
+}
