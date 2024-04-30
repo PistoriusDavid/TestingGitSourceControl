@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocumentXProject Id="" Version="2010.0">
+    <Features/>
+    <Flags>
+        <Flag Id="{46CEF21D-3301-4517-A875-A0906828390E}" HighlightColor="#FFA1FFD0">Exclude from Online</Flag>
+        <Flag Id="{4AAE0FD4-7313-4FEE-A25F-0785B885F736}" HighlightColor="#FFFFFFA1">Exclude from Booklet</Flag>
+    </Flags>
+    <PropertyDefinitions />
+    <PropertyDefinitionValues />
+    <Title />
+    <SeparateFiles>false</SeparateFiles>
+    <IsNewProject>false</IsNewProject>
+    <ContentFiles />
+    <ContentFromProjectPlugin />
+    <DotNetAssemblies />
+    <Filters>
+        <ExcludedItemTypes />
+        <ExcludedItems />
+    </Filters>
+    <GlossaryProjectPlugin>
+        <IsGlossaryOutputEnabled>true</IsGlossaryOutputEnabled>
+        <Glossary>
+            <GlossaryItems />
+            <Title />
+        </Glossary>
+    </GlossaryProjectPlugin>
+    <OtherFilesProjectPlugin>
+        <OtherFiles>
+            <OtherFile Id="" FileName="stylesheets\customstyles.css" SourceData="" BuildFlags="" />
+        </OtherFiles>
+        <DefaultStylesheet>stylesheets\customstyles.css</DefaultStylesheet>
+        <DefaultCaptureDirectory></DefaultCaptureDirectory>
+    </OtherFilesProjectPlugin>
+    <SourceControlProjectPlugin />
+    <TasksProjectPlugin>
+        <Tasks>
+            <TaskItems />
+        </Tasks>
+    </TasksProjectPlugin>
+    <TableOfContents>
+        <TocLayout Id="c7552482-a1ae-44a2-a9fc-c757d62b5073">
+            <Name />
+            <Description />
+            <RootNodes>
+                <TocNode IncludeUncategorized="true" Name="" Id="e262289c-f5b3-4783-9451-c2df074be115" IconIndex="-1" IsNew="false" Target="" DependsOnItemTypeName="" DependsOnItemTypeFilter="" DependsOnMinimumCount="0" DependsOnStillProcessChildNodes="false" BuildFlags="" NodeType="ALLTOPICS">
+                    <CaptionTemplate />
+                    <ChildNodes />
+                </TocNode>
+            </RootNodes>
+        </TocLayout>
+    </TableOfContents>
+    <TopicsProjectPlugin>
+        <TopicCategories>
+            <TopicCategory Id="-" AutoIndex="false">
+                <Caption m="2009-09-11T10:57:19.7639331Z">(Un-categorized)</Caption>
+                <ChildTopicCategories />
+                <Topics />
+            </TopicCategory>
+        </TopicCategories>
+        <AutoNameDigits>0</AutoNameDigits>
+        <AutoNameLastNumber>0</AutoNameLastNumber>
+        <AutoNameEnabled>false</AutoNameEnabled>
+        <AutoNamePrefix></AutoNamePrefix>
+        <IncludeTopicNameInTitle>false</IncludeTopicNameInTitle>
+    </TopicsProjectPlugin>
+    <WidgetsProjectPlugin>
+        <WidgetTypes Version="2010.0" />
+    </WidgetsProjectPlugin>
+    <ProjectProfiles>
+        <ProjectProfile Name="Browser Help" Id="6b2cfb6d-7340-49af-9cfb-d31ec7a4a0d5">
+            <DefaultItemQualifiedName></DefaultItemQualifiedName>
+            <Culture></Culture>
+            <StripMetadata>false</StripMetadata>
+            <AlwaysCopyTemplateFiles>true</AlwaysCopyTemplateFiles>
+            <OutputFileExtension>.html</OutputFileExtension>
+            <Title />
+            <ClearOutputDirectoryBeforeBuild>false</ClearOutputDirectoryBeforeBuild>
+            <BuildAllProjectLocales>true</BuildAllProjectLocales>
+            <PropertyDefinitionValues />
+            <IsIncludedInDefaultBuildConfiguration></IsIncludedInDefaultBuildConfiguration>
+            <CommunityOptions UseLocalProxyUrl="false" Enabled="false">
+                <ServerType>PublicEvaluation</ServerType>
+                <LocalProxyUrl></LocalProxyUrl>
+                <HostingAccessKey></HostingAccessKey>
+                <PrivateServerUrl></PrivateServerUrl>
+                <PrivateServerAccessKey></PrivateServerAccessKey>
+                <ProjectKey></ProjectKey>
+            </CommunityOptions>
+            <DotNet>
+                <IncludeRelationshipDiagrams>true</IncludeRelationshipDiagrams>
+                <IncludeInheritanceHierarchies>true</IncludeInheritanceHierarchies>
+                <IncludeSystemObjectMembers>false</IncludeSystemObjectMembers>
+                <InterfacesToIgnoreInSyntax>System.*</InterfacesToIgnoreInSyntax>
+                <NoInheritedMemberTopicsExternal>true</NoInheritedMemberTopicsExternal>
+                <LinkToExternalDocs>true</LinkToExternalDocs>
+                <UseXmlCommentFile>true</UseXmlCommentFile>
+                <UseExternalXmlCommentFiles>false</UseExternalXmlCommentFiles>
+                <NoInheritedMemberTopicsInternal>true</NoInheritedMemberTopicsInternal>
+                <NoInheritedInLists>false</NoInheritedInLists>
+                <ExcludeEditorBrowsable>true</ExcludeEditorBrowsable>
+                <ExcludeObsolete>false</ExcludeObsolete>
+                <GenerateXmlCommentFile>false</GenerateXmlCommentFile>
+                <IncludeBreadcrumbs>true</IncludeBreadcrumbs>
+                <IncludeAssemblyBreadcrumb>false</IncludeAssemblyBreadcrumb>
+                <IncludePrivateMembers>false</IncludePrivateMembers>
+                <IncludeFriendMembers>false</IncludeFriendMembers>
+                <IncludeProtectedFriendMembers>false</IncludeProtectedFriendMembers>
+                <IncludeProtectedMembers>true</IncludeProtectedMembers>
+                <IncludeAttributes>true</IncludeAttributes>
+                <AttributeFilterType>Exclude</AttributeFilterType>
+                <AttributeFilter></AttributeFilter>
+                <XmlIsland></XmlIsland>
+                <IdentifyAccessInTitles>false</IdentifyAccessInTitles>
+                <XmlCommentUsage>UseIfBlank</XmlCommentUsage>
+                <DiagramSettings OverviewNestingLevels="0" PageNestingLevels="0" DiagramStyleSource="Template">
+                    <SupressSingleObjectDiagrams>false</SupressSingleObjectDiagrams>
+                    <DiagramStyle>
+                        <CommonStyle OuterMargin="10" ShareSize="true">
+                            <IsNewBrush>#FFFF0000</IsNewBrush>
+                            <IsNewSize>10</IsNewSize>
+                            <UseDropShadow>false</UseDropShadow>
+                            <DropShadowOpacity>0.3</DropShadowOpacity>
+                            <DropShadowDepth>3</DropShadowDepth>
+                            <DropShadowColor>#FF000000</DropShadowColor>
+                            <DropShadowDirection>300</DropShadowDirection>
+                            <Connector Brush="#FF808080" Thickness="1.5" StyleName="Solid" Indent="30" />
+                        </CommonStyle>
+                        <ObjectItemStyle Font="Tahoma" FontSize="12" FontBrush="#FF000000" FontWeight="Normal" FontStyle="Normal" TextPadding="5" HorizontalAlignment="Left" BackgroundBrush="#FFADD8E6" BorderBrush="#FF808080" BorderThickness="0" EndCap="Rounded" />
+                        <CollectionItemStyle Font="Tahoma" FontSize="12" FontBrush="#FF000000" FontWeight="Normal" FontStyle="Normal" TextPadding="5" HorizontalAlignment="Left" BackgroundBrush="#FFADD8E6" BorderBrush="#FF808080" BorderThickness="0" EndCap="Rounded" />
+                    </DiagramStyle>
+                    <DiagramRelationshipsFrom>All</DiagramRelationshipsFrom>
+                    <DiagramDefaultCollectionMemberOnly>false</DiagramDefaultCollectionMemberOnly>
+                </DiagramSettings>
+                <IncludeVbNetDefaultConstructor>false</IncludeVbNetDefaultConstructor>
+                <UseOverloadSummaryForMasterSummary>true</UseOverloadSummaryForMasterSummary>
+                <LinkOverridenMembersToBaseImplementation>false</LinkOverridenMembersToBaseImplementation>
+                <GenericIndicator>ArgumentsInBrackets</GenericIndicator>
+                <RootAssemblyName></RootAssemblyName>
+                <TemplateName>Classic</TemplateName>
+                <TocTemplateName></TocTemplateName>
+                <PhraseCultureId>-</PhraseCultureId>
+                <TemplateFilesCopied>false</TemplateFilesCopied>
+                <ExcludedLanguages>
+                    <ExcludedLanguage>Delphi</ExcludedLanguage>
+                    <ExcludedLanguage>JScript</ExcludedLanguage>
+                    <ExcludedLanguage>CPP</ExcludedLanguage>
+                </ExcludedLanguages>
+                <IsVbSyntaxMerged>true</IsVbSyntaxMerged>
+                <IncludeExtensionMethods>true</IncludeExtensionMethods>
+                <GroupExamples>true</GroupExamples>
+                <ColorizeSyntax>true</ColorizeSyntax>
+                <UseContentFromBaseMember>true</UseContentFromBaseMember>
+            </DotNet>
+            <Filters>
+                <ExcludedItemTypes />
+                <ExcludedItems />
+            </Filters>
+            <HelpCompiler CompileHelpFile="false" IsWebOutputEnabled="true">
+                <HelpFileVersion>HtmlHelp1</HelpFileVersion>
+                <Help2Namespace>newprojecttest1</Help2Namespace>
+                <Help2FileId>Default</Help2FileId>
+                <Help2PluginToNamespaces></Help2PluginToNamespaces>
+                <Help2Plugin>false</Help2Plugin>
+                <RuntimeMerge></RuntimeMerge>
+                <IncludeTextPopupFile>false</IncludeTextPopupFile>
+                <Help3VendorName></Help3VendorName>
+                <Help3CatalogName>VS</Help3CatalogName>
+                <Help3CatalogVersion>100</Help3CatalogVersion>
+                <Help3CatalogLocaleText>en-US</Help3CatalogLocaleText>
+                <IsHelp3CreateRegistrationScriptEnabled>true</IsHelp3CreateRegistrationScriptEnabled>
+                <IsHelp3RegisterLocallyEnabled>true</IsHelp3RegisterLocallyEnabled>
+                <HelpFileName></HelpFileName>
+            </HelpCompiler>
+            <RuleEngine>
+                <Rules Caption="" MatchType="All" IsReadOnly="false" Id="root">
+                    <Rules>
+                        <RuleGroup Caption="" MatchType="All" IsReadOnly="false" Id="standard">
+                            <Rules>
+                                <Rule Caption="" MatchType="All" IsReadOnly="false" Id="outputtype">
+                                    <Conditions>
+                                        <RuleCondition BuildFlagMatchType="None" Caption="" IsReadOnly="false" Id="4c7ca296-f253-4ae9-9d90-ef8cb42183a8" Designer="BUILDFLAGS">
+                                            <BuildFlags>{46CEF21D-3301-4517-A875-A0906828390E}</BuildFlags>
+                                        </RuleCondition>
+                                    </Conditions>
+                                </Rule>
+                            </Rules>
+                        </RuleGroup>
+                    </Rules>
+                </Rules>
+            </RuleEngine>
+            <ShortFileNames GenerateShortFileNames="false" />
+            <TopicsProjectProfilePlugin>
+                <PhraseCultureId>-</PhraseCultureId>
+                <TemplateName>Classic</TemplateName>
+                <IncludeBreadcrumbs>true</IncludeBreadcrumbs>
+                <AutoGenerateTopicIndexEntries>true</AutoGenerateTopicIndexEntries>
+                <AutoGenerateCategoryIndexEntries>true</AutoGenerateCategoryIndexEntries>
+                <IncludeOnlyCompletedTopics>false</IncludeOnlyCompletedTopics>
+            </TopicsProjectProfilePlugin>
+            <WidgetsProjectProfilePlugin>
+                <WidgetTypes Version="2010.0" />
+            </WidgetsProjectProfilePlugin>
+            <OutputDirectory></OutputDirectory>
+        </ProjectProfile>
+        <ProjectProfile Name="Compiled Help (CHM)" Id="6b2cfb6d-7340-49af-9cfb-d31ec7a4a0d6">
+            <DefaultItemQualifiedName></DefaultItemQualifiedName>
+            <Culture></Culture>
+            <StripMetadata>false</StripMetadata>
+            <AlwaysCopyTemplateFiles>true</AlwaysCopyTemplateFiles>
+            <OutputFileExtension>.html</OutputFileExtension>
+            <Title />
+            <ClearOutputDirectoryBeforeBuild>false</ClearOutputDirectoryBeforeBuild>
+            <BuildAllProjectLocales>true</BuildAllProjectLocales>
+            <PropertyDefinitionValues />
+            <IsIncludedInDefaultBuildConfiguration></IsIncludedInDefaultBuildConfiguration>
+            <CommunityOptions UseLocalProxyUrl="false" Enabled="false">
+                <ServerType>PublicEvaluation</ServerType>
+                <LocalProxyUrl></LocalProxyUrl>
+                <HostingAccessKey></HostingAccessKey>
+                <PrivateServerUrl></PrivateServerUrl>
+                <PrivateServerAccessKey></PrivateServerAccessKey>
+                <ProjectKey></ProjectKey>
+            </CommunityOptions>
+            <DotNet>
+                <IncludeRelationshipDiagrams>true</IncludeRelationshipDiagrams>
+                <IncludeInheritanceHierarchies>true</IncludeInheritanceHierarchies>
+                <IncludeSystemObjectMembers>false</IncludeSystemObjectMembers>
+                <InterfacesToIgnoreInSyntax>System.*</InterfacesToIgnoreInSyntax>
+                <NoInheritedMemberTopicsExternal>true</NoInheritedMemberTopicsExternal>
+                <LinkToExternalDocs>true</LinkToExternalDocs>
+                <UseXmlCommentFile>true</UseXmlCommentFile>
+                <UseExternalXmlCommentFiles>false</UseExternalXmlCommentFiles>
+                <NoInheritedMemberTopicsInternal>true</NoInheritedMemberTopicsInternal>
+                <NoInheritedInLists>false</NoInheritedInLists>
+                <ExcludeEditorBrowsable>true</ExcludeEditorBrowsable>
+                <ExcludeObsolete>false</ExcludeObsolete>
+                <GenerateXmlCommentFile>false</GenerateXmlCommentFile>
+                <IncludeBreadcrumbs>true</IncludeBreadcrumbs>
+                <IncludeAssemblyBreadcrumb>false</IncludeAssemblyBreadcrumb>
+                <IncludePrivateMembers>false</IncludePrivateMembers>
+                <IncludeFriendMembers>false</IncludeFriendMembers>
+                <IncludeProtectedFriendMembers>false</IncludeProtectedFriendMembers>
+                <IncludeProtectedMembers>true</IncludeProtectedMembers>
+                <IncludeAttributes>true</IncludeAttributes>
+                <AttributeFilterType>Exclude</AttributeFilterType>
+                <AttributeFilter></AttributeFilter>
+                <XmlIsland></XmlIsland>
+                <IdentifyAccessInTitles>false</IdentifyAccessInTitles>
+                <XmlCommentUsage>UseIfBlank</XmlCommentUsage>
+                <DiagramSettings OverviewNestingLevels="0" PageNestingLevels="0" DiagramStyleSource="Template">
+                    <SupressSingleObjectDiagrams>false</SupressSingleObjectDiagrams>
+                    <DiagramStyle>
+                        <CommonStyle OuterMargin="10" ShareSize="true">
+                            <IsNewBrush>#FFFF0000</IsNewBrush>
+                            <IsNewSize>10</IsNewSize>
+                            <UseDropShadow>false</UseDropShadow>
+                            <DropShadowOpacity>0.3</DropShadowOpacity>
+                            <DropShadowDepth>3</DropShadowDepth>
+                            <DropShadowColor>#FF000000</DropShadowColor>
+                            <DropShadowDirection>300</DropShadowDirection>
+                            <Connector Brush="#FF808080" Thickness="1.5" StyleName="Solid" Indent="30" />
+                        </CommonStyle>
+                        <ObjectItemStyle Font="Tahoma" FontSize="12" FontBrush="#FF000000" FontWeight="Normal" FontStyle="Normal" TextPadding="5" HorizontalAlignment="Left" BackgroundBrush="#FFADD8E6" BorderBrush="#FF808080" BorderThickness="0" EndCap="Rounded" />
+                        <CollectionItemStyle Font="Tahoma" FontSize="12" FontBrush="#FF000000" FontWeight="Normal" FontStyle="Normal" TextPadding="5" HorizontalAlignment="Left" BackgroundBrush="#FFADD8E6" BorderBrush="#FF808080" BorderThickness="0" EndCap="Rounded" />
+                    </DiagramStyle>
+                    <DiagramRelationshipsFrom>All</DiagramRelationshipsFrom>
+                    <DiagramDefaultCollectionMemberOnly>false</DiagramDefaultCollectionMemberOnly>
+                </DiagramSettings>
+                <IncludeVbNetDefaultConstructor>false</IncludeVbNetDefaultConstructor>
+                <UseOverloadSummaryForMasterSummary>true</UseOverloadSummaryForMasterSummary>
+                <LinkOverridenMembersToBaseImplementation>false</LinkOverridenMembersToBaseImplementation>
+                <GenericIndicator>ArgumentsInBrackets</GenericIndicator>
+                <RootAssemblyName></RootAssemblyName>
+                <TemplateName>Classic</TemplateName>
+                <TocTemplateName></TocTemplateName>
+                <PhraseCultureId>-</PhraseCultureId>
+                <TemplateFilesCopied>false</TemplateFilesCopied>
+                <ExcludedLanguages>
+                    <ExcludedLanguage>Delphi</ExcludedLanguage>
+                    <ExcludedLanguage>JScript</ExcludedLanguage>
+                    <ExcludedLanguage>CPP</ExcludedLanguage>
+                </ExcludedLanguages>
+                <IsVbSyntaxMerged>true</IsVbSyntaxMerged>
+                <IncludeExtensionMethods>true</IncludeExtensionMethods>
+                <GroupExamples>true</GroupExamples>
+                <ColorizeSyntax>true</ColorizeSyntax>
+                <UseContentFromBaseMember>true</UseContentFromBaseMember>
+            </DotNet>
+            <Filters>
+                <ExcludedItemTypes />
+                <ExcludedItems />
+            </Filters>
+            <HelpCompiler CompileHelpFile="true" IsWebOutputEnabled="false">
+                <HelpFileVersion>HtmlHelp1</HelpFileVersion>
+                <Help2Namespace>newprojecttest1</Help2Namespace>
+                <Help2FileId>Default</Help2FileId>
+                <Help2PluginToNamespaces></Help2PluginToNamespaces>
+                <Help2Plugin>false</Help2Plugin>
+                <RuntimeMerge></RuntimeMerge>
+                <IncludeTextPopupFile>false</IncludeTextPopupFile>
+                <Help3VendorName></Help3VendorName>
+                <Help3CatalogName>VS</Help3CatalogName>
+                <Help3CatalogVersion>100</Help3CatalogVersion>
+                <Help3CatalogLocaleText>en-US</Help3CatalogLocaleText>
+                <IsHelp3CreateRegistrationScriptEnabled>true</IsHelp3CreateRegistrationScriptEnabled>
+                <IsHelp3RegisterLocallyEnabled>true</IsHelp3RegisterLocallyEnabled>
+                <HelpFileName></HelpFileName>
+            </HelpCompiler>
+            <RuleEngine>
+                <Rules Caption="" MatchType="All" IsReadOnly="false" Id="root">
+                    <Rules>
+                        <RuleGroup Caption="" MatchType="All" IsReadOnly="false" Id="standard">
+                            <Rules>
+                                <Rule Caption="" MatchType="All" IsReadOnly="false" Id="outputtype">
+                                    <Conditions>
+                                        <RuleCondition BuildFlagMatchType="None" Caption="" IsReadOnly="false" Id="4c7ca296-f253-4ae9-9d90-ef8cb42183a8" Designer="BUILDFLAGS">
+                                            <BuildFlags>{46CEF21D-3301-4517-A875-A0906828390E}</BuildFlags>
+                                        </RuleCondition>
+                                    </Conditions>
+                                </Rule>
+                            </Rules>
+                        </RuleGroup>
+                    </Rules>
+                </Rules>
+            </RuleEngine>
+            <ShortFileNames GenerateShortFileNames="false" />
+            <TopicsProjectProfilePlugin>
+                <PhraseCultureId>-</PhraseCultureId>
+                <TemplateName>Classic</TemplateName>
+                <IncludeBreadcrumbs>true</IncludeBreadcrumbs>
+                <AutoGenerateTopicIndexEntries>true</AutoGenerateTopicIndexEntries>
+                <AutoGenerateCategoryIndexEntries>true</AutoGenerateCategoryIndexEntries>
+                <IncludeOnlyCompletedTopics>false</IncludeOnlyCompletedTopics>
+            </TopicsProjectProfilePlugin>
+            <WidgetsProjectProfilePlugin>
+                <WidgetTypes Version="2010.0" />
+            </WidgetsProjectProfilePlugin>
+            <OutputDirectory></OutputDirectory>
+        </ProjectProfile>
+	</ProjectProfiles>
+</DocumentXProject>
