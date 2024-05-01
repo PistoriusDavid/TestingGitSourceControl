@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Topic Id="14f2c311-7f9f-47e9-9894-6d42981b7c14" Status="New Topic" CreatedOn="2024-05-01T11:11:49.0285277Z" ModifiedOn="2024-05-01T11:15:57.8298523Z" PageTypeName="" AutoIndex="true" HelpContextIds="" Name="TestingLocking" BuildFlags="">
+  <Title />
+  <ContentsTitle />
+  <Notes></Notes>
+  <CanonicalLink></CanonicalLink>
+  <TopicSections>
+    <TopicSection Name="BodyText">
+      <Content m="2024-05-01T11:15:57.8298523Z">&lt;P&gt;Making sure the lock file for the added project is written to correctly&lt;/P&gt;</Content>
+    </TopicSection>
+  </TopicSections>
+  <TopicLinks />
+  <TopicKeywords />
+  <PropertyDefinitionValues />
+  <ExcludedOtherFiles />
+</Topic>
