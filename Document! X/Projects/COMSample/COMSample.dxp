@@ -63,7 +63,9 @@
       <TopicCategory Id="-" AutoIndex="false">
         <Caption>(Un-categorized)</Caption>
         <ChildTopicCategories />
-        <Topics />
+        <Topics>
+          <Topic Id="98f398a3-1917-4f5e-a402-5187a6ef9acd" />
+        </Topics>
       </TopicCategory>
       <TopicCategory Id="8a678720-2803-455b-bd5d-92b40ebf2a8c" AutoIndex="false">
         <Caption m="2010-03-04T00:19:30.3568542Z">Introduction</Caption>
@@ -88,6 +90,7 @@
     <TopicEditorState>
       <Attributes>
         <Assembly key="dtscrollpos" valuetype="integer">0</Assembly>
+        <Assembly key="scrollPosition" valuetype="integer">0</Assembly>
       </Attributes>
     </TopicEditorState>
   </TopicsProjectPlugin>
