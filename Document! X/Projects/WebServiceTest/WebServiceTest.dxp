@@ -3,7 +3,7 @@
   <Features>
     <Feature>Document! X</Feature>
   </Features>
-  <SeparateFiles>false</SeparateFiles>
+  <SeparateFiles>true</SeparateFiles>
   <Flags>
     <Flag Id="{46CEF21D-3301-4517-A875-A0906828390E}" HighlightColor="#FFA1FFD0">Exclude from Online</Flag>
     <Flag Id="{4AAE0FD4-7313-4FEE-A25F-0785B885F736}" HighlightColor="#FFFFFFA1">Exclude from Booklet</Flag>
@@ -32,10 +32,6 @@
   </XsdProjectPlugin>
   <GlossaryProjectPlugin>
     <IsGlossaryOutputEnabled>true</IsGlossaryOutputEnabled>
-    <Glossary>
-      <GlossaryItems />
-      <Title />
-    </Glossary>
   </GlossaryProjectPlugin>
   <WebServiceProjectPlugin>
     <WebServices>
@@ -53,68 +49,16 @@
     <DefaultCaptureDirectory></DefaultCaptureDirectory>
   </OtherFilesProjectPlugin>
   <SourceControlProjectPlugin />
-  <TasksProjectPlugin>
-    <Tasks>
-      <TaskItems />
-    </Tasks>
-  </TasksProjectPlugin>
+  <TasksProjectPlugin />
   <BookletsProjectPlugin />
-  <TableOfContents>
-    <TocLayout Id="c7552482-a1ae-44a2-a9fc-c757d62b5073">
-      <Name />
-      <Description />
-      <RootNodes>
-        <TocNode Name="" Id="231c668e-45a6-4793-8604-cf140160584e" IconIndex="-1" IsNew="false" Target="" DependsOnItemTypeName="" DependsOnItemTypeFilter="" DependsOnMinimumCount="0" DependsOnStillProcessChildNodes="false" BuildFlags="" NodeType="PROJECTITEM">
-          <CaptionTemplate />
-          <ChildNodes />
-          <TargetItemId>2427327a-098e-453f-9587-e5215d45d213</TargetItemId>
-          <TargetItemBookmark></TargetItemBookmark>
-        </TocNode>
-        <TocNode Name="" DependsOnItemTypeName="" Id="909306b4-a123-4c6f-ab4e-88de171da512" IconIndex="-1" IsNew="false" Target="" DependsOnItemTypeFilter="" DependsOnMinimumCount="0" DependsOnStillProcessChildNodes="false" BuildFlags="" NodeType="ALLTEMPLATETOCS">
-          <ChildNodes />
-        </TocNode>
-      </RootNodes>
-    </TocLayout>
-  </TableOfContents>
+  <TableOfContents />
   <TopicsProjectPlugin>
     <TopicCategories>
       <TopicCategory Id="-" AutoIndex="false">
         <Caption m="2009-09-11T10:57:19.7639331Z">(Un-categorized)</Caption>
         <ChildTopicCategories />
         <Topics>
-          <Topic Id="2427327a-098e-453f-9587-e5215d45d213" Status="New Topic" CreatedOn="2013-04-18T10:59:12.1434925Z" ModifiedOn="2013-04-18T11:01:04.0213766Z" PageTypeName="" AutoIndex="true" HelpContextIds="" Name="Introduction" BuildFlags="">
-            <Title />
-            <ContentsTitle />
-            <Notes></Notes>
-            <CanonicalLink></CanonicalLink>
-            <TopicSections>
-              <TopicSection Name="BodyText">
-                <Content m="2013-04-18T11:00:40.844081Z">&lt;P&gt;This Document! X sample has been created to illustrate documentation of a REST web service. The web service used for this sample is for a pet store, and includes methods to manage users and pets.&lt;/P&gt;
-&lt;H3&gt;Authoring Content&lt;/H3&gt;
-&lt;P&gt;Most of the content in this sample is contained directly within the web service definition and is used directly by Document! X, except for Json Schemas which in this instance did not contain descriptions for most items. Individual items can easily have this default content overriden by authoring in the Document! X Content File.&lt;/P&gt;
-&lt;H3&gt;Customizing of the Web Service Structure&lt;/H3&gt;
-&lt;P&gt;The resource groupings are also read directly from the web service definition, but individual resources can be moved between resource groups, resource groups can be renamed, and additional resource groups can be created (using the context menu on the Project Explorer) if required.&lt;/P&gt;
-&lt;P&gt;Customizations are stored as additional data in the Document! X project and will not prevent Document! X from reading changed or additional items from the web service definition should it change in future.&lt;/P&gt;
-&lt;P&gt;Json Schemas have been read from the web service definition as well as the resouce groups, resources and operations. If Json Schemas are not present in the web service definition, they can be added manually using the context menu on the Project Explorer in Document! X.&lt;/P&gt;
-&lt;H3&gt;Key Sample Pages&lt;/H3&gt;
-&lt;P&gt;The&amp;nbsp;&lt;A href="Pet Store_ws~r--user-login~o-HttpGet.html" style="auto-update-caption: true"&gt;&lt;U&gt;&lt;FONT color=#0066cc&gt;loginUser&lt;/FONT&gt;&lt;/U&gt;&lt;/A&gt;&amp;nbsp;operation illustrates an operation with parameters and a fault response.&lt;/P&gt;
-&lt;P&gt;The&amp;nbsp;&lt;A href="Pet Store_ws~r--pet-{petId}~o-HttpGet.html" style="auto-update-caption: true"&gt;&lt;U&gt;&lt;FONT color=#0066cc&gt;getPetById (Get)&lt;/FONT&gt;&lt;/U&gt;&lt;/A&gt;&amp;nbsp;operation illustrates an operation that returns a Json response.&lt;/P&gt;</Content>
-              </TopicSection>
-            </TopicSections>
-            <TopicLinks>
-              <TopicLink BuildFlags="" Id="406bbad7-752e-4f3a-afce-efca959baea3" CategoryId="" TopicLinkCategorySource="SpecificValue" Target="https://en.wikipedia.org/wiki/Representational_state_transfer">
-                <Title m="2013-04-18T11:00:40.8651003Z">https://en.wikipedia.org/wiki/Representational_state_transfer</Title>
-                <Category />
-              </TopicLink>
-              <TopicLink BuildFlags="" Id="af25b5d6-644c-4fd7-b4b2-484f5b52f388" CategoryId="" TopicLinkCategorySource="SpecificValue" Target="Pet Store_ws">
-                <Title />
-                <Category />
-              </TopicLink>
-            </TopicLinks>
-            <TopicKeywords />
-            <PropertyDefinitionValues />
-            <ExcludedOtherFiles />
-          </Topic>
+          <Topic Id="2427327a-098e-453f-9587-e5215d45d213" />
         </Topics>
       </TopicCategory>
       <TopicCategory Id="CONTENTSNIPPETS" AutoIndex="false">
