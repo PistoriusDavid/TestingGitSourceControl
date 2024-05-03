@@ -56,7 +56,9 @@
       <TopicCategory Id="-" AutoIndex="false">
         <Caption m="2009-09-11T10:57:19.7639331Z">(Un-categorized)</Caption>
         <ChildTopicCategories />
-        <Topics />
+        <Topics>
+          <Topic Id="df737d27-27a0-4ab6-bf40-0372d2c62f15" />
+        </Topics>
       </TopicCategory>
       <TopicCategory Id="af421b59-f563-4b61-aac3-fe95e30eed15" AutoIndex="false">
         <Caption m="2010-03-04T13:22:00.6292738Z">Introduction</Caption>
