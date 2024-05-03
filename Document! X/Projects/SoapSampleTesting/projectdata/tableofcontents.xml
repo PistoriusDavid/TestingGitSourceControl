@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TableOfContents>
+  <TocLayout Id="c7552482-a1ae-44a2-a9fc-c757d62b5073">
+    <Name />
+    <Description />
+    <RootNodes>
+      <TocNode Name="" Id="2300c2ad-1656-468d-87b7-3387da85c5ca" IconIndex="-1" IsNew="false" Target="" DependsOnItemTypeName="" DependsOnItemTypeFilter="" DependsOnMinimumCount="0" DependsOnStillProcessChildNodes="false" BuildFlags="" NodeType="PROJECTITEM">
+        <CaptionTemplate />
+        <ChildNodes />
+        <TargetItemId>9a4318df-972a-41d0-87a3-f1feeb5ccf14</TargetItemId>
+        <TargetItemBookmark></TargetItemBookmark>
+      </TocNode>
+      <TocNode Name="" Id="c335cc49-31e6-4484-a699-f6ba1f2506fb" IconIndex="-1" IsNew="false" Target="" DependsOnItemTypeFilter="" DependsOnMinimumCount="0" DependsOnStillProcessChildNodes="false" BuildFlags="" DocumentationTypeName="DX.WEBSERVICE" TemplateTocType="Custom" TemplateTocName="" DependsOnItemTypeName="" NodeType="TEMPLATETOC">
+        <ChildNodes>
+          <TocNode Name="" Id="54631df0-5715-4b19-8699-5449e4c607d3" IconIndex="-1" IsNew="false" Target="" DependsOnItemTypeName="" DependsOnItemTypeFilter="" DependsOnMinimumCount="0" DependsOnStillProcessChildNodes="false" BuildFlags="" RepeatsForItemTypeName="DX.WEBSERVICE:WEBSERVICE" RepeatsForItemTypeFilter="" LinkToPage="true" NodeType="REPEATING">
+            <CaptionTemplate>%%ProjectTitle%%</CaptionTemplate>
+            <ChildNodes>
+              <TocNode Name="" Id="0de3a4e9-a45a-4e18-a0f9-379b1949234b" IconIndex="-1" IsNew="false" Target="" DependsOnItemTypeName="" DependsOnItemTypeFilter="" DependsOnMinimumCount="0" DependsOnStillProcessChildNodes="false" BuildFlags="" NodeType="PAGETYPE">
+                <CaptionTemplate>$$Overview$$</CaptionTemplate>
+                <ChildNodes />
+                <PageTypeName>webservice.html</PageTypeName>
+              </TocNode>
+              <TocNode Name="" Id="1da9b73b-1f87-4102-bdae-4317f4c503d4" IconIndex="-1" IsNew="false" Target="" DependsOnItemTypeName="DX.WEBSERVICE:Operation" DependsOnItemTypeFilter="" DependsOnMinimumCount="1" DependsOnStillProcessChildNodes="false" BuildFlags="" NodeType="NOLINK">
+                <CaptionTemplate>$$Operations$$</CaptionTemplate>
+                <ChildNodes>
+                  <TocNode Name="" Id="060c6b3d-ef7f-417d-9d79-a4d41f165e06" IconIndex="-1" IsNew="false" Target="" DependsOnItemTypeName="" DependsOnItemTypeFilter="" DependsOnMinimumCount="0" DependsOnStillProcessChildNodes="false" BuildFlags="" RepeatsForItemTypeName="DX.WEBSERVICE:OPERATION" RepeatsForItemTypeFilter="" LinkToPage="true" NodeType="REPEATING">
+                    <CaptionTemplate>%%LocalItemTitle%%</CaptionTemplate>
+                    <ChildNodes />
+                    <FileNameTemplate></FileNameTemplate>
+                  </TocNode>
+                </ChildNodes>
+              </TocNode>
+              <TocNode Name="" Id="1da9b73b-1f87-4102-bdae-4317f4c503d9" IconIndex="-1" IsNew="false" Target="" DependsOnItemTypeName="DX.WEBSERVICE:JsonSchema" DependsOnItemTypeFilter="" DependsOnMinimumCount="1" DependsOnStillProcessChildNodes="false" BuildFlags="" NodeType="NOLINK">
+                <CaptionTemplate>$$Json_Schemas$$</CaptionTemplate>
+                <ChildNodes>
+                  <TocNode Name="" Id="060c6b3d-ef7f-417d-9d79-a4d41f165e07" IconIndex="-1" IsNew="false" Target="" DependsOnItemTypeName="" DependsOnItemTypeFilter="" DependsOnMinimumCount="0" DependsOnStillProcessChildNodes="false" BuildFlags="" RepeatsForItemTypeName="DX.WEBSERVICE:JSONSCHEMA" RepeatsForItemTypeFilter="" LinkToPage="true" NodeType="REPEATING">
+                    <CaptionTemplate>%%LocalItemTitle%%</CaptionTemplate>
+                    <ChildNodes />
+                    <FileNameTemplate></FileNameTemplate>
+                  </TocNode>
+                </ChildNodes>
+              </TocNode>
+            </ChildNodes>
+            <FileNameTemplate></FileNameTemplate>
+          </TocNode>
+        </ChildNodes>
+      </TocNode>
+      <TocNode Name="" Id="1f100164-12f2-4203-ad4b-6341623e85d0" IconIndex="-1" IsNew="false" Target="" DependsOnItemTypeFilter="" DependsOnMinimumCount="0" DependsOnStillProcessChildNodes="false" BuildFlags="" DocumentationTypeName="DX.XSD" TemplateTocType="Custom" TemplateTocName="" DependsOnItemTypeName="" NodeType="TEMPLATETOC">
+        <ChildNodes />
+      </TocNode>
+    </RootNodes>
+  </TocLayout>
+</TableOfContents>
