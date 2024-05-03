@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Api>
+    <namespace name="innovasys.rssreader">
+        <class name="innovasys.rssreader.RssManager" id="4c87a2a5-fe48-4b79-9313-96da90a310fb" inheritsFrom="java.lang.Object" inheritanceHierarchy="java.lang.Object|innovasys.rssreader.RssManager" isAbstract="false" isSealed="false" access="public">
+            <interfaces>
+                <interface name="java.io.Serializable"/>
+            </interfaces>
+            <methods>
+                <method name="getRssFeeds" id="3e288011-c565-42f6-adbe-34ef4e772298" sig="getRssFeeds()" returnType="innovasys.rssreader.RssFeedCollection" returnTypeDimension="" isAbstract="false" isStatic="false" isSealed="true" access="public" isOverloaded="false" isNative="false" isSynchronized="false" isSynthetic="false"/>
+                <method name="AddFeed" id="cf0928ec-b8ae-4260-9cec-5d4673bf2f49" sig="AddFeed(java.lang.String)" returnType="innovasys.rssreader.RssFeed" returnTypeDimension="" isAbstract="false" isStatic="false" isSealed="true" access="public" isOverloaded="false" isNative="false" isSynchronized="false" isSynthetic="false">
+                    <parameters>
+                        <parameter name="url" returnType="java.lang.String" returnTypeDimension=""/>
+                    </parameters>
+                </method>
+                <method name="RemoveFeed" id="675d1637-b5ab-4ee5-b457-db58c7fc65ae" sig="RemoveFeed(innovasys.rssreader.RssFeed)" returnType="void" returnTypeDimension="" isAbstract="false" isStatic="false" isSealed="true" access="public" isOverloaded="false" isNative="false" isSynchronized="false" isSynthetic="false">
+                    <parameters>
+                        <parameter name="RssFeed" returnType="innovasys.rssreader.RssFeed" returnTypeDimension=""/>
+                    </parameters>
+                </method>
+                <method name="RemoveFeed" id="a69f4594-d1ae-43f9-88d6-584d36478ed0" sig="RemoveFeed(java.lang.String)" returnType="void" returnTypeDimension="" isAbstract="false" isStatic="false" isSealed="true" access="public" isOverloaded="false" isNative="false" isSynchronized="false" isSynthetic="false">
+                    <parameters>
+                        <parameter name="name" returnType="java.lang.String" returnTypeDimension=""/>
+                    </parameters>
+                </method>
+                <method name="UpdateFeeds" id="42b246ed-326b-4652-836c-8445952e6d08" sig="UpdateFeeds()" returnType="void" returnTypeDimension="" isAbstract="false" isStatic="false" isSealed="true" access="public" isOverloaded="false" isNative="false" isSynchronized="false" isSynthetic="false"/>
+            </methods>
+            <constructors>
+                <constructor id="4f74f188-73c3-469e-bfc5-72cd01f68be8" sig="RssManager()" access="public" isStatic="false" isSealed="false"/>
+            </constructors>
+        </class>
+        <enum name="innovasys.rssreader.RssItemState" id="e48ce786-2c56-4f7c-8820-e8cad3978400" inheritsFrom="java.lang.Enum" inheritanceHierarchy="java.lang.Object|java.lang.Enum|innovasys.rssreader.RssItemState" isAbstract="false" isSealed="true" access="public">
+            <methods>
+                <method name="values" id="6f5b7d74-a894-4db5-87df-52a28b0bc819" sig="values()" returnType="innovasys.rssreader.RssItemState" returnTypeDimension="[]" isAbstract="false" isStatic="true" isSealed="false" access="public" isOverloaded="false" isNative="false" isSynchronized="false" isSynthetic="false"/>
+                <method name="valueOf" id="38a9c08b-b05a-4670-8bfc-e26768efcedf" sig="valueOf(java.lang.String)" returnType="innovasys.rssreader.RssItemState" returnTypeDimension="" isAbstract="false" isStatic="true" isSealed="false" access="public" isOverloaded="false" isNative="false" isSynchronized="false" isSynthetic="false">
+                    <parameters>
+                        <parameter name="name" returnType="java.lang.String" returnTypeDimension=""/>
+                    </parameters>
+                </method>
+            </methods>
+            <fields>
+                <field name="New" id="011e36f8-2fb9-42a4-837f-68530dc7da01" access="public" isTransient="false" isVolatile="false" isConstant="true" returnType="innovasys.rssreader.RssItemState" returnTypeDimension=""/>
+                <field name="Unread" id="0109ad85-c6e4-4404-b165-d638b52d5ab2" access="public" isTransient="false" isVolatile="false" isConstant="true" returnType="innovasys.rssreader.RssItemState" returnTypeDimension=""/>
+                <field name="Read" id="70b8e26c-572b-4436-892d-3c1e060c59a6" access="public" isTransient="false" isVolatile="false" isConstant="true" returnType="innovasys.rssreader.RssItemState" returnTypeDimension=""/>
+            </fields>
+        </enum>
+        <class name="innovasys.rssreader.RssItemCollection" id="48385dea-5c5d-48bc-92ef-28e031dc2b1f" inheritsFrom="java.util.ArrayList" inheritanceHierarchy="java.lang.Object|java.util.AbstractCollection|java.util.AbstractList|java.util.ArrayList|innovasys.rssreader.RssItemCollection" isAbstract="false" isSealed="false" access="public">
+            <methods>
+                <method name="ItemById" id="827b721b-d5df-4251-833e-c9578f949f1f" sig="ItemById(java.lang.String)" returnType="innovasys.rssreader.RssItem" returnTypeDimension="" isAbstract="false" isStatic="false" isSealed="true" access="public" isOverloaded="false" isNative="false" isSynchronized="false" isSynthetic="false">
+                    <parameters>
+                        <parameter name="id" returnType="java.lang.String" returnTypeDimension=""/>
+                    </parameters>
+                </method>
+            </methods>
+            <constructors>
+                <constructor id="c2b287e1-d598-41a1-b596-036ea2bfa146" sig="RssItemCollection()" access="public" isStatic="false" isSealed="false"/>
+            </constructors>
+        </class>
+        <class name="innovasys.rssreader.RssItem" id="87070657-7788-4df0-9f61-9900c6d19dfb" inheritsFrom="java.lang.Object" inheritanceHierarchy="java.lang.Object|innovasys.rssreader.RssItem" isAbstract="false" isSealed="false" access="public">
+            <interfaces>
+                <interface name="java.io.Serializable"/>
+            </interfaces>
+            <methods>
+                <method name="getTitle" id="80922c21-77b2-4231-ab38-2ab34a44cffc" sig="getTitle()" returnType="java.lang.String" returnTypeDimension="" isAbstract="false" isStatic="false" isSealed="true" access="public" isOverloaded="false" isNative="false" isSynchronized="false" isSynthetic="false"/>
+                <method name="getDescription" id="a3048eb0-891a-4d2d-afff-d1324fec9239" sig="getDescription()" returnType="java.lang.String" returnTypeDimension="" isAbstract="false" isStatic="false" isSealed="true" access="public" isOverloaded="false" isNative="false" isSynchronized="false" isSynthetic="false"/>
+                <method name="getLink" id="b41ec759-389b-420a-b891-5aeed0f30db0" sig="getLink()" returnType="java.lang.String" returnTypeDimension="" isAbstract="false" isStatic="false" isSealed="true" access="public" isOverloaded="false" isNative="false" isSynchronized="false" isSynthetic="false"/>
+                <method name="getModifiedOn" id="732ca946-07f9-4dba-b50c-40ec782d6cf6" sig="getModifiedOn()" returnType="java.util.Date" returnTypeDimension="" isAbstract="false" isStatic="false" isSealed="true" access="public" isOverloaded="false" isNative="false" isSynchronized="false" isSynthetic="false"/>
+                <method name="getId" id="29aeef6f-cdf1-492a-9257-a6edd381564b" sig="getId()" returnType="java.lang.String" returnTypeDimension="" isAbstract="false" isStatic="false" isSealed="true" access="public" isOverloaded="false" isNative="false" isSynchronized="false" isSynthetic="false"/>
+                <method name="getState" id="6adfc80d-82a7-43d9-afed-0eae7b87e6b6" sig="getState()" returnType="innovasys.rssreader.RssItemState" returnTypeDimension="" isAbstract="false" isStatic="false" isSealed="true" access="public" isOverloaded="false" isNative="false" isSynchronized="false" isSynthetic="false"/>
+                <method name="setState" id="5f6a1e77-b6da-4652-b90f-c2059c4228dc" sig="setState(innovasys.rssreader.RssItemState)" returnType="void" returnTypeDimension="" isAbstract="false" isStatic="false" isSealed="true" access="public" isOverloaded="false" isNative="false" isSynchronized="false" isSynthetic="false">
+                    <parameters>
+                        <parameter name="value" returnType="innovasys.rssreader.RssItemState" returnTypeDimension=""/>
+                    </parameters>
+                </method>
+                <method name="getParentFeed" id="c22a6f10-4364-427a-bdd2-44addd764f08" sig="getParentFeed()" returnType="innovasys.rssreader.RssFeed" returnTypeDimension="" isAbstract="false" isStatic="false" isSealed="true" access="public" isOverloaded="false" isNative="false" isSynchronized="false" isSynthetic="false"/>
+                <method name="setParentFeed" id="ac17cfac-3b57-4fdb-8330-1358959a8afd" sig="setParentFeed(innovasys.rssreader.RssFeed)" returnType="void" returnTypeDimension="" isAbstract="false" isStatic="false" isSealed="true" access="public" isOverloaded="false" isNative="false" isSynchronized="false" isSynthetic="false">
+                    <parameters>
+                        <parameter name="value" returnType="innovasys.rssreader.RssFeed" returnTypeDimension=""/>
+                    </parameters>
+                </method>
+            </methods>
+            <constructors>
+                <constructor id="edbf4261-04d6-4eb3-9bab-3066d8f6cf2b" sig="RssItem(java.lang.String, java.lang.String)" access="public" isStatic="false" isSealed="false">
+                    <parameters>
+                        <parameter name="title" returnType="java.lang.String" returnTypeDimension=""/>
+                        <parameter name="link" returnType="java.lang.String" returnTypeDimension=""/>
+                    </parameters>
+                </constructor>
+                <constructor id="8b252a7e-a7d2-4609-a438-11aaeeea9ea3" sig="RssItem(java.lang.String, java.lang.String, java.lang.String, java.util.Date)" access="public" isStatic="false" isSealed="false">
+                    <parameters>
+                        <parameter name="title" returnType="java.lang.String" returnTypeDimension=""/>
+                        <parameter name="description" returnType="java.lang.String" returnTypeDimension=""/>
+                        <parameter name="link" returnType="java.lang.String" returnTypeDimension=""/>
+                        <parameter name="modifiedOn" returnType="java.util.Date" returnTypeDimension=""/>
+                    </parameters>
+                </constructor>
+                <constructor id="a72ea765-6b1d-478f-8291-796026f6b9a9" sig="RssItem(java.lang.String, java.lang.String, java.lang.String, java.util.Date, innovasys.rssreader.RssItemState)" access="public" isStatic="false" isSealed="false">
+                    <parameters>
+                        <parameter name="title" returnType="java.lang.String" returnTypeDimension=""/>
+                        <parameter name="description" returnType="java.lang.String" returnTypeDimension=""/>
+                        <parameter name="link" returnType="java.lang.String" returnTypeDimension=""/>
+                        <parameter name="modifiedOn" returnType="java.util.Date" returnTypeDimension=""/>
+                        <parameter name="state" returnType="innovasys.rssreader.RssItemState" returnTypeDimension=""/>
+                    </parameters>
+                </constructor>
+            </constructors>
+        </class>
+        <class name="innovasys.rssreader.RssFeedCollection" id="3a8333f5-f4c5-4526-b0df-cc12abb1bfea" inheritsFrom="java.util.ArrayList" inheritanceHierarchy="java.lang.Object|java.util.AbstractCollection|java.util.AbstractList|java.util.ArrayList|innovasys.rssreader.RssFeedCollection" isAbstract="false" isSealed="false" access="public">
+            <interfaces>
+                <interface name="java.io.Serializable"/>
+            </interfaces>
+            <methods>
+                <method name="ItemByName" id="be967a9f-ccba-49ce-88a0-721a78d2d6a7" sig="ItemByName(java.lang.String)" returnType="innovasys.rssreader.RssFeed" returnTypeDimension="" isAbstract="false" isStatic="false" isSealed="true" access="public" isOverloaded="false" isNative="false" isSynchronized="false" isSynthetic="false">
+                    <parameters>
+                        <parameter name="name" returnType="java.lang.String" returnTypeDimension=""/>
+                    </parameters>
+                </method>
+            </methods>
+            <constructors>
+                <constructor id="72751189-5af1-4cd8-8d1c-4be823d450e4" sig="RssFeedCollection()" access="public" isStatic="false" isSealed="false"/>
+            </constructors>
+        </class>
+        <class name="innovasys.rssreader.RssFeed" id="362ac825-e68e-4be7-9889-5fcad7b5d862" inheritsFrom="java.lang.Object" inheritanceHierarchy="java.lang.Object|innovasys.rssreader.RssFeed" isAbstract="false" isSealed="false" access="public">
+            <interfaces>
+                <interface name="java.io.Serializable"/>
+            </interfaces>
+            <methods>
+                <method name="getRssItems" id="206de9d0-bcbd-480c-8932-5f14d2cc4ed5" sig="getRssItems()" returnType="innovasys.rssreader.RssItemCollection" returnTypeDimension="" isAbstract="false" isStatic="false" isSealed="true" access="public" isOverloaded="false" isNative="false" isSynchronized="false" isSynthetic="false"/>
+                <method name="getUrl" id="263e0d6a-6d06-46e7-98b9-cd2e28911480" sig="getUrl()" returnType="java.lang.String" returnTypeDimension="" isAbstract="false" isStatic="false" isSealed="true" access="public" isOverloaded="false" isNative="false" isSynchronized="false" isSynthetic="false"/>
+                <method name="getDescription" id="b6caab93-9aa5-430b-beb2-d3bcac018a8c" sig="getDescription()" returnType="java.lang.String" returnTypeDimension="" isAbstract="false" isStatic="false" isSealed="true" access="public" isOverloaded="false" isNative="false" isSynchronized="false" isSynthetic="false"/>
+                <method name="getName" id="7020391e-78d6-4d78-a505-5df26e607996" sig="getName()" returnType="java.lang.String" returnTypeDimension="" isAbstract="false" isStatic="false" isSealed="true" access="public" isOverloaded="false" isNative="false" isSynchronized="false" isSynthetic="false"/>
+                <method name="getModifiedOn" id="92364543-bfb8-42b8-bd05-b17d122cf898" sig="getModifiedOn()" returnType="java.util.Date" returnTypeDimension="" isAbstract="false" isStatic="false" isSealed="true" access="public" isOverloaded="false" isNative="false" isSynchronized="false" isSynthetic="false"/>
+                <method name="UpdateFeed" id="e274eb25-ab0c-467f-8039-7d95d187b326" sig="UpdateFeed()" returnType="innovasys.rssreader.RssFeedCollection" returnTypeDimension="" isAbstract="false" isStatic="false" isSealed="true" access="public" isOverloaded="false" isNative="false" isSynchronized="false" isSynthetic="false"/>
+                <method name="DeleteRssItem" id="295e88c4-039b-43e5-a0c5-4fa259cd17a5" sig="DeleteRssItem(innovasys.rssreader.RssItem)" returnType="void" returnTypeDimension="" isAbstract="false" isStatic="false" isSealed="true" access="public" isOverloaded="false" isNative="false" isSynchronized="false" isSynthetic="false">
+                    <parameters>
+                        <parameter name="item" returnType="innovasys.rssreader.RssItem" returnTypeDimension=""/>
+                    </parameters>
+                </method>
+                <method name="DeleteRssItem" id="91449421-63b4-4bec-89a7-abfb7988cda6" sig="DeleteRssItem(java.lang.String)" returnType="void" returnTypeDimension="" isAbstract="false" isStatic="false" isSealed="true" access="public" isOverloaded="false" isNative="false" isSynchronized="false" isSynthetic="false">
+                    <parameters>
+                        <parameter name="rssItemId" returnType="java.lang.String" returnTypeDimension=""/>
+                    </parameters>
+                </method>
+                <method name="GetRssXml" id="a8272806-b660-4b50-bb92-2ada0f3cc85d" sig="GetRssXml(java.lang.String)" returnType="java.lang.String" returnTypeDimension="" isAbstract="false" isStatic="false" isSealed="false" access="public" isOverloaded="false" isNative="false" isSynchronized="false" isSynthetic="false">
+                    <parameters>
+                        <parameter name="url" returnType="java.lang.String" returnTypeDimension=""/>
+                    </parameters>
+                </method>
+            </methods>
+            <constructors>
+                <constructor id="a1fefe2b-5feb-4795-a700-5c4ed7ff8235" sig="RssFeed(java.lang.String)" access="public" isStatic="false" isSealed="false">
+                    <parameters>
+                        <parameter name="url" returnType="java.lang.String" returnTypeDimension=""/>
+                    </parameters>
+                </constructor>
+            </constructors>
+        </class>
+    </namespace>
+</Api>

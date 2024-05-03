@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ContentFile Version="2010" Moniker="&lt;JavaProject ProjectName=&quot;RssReaderJavaAPI&quot; IncludePrivateTypes=&quot;false&quot; IncludePrivateMembers=&quot;false&quot;&gt;&#xD;&#xA;  &lt;PackageNames&gt;&#xD;&#xA;    &lt;PackageName IsRecursive=&quot;true&quot;&gt;innovasys&lt;/PackageName&gt;&#xD;&#xA;  &lt;/PackageNames&gt;&#xD;&#xA;  &lt;SourcePaths&gt;&#xD;&#xA;    &lt;SourcePath Directory=&quot;..\..\..\..\..\repos\renatus\.writableconfig\samples\dx.java\rssreader\src&quot; /&gt;&#xD;&#xA;  &lt;/SourcePaths&gt;&#xD;&#xA;&lt;/JavaProject&gt;" DocType="DX.JAVA" IsLocalizationDisabled="false">
+  <RelatedProject>JavaSample.dxp</RelatedProject>
+  <State>
+    <Attributes>
+      <Assembly key="dtscrollpos" valuetype="integer">0</Assembly>
+      <Assembly key="inheritedMembers" valuetype="string">on</Assembly>
+      <Assembly key="protectedMembers" valuetype="string">on</Assembly>
+    </Attributes>
+  </State>
+  <LastSelectedItem>Rss Reader Java API~innovasys.rssreader.RssManager</LastSelectedItem>
+  <item qn="RssReaderJavaAPI~innovasys.rssreader.RssManager">
+    <summary ChangeDateTime="2015-11-11T21:11:18.4332066Z">&lt;P&gt;Represents a collection of RssFeed items, with methods for managing the set.&lt;/P&gt;</summary>
+  </item>
+  <item qn="RssReaderJavaAPI~innovasys.rssreader.RssItemCollection">
+    <module_is_collection ChangeDateTime="2011-11-29T17:22:25.0230054Z" />
+    <summary ChangeDateTime="2016-08-20T20:30:48.6137586Z">A collection for %RssItem% objects.</summary>
+  </item>
+  <item qn="RssReaderJavaAPI~innovasys.rssreader.RssFeedCollection">
+    <module_is_collection ChangeDateTime="2011-11-29T17:22:21.4320054Z" />
+    <summary ChangeDateTime="2016-08-20T20:30:38.0105024Z">A collection for %RssFeed% objects.</summary>
+  </item>
+  <item qn="RssReaderJavaAPI~innovasys.rssreader.RssFeed">
+    <summary ChangeDateTime="2016-08-20T20:28:53.9300995Z">Represents a single RSS Feed.</summary>
+  </item>
+  <item qn="RssReaderJavaAPI~innovasys.rssreader.RssItem">
+    <summary ChangeDateTime="2016-08-20T20:28:58.9705527Z">Represents a single RSS news item.</summary>
+  </item>
+  <item qn="RssReaderJavaAPI~innovasys.rssreader.RssItem~setParentFeed">
+    <summary ChangeDateTime="2016-08-20T20:29:57.7264008Z">&lt;P&gt;Sets the parent feed.&lt;/P&gt;</summary>
+  </item>
+  <item qn="RssReaderJavaAPI~innovasys.rssreader.RssItem~setState">
+    <summary ChangeDateTime="2016-08-20T20:30:07.5985159Z">&lt;P&gt;Sets the state.&lt;/P&gt;</summary>
+  </item>
+  <item qn="RssReaderJavaAPI~innovasys.rssreader_namespace">
+    <summary ChangeDateTime="2016-08-20T20:31:14.1020053Z">Main library package containing the RssReader types.</summary>
+  </item>
+  <Filters>
+    <CONTENTSTORECOMMON>
+      <IsIncludedItemsOnly>true</IsIncludedItemsOnly>
+    </CONTENTSTORECOMMON>
+    <CONTENTSTORELOCALIZATION>
+      <IsPrimaryLocaleContentPreviewEnabled>true</IsPrimaryLocaleContentPreviewEnabled>
+    </CONTENTSTORELOCALIZATION>
+    <DX.JAVACONTENTSTOREFILTER>
+      <ShowProtectedMembers>true</ShowProtectedMembers>
+      <ShowProtectedFriendMembers>true</ShowProtectedFriendMembers>
+      <ShowFriendMembers>false</ShowFriendMembers>
+      <ShowPrivateMembers>false</ShowPrivateMembers>
+      <ShowInheritedMembers>false</ShowInheritedMembers>
+      <IsSourceCodeContentVisible>true</IsSourceCodeContentVisible>
+    </DX.JAVACONTENTSTOREFILTER>
+  </Filters>
+</ContentFile>
