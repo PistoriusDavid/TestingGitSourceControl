@@ -3,7 +3,7 @@
   <Features>
     <Feature>Document! X</Feature>
   </Features>
-  <SeparateFiles>false</SeparateFiles>
+  <SeparateFiles>true</SeparateFiles>
   <Flags>
     <Flag Id="{46CEF21D-3301-4517-A875-A0906828390E}" HighlightColor="#FFA1FFD0">Exclude from Online</Flag>
     <Flag Id="{4AAE0FD4-7313-4FEE-A25F-0785B885F736}" HighlightColor="#FFFFFFA1">Exclude from Booklet</Flag>
@@ -41,10 +41,6 @@
   </XsdProjectPlugin>
   <GlossaryProjectPlugin>
     <IsGlossaryOutputEnabled>true</IsGlossaryOutputEnabled>
-    <Glossary>
-      <GlossaryItems />
-      <Title />
-    </Glossary>
   </GlossaryProjectPlugin>
   <WebServiceProjectPlugin>
     <WebServices />
@@ -59,35 +55,9 @@
     <DefaultCaptureDirectory></DefaultCaptureDirectory>
   </OtherFilesProjectPlugin>
   <SourceControlProjectPlugin />
-  <TasksProjectPlugin>
-    <Tasks>
-      <TaskItems />
-    </Tasks>
-  </TasksProjectPlugin>
+  <TasksProjectPlugin />
   <BookletsProjectPlugin />
-  <TableOfContents>
-    <TocLayout Id="c7552482-a1ae-44a2-a9fc-c757d62b5073">
-      <Name />
-      <Description />
-      <RootNodes>
-        <TocNode Name="" Id="1702e7ec-de1b-4680-af86-b39a76157c43" IconIndex="-1" IsNew="false" Target="" DependsOnItemTypeName="" DependsOnItemTypeFilter="" DependsOnMinimumCount="0" DependsOnStillProcessChildNodes="false" BuildFlags="" NodeType="PROJECTITEM">
-          <CaptionTemplate />
-          <ChildNodes />
-          <TargetItemId>24e6cf6b-fb5c-4887-9a4f-78b5ad9c1c4f</TargetItemId>
-          <TargetItemBookmark></TargetItemBookmark>
-        </TocNode>
-        <TocNode Name="" Id="7d40a682-0e3c-4b85-a4ab-55c8aaa48fe4" IconIndex="-1" IsNew="false" Target="" DependsOnItemTypeName="" DependsOnItemTypeFilter="" DependsOnMinimumCount="0" DependsOnStillProcessChildNodes="false" BuildFlags="" NodeType="PROJECTITEM">
-          <CaptionTemplate />
-          <ChildNodes />
-          <TargetItemId>6f7bbe28-d6dd-4e4a-80ee-2f8ede9bfb0b</TargetItemId>
-          <TargetItemBookmark></TargetItemBookmark>
-        </TocNode>
-        <TocNode Name="" DependsOnItemTypeName="" Id="6b8e88c2-71cb-4375-9e5c-e3fd26defcb6" IconIndex="-1" IsNew="false" Target="" DependsOnItemTypeFilter="" DependsOnMinimumCount="0" DependsOnStillProcessChildNodes="false" BuildFlags="" NodeType="ALLTEMPLATETOCS">
-          <ChildNodes />
-        </TocNode>
-      </RootNodes>
-    </TocLayout>
-  </TableOfContents>
+  <TableOfContents />
   <TopicsProjectPlugin>
     <TopicCategories>
       <TopicCategory Id="-" AutoIndex="false">
@@ -104,49 +74,8 @@
         <Caption m="2011-11-29T17:13:55.3821902Z">Introduction</Caption>
         <ChildTopicCategories />
         <Topics>
-          <Topic Id="24e6cf6b-fb5c-4887-9a4f-78b5ad9c1c4f" Status="New Topic" CreatedOn="2011-11-29T17:13:55.3911776Z" ModifiedOn="2011-11-29T17:13:55.3931748Z" PageTypeName="" AutoIndex="true" HelpContextIds="" Name="WhatIsRSS" BuildFlags="">
-            <Title />
-            <ContentsTitle />
-            <Notes></Notes>
-            <CanonicalLink></CanonicalLink>
-            <TopicSections>
-              <TopicSection Name="BodyText">
-                <Content m="2010-03-07T22:27:56.5739398Z">&lt;H1&gt;What Is RSS&lt;/H1&gt;
-&lt;P&gt;RSS (most commonly expanded as "Really Simple Syndication") is a family of web feed formats used to publish frequently updated works. An RSS document (which is called a "feed", "web feed", or "channel") includes full or summarized text, plus metadata such as publishing dates and authorship. Web feeds benefit publishers by letting them syndicate content automatically. &lt;/P&gt;
-&lt;P&gt;They benefit readers who want to subscribe to timely updates from favored websites or to aggregate feeds from many sites into one place. RSS feeds can be read using software called an "RSS reader", "feed reader", or "aggregator", which can be web-based, desktop-based, or mobile-device-based. &lt;/P&gt;
-&lt;P&gt;A standardized XML file format allows the information to be published once and viewed by many different programs. The user subscribes to a feed by entering into the reader the feed's URL or by clicking an RSS icon in a web browser that initiates the subscription process. The RSS reader checks the user's subscribed feeds regularly for new work, downloads any updates that it finds, and provides a UI to monitor and read the feeds.&lt;/P&gt;
-&lt;H1&gt;History&lt;/H1&gt;
-&lt;P&gt;RSS formats are specified using XML, a generic specification for the creation of data formats. Although RSS formats have evolved from as early as March 1999, it was between 2005 and 2006 when RSS gained widespread use, and the &lt;IMG border=0 alt="" src="images/RSS Feed.png"&gt; icon was decided upon by several major Web browsers.&lt;/P&gt;</Content>
-              </TopicSection>
-            </TopicSections>
-            <TopicLinks>
-              <TopicLink BuildFlags="" Id="fa7bde6f-d09a-489c-a609-5478d3c2ce62" CategoryId="" TopicLinkCategorySource="SpecificValue" Target="http://en.wikipedia.org/wiki/RSS">
-                <Title m="2010-03-04T13:35:15.8228698Z">RSS - Wikipedia</Title>
-                <Category />
-              </TopicLink>
-            </TopicLinks>
-            <TopicKeywords />
-            <PropertyDefinitionValues />
-            <ExcludedOtherFiles />
-          </Topic>
-          <Topic Id="6f7bbe28-d6dd-4e4a-80ee-2f8ede9bfb0b" Status="New Topic" CreatedOn="2011-11-29T17:13:55.3961706Z" ModifiedOn="2011-11-29T17:13:55.3961706Z" PageTypeName="" AutoIndex="true" HelpContextIds="" Name="RSSSyntax" BuildFlags="">
-            <Title m="2010-03-04T13:23:00.3239488Z">RSS Syntax</Title>
-            <ContentsTitle />
-            <Notes></Notes>
-            <CanonicalLink></CanonicalLink>
-            <TopicSections>
-              <TopicSection Name="BodyText">
-                <Content m="2010-03-04T13:35:51.0657313Z">&lt;P&gt;RSS defines an XML grammar (a set of HTML-like tags) for sharing news. Each RSS text file contains both static information about your site, plus dynamic information about your new stories, all surrounded by matching start and end tags.&lt;/P&gt;
-&lt;P&gt;Each story is defined by an &amp;lt;item&amp;gt; tag, which contains a headline TITLE, URL, and DESCRIPTION. Here's an example:&lt;/P&gt;&lt;?xml:namespace prefix = innovasys ns = "http://www.innovasys.com/widgets" /&gt;&lt;innovasys:widget type="Colorized Example Code" layout="block"&gt;&lt;innovasys:widgetproperty layout="inline" name="Title"&gt;RSS Syntax&lt;/innovasys:widgetproperty&gt; &lt;innovasys:widgetproperty layout="inline" name="LanguageName"&gt;XML&lt;/innovasys:widgetproperty&gt; &lt;innovasys:widgetproperty layout="block" name="Content"&gt;
-&lt;P&gt;&amp;lt;item&amp;gt;&lt;BR&gt;&amp;nbsp; &amp;lt;title&amp;gt;RSS Resources&amp;lt;/title&amp;gt;&lt;BR&gt;&amp;nbsp; &amp;lt;link&amp;gt;http://www.webreference.com/authoring/languages/xml/rss/&amp;lt;/link&amp;gt;&lt;BR&gt;&amp;nbsp; &amp;lt;description&amp;gt;Defined in XML, the Rich Site Summary (RSS) format has&lt;BR&gt;&amp;nbsp; quietly become a dominant format for distributing headlines on the Web.&lt;BR&gt;&amp;nbsp; Our list of links gives you the tools, tips and tutorials you need to get&lt;BR&gt;&amp;nbsp; started using RSS. 0323&amp;lt;/description&amp;gt;&lt;BR&gt;&amp;lt;/item&amp;gt;&lt;/P&gt;&lt;/innovasys:widgetproperty&gt;&lt;/innovasys:widget&gt;
-&lt;P&gt;&amp;nbsp;&lt;/P&gt;</Content>
-              </TopicSection>
-            </TopicSections>
-            <TopicLinks />
-            <TopicKeywords />
-            <PropertyDefinitionValues />
-            <ExcludedOtherFiles />
-          </Topic>
+          <Topic Id="24e6cf6b-fb5c-4887-9a4f-78b5ad9c1c4f" />
+          <Topic Id="6f7bbe28-d6dd-4e4a-80ee-2f8ede9bfb0b" />
         </Topics>
       </TopicCategory>
     </TopicCategories>
