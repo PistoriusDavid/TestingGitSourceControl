@@ -1,0 +1,568 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ContentFile Version="2010" Moniker="..\..\..\..\..\windows\system32\scrrun.dll" DocType="DX.COM" IsLocalizationDisabled="false">
+  <RelatedProject>COMSample.dxp</RelatedProject>
+  <State>
+    <Attributes>
+      <Assembly key="dtscrollpos" valuetype="integer">0</Assembly>
+    </Attributes>
+  </State>
+  <LastSelectedItem>Scripting~Folder</LastSelectedItem>
+  <item qn="Scripting">
+    <summary ChangeDateTime="2006-02-07T09:37:06Z">&lt;P&gt;This is a Document! X sample for COM Component documentation. &lt;/P&gt;
+&lt;P&gt;The first class, Dictionary, is fully documented, illustrating authoring of Summary, Remarks, Returns, See Also, Keywords&amp;nbsp;and Example content.&lt;/P&gt;</summary>
+  </item>
+  <item qn="Scripting~Dictionary">
+    <remarks ChangeDateTime="2006-02-07T09:37:06Z">A &lt;B&gt;Dictionary&lt;/B&gt; object is the equivalent of a PERL associative array. Items can be any form of data, and are stored in the array. Each item is associated with a unique key. The key is used to retrieve an individual item and is usually an integer or a string, but can be anything except an array.</remarks>
+    <summary ChangeDateTime="2006-02-07T09:37:06Z">Object that stores data key, item pairs.</summary>
+    <examplecode ChangeDateTime="2006-02-07T09:37:06Z" title="Using the Dictionary Object" description="" pagetype="" inline="true" escaped="false" id="ec66c7fb-f2f2-4d16-8df4-7fe58d31fd00" lang="JScript">var y = new ActiveXObject("Scripting.Dictionary");
+y.add ("a", "test");
+if (y.Exists("a"))
+   document.write("true");
+...</examplecode>
+    <examplecode ChangeDateTime="2006-02-07T09:37:06Z" title="Using the Dictionary Object" description="" pagetype="" inline="true" escaped="false" id="90b7e581-2f6f-46bf-bbb2-9ebe2d554b01" lang="VB">Dim d   ' Create a variable.
+Set d = CreateObject("Scripting.Dictionary")
+d.Add "a", "Athens"   ' Add some keys and items.
+d.Add "b", "Belgrade"
+d.Add "c", "Cairo"
+...</examplecode>
+    <exampleintro ChangeDateTime="2006-02-07T09:37:06Z">The following code illustrates how to create a &lt;B&gt;Dictionary&lt;/B&gt; object:</exampleintro>
+    <seealso ChangeDateTime="2006-02-07T09:37:06Z" cref="Scripting~FileSystemObject" cat="" id="198546ed-03b3-4e8c-8989-cf6bdd0e77ae">FileSystemObject Module</seealso>
+    <seealso ChangeDateTime="2006-02-07T09:37:06Z" cref="Scripting~TextStream" cat="" id="3a4afb52-ac78-49f5-82e3-261bb9db9af3">TextStream Module</seealso>
+  </item>
+  <item qn="Scripting~Dictionary~Add">
+    <summary ChangeDateTime="2006-02-07T09:37:06Z">Adds a key and item pair to a &lt;B&gt;Dictionary&lt;/B&gt; object.</summary>
+    <remarks ChangeDateTime="2006-02-07T09:37:06Z">&lt;P&gt;&lt;/P&gt;
+&lt;P&gt;An error occurs if the &lt;I&gt;key&lt;/I&gt; already exists.&lt;/P&gt;
+&lt;P&gt;&lt;/P&gt;</remarks>
+    <exampleintro ChangeDateTime="2006-02-07T09:37:06Z">&lt;P&gt;The following example illustrates the use of the &lt;B&gt;Add&lt;/B&gt; method. &lt;/P&gt;</exampleintro>
+    <examplecode ChangeDateTime="2006-02-07T09:37:06Z" title="Adding an item to the Dictionary" description="" pagetype="" inline="true" escaped="false" id="368fb022-c29f-48ba-9751-044854ced49a" lang="JScript">var d;
+d = new ActiveXObject("Scripting.Dictionary");
+d.Add("a", "Athens");
+d.Add("b", "Belgrade");
+d.Add("c", "Cairo");</examplecode>
+    <examplecode ChangeDateTime="2006-02-07T09:37:06Z" title="Adding an item to the Dictionary" description="" pagetype="" inline="true" escaped="false" id="2d242900-b7ea-49be-9a4e-8bfb94fc667a" lang="VB">Dim d   ' Create a variable.
+Set d = CreateObject("Scripting.Dictionary")
+d.Add "a", "Athens"   ' Add some keys and items.
+d.Add "b", "Belgrade"
+d.Add "c", "Cairo"</examplecode>
+    <seealso ChangeDateTime="2006-02-07T09:37:06Z" cref="Scripting~Folders~Add" cat="" id="65b4afa9-b032-4e64-8797-4dffcffba23f">Add Method</seealso>
+    <seealso ChangeDateTime="2006-02-07T09:37:06Z" cref="Scripting~Dictionary~Exists" cat="" id="3bbfd839-61d3-4314-b91f-4942bb57cc6c">Exists Method</seealso>
+    <seealso ChangeDateTime="2006-02-07T09:37:06Z" cref="Scripting~Dictionary~Items" cat="" id="88fca104-cf4c-4d97-9700-25b974a5d5f3">Items Method</seealso>
+    <seealso ChangeDateTime="2006-02-07T09:37:06Z" cref="Scripting~Dictionary~Keys" cat="" id="6512e771-09e6-4b9a-a2d7-dd840d4fe3b3">Keys Method</seealso>
+    <seealso ChangeDateTime="2006-02-07T09:37:06Z" cref="Scripting~Dictionary~Remove" cat="" id="8533d288-1a85-4068-8b7a-b9d657022441">Remove Method</seealso>
+    <seealso ChangeDateTime="2006-02-07T09:37:06Z" cref="Scripting~Dictionary~RemoveAll" cat="" id="f506d3e0-5686-4794-a718-fb0bfe10046e">RemoveAll Method</seealso>
+  </item>
+  <item qn="Scripting~Dictionary~Add:Key">
+    <param ChangeDateTime="2006-02-07T09:37:06Z">The &lt;I&gt;key&lt;/I&gt; associated with the &lt;I&gt;item&lt;/I&gt; being added.</param>
+  </item>
+  <item qn="Scripting~Dictionary~Add:Item">
+    <param ChangeDateTime="2006-02-07T09:37:06Z">The &lt;I&gt;item&lt;/I&gt; associated with the &lt;I&gt;key&lt;/I&gt; being added.</param>
+  </item>
+  <item qn="Scripting~Dictionary~Exists">
+    <summary ChangeDateTime="2006-02-07T09:37:06Z">Returns &lt;B&gt;true&lt;/B&gt; if a specified key exists in the &lt;B&gt;Dictionary&lt;/B&gt; object, &lt;B&gt;false&lt;/B&gt; if it does not.</summary>
+    <exampleintro ChangeDateTime="2006-02-07T09:37:06Z">&lt;P&gt;The following example illustrates the use of the &lt;B&gt;Exists&lt;/B&gt; method. &lt;/P&gt;</exampleintro>
+    <examplecode ChangeDateTime="2006-02-07T09:37:06Z" title="Checking if an item exists" description="" pagetype="" inline="true" escaped="false" id="1406aa28-bca6-4125-a03e-8b15ab595085" lang="JScript">function keyExists(k)
+{
+   var fso, s = "";
+   d = new ActiveXObject("Scripting.Dictionary");
+   d.Add("a", "Athens");
+   d.Add("b", "Belgrade");
+   d.Add("c", "Cairo");
+   if (d.Exists(k))
+      s += "Specified key exists.";
+   else 
+      s += "Specified key doesn't exist.";
+   return(s);
+}</examplecode>
+    <examplecode ChangeDateTime="2006-02-07T09:37:06Z" title="Checking if an item exists" description="" pagetype="" inline="true" escaped="false" id="3c2c8236-2764-4b1f-b145-f39564fe4daf" lang="VB">Function KeyExistsDemo
+   Dim d, msg   ' Create some variables.
+   Set d = CreateObject("Scripting.Dictionary")
+   d.Add "a", "Athens"   ' Add some   keys and items.
+   d.Add "b", "Belgrade"
+   d.Add "c", "Cairo"
+   If d.Exists("c") Then
+      msg = "Specified key exists."
+   Else
+      msg = "Specified key doesn't exist."
+   End If
+   KeyExistsDemo = msg
+End Function</examplecode>
+    <seealso ChangeDateTime="2006-02-07T09:37:06Z" cref="Scripting~Dictionary~Add" cat="" id="1c69e009-837c-4ea0-b5dc-ef3344ef90c4">Add Method</seealso>
+    <seealso ChangeDateTime="2006-02-07T09:37:06Z" cref="Scripting~Dictionary~Items" cat="" id="ec34c076-3375-4ffa-9653-a1386d553cfe">Items Method</seealso>
+    <seealso ChangeDateTime="2006-02-07T09:37:06Z" cref="Scripting~Dictionary~Keys" cat="" id="ce7d5904-882c-4fff-9c8c-09712192a6fa">Keys Method</seealso>
+    <seealso ChangeDateTime="2006-02-07T09:37:06Z" cref="Scripting~Dictionary~Remove" cat="" id="c5509c52-0273-456c-b18c-287bfdacc993">Remove Method</seealso>
+    <seealso ChangeDateTime="2006-02-07T09:37:06Z" cref="Scripting~Dictionary~RemoveAll" cat="" id="cb4a7281-4e19-43a7-8672-7e675f92fef5">RemoveAll Method</seealso>
+  </item>
+  <item qn="Scripting~Dictionary~Exists:Key">
+    <param ChangeDateTime="2006-02-07T09:37:06Z">&lt;EM&gt;Key&lt;/EM&gt; value being searched for in the &lt;B&gt;Dictionary&lt;/B&gt; object.</param>
+  </item>
+  <item qn="Scripting~Dictionary~Items">
+    <summary ChangeDateTime="2006-02-07T09:37:06Z">Returns an array containing all the items in a &lt;B&gt;Dictionary&lt;/B&gt; object.</summary>
+    <exampleintro ChangeDateTime="2006-02-07T09:37:06Z">&lt;P&gt;The following code illustrates use of the &lt;B&gt;Items&lt;/B&gt; method: &lt;/P&gt;</exampleintro>
+    <examplecode ChangeDateTime="2006-02-07T09:37:06Z" title="Using the Items" description="" pagetype="" inline="true" escaped="false" id="0e40f6c6-4cb0-4c2e-8bae-df5cf1c212b8" lang="JScript">function ItemsDemo()
+{
+   var a, d, i, s;                  // Create some variables.
+   d = new ActiveXObject("Scripting.Dictionary");  
+   d.Add ("a", "Athens");              // Add some keys and items.
+   d.Add ("b", "Belgrade");
+   d.Add ("c", "Cairo");
+   a = (new VBArray(d.Items())).toArray();   // Get the items.
+   s = "";
+   for (i in a)                  // Iterate the dictionary.
+   {
+      s += a[i] + "&lt;br&gt;";
+   }
+   return(s);                     // Return the results.
+}</examplecode>
+    <examplecode ChangeDateTime="2006-02-07T09:37:06Z" title="Using the Items" description="" pagetype="" inline="true" escaped="false" id="45417d40-d7ab-4f7c-b041-42c7380b0cf0" lang="VB">Function DicDemo
+   Dim a, d, i, s   ' Create some variables.
+   Set d = CreateObject("Scripting.Dictionary")
+   d.Add "a", "Athens"   ' Add some keys and items.
+   d.Add "b", "Belgrade"
+   d.Add "c", "Cairo"
+   a = d.Items   ' Get the items.
+   For i = 0 To d.Count -1 ' Iterate the array.
+      s = s &amp; a(i) &amp; "&lt;BR&gt;" ' Create return string.
+   Next
+   DicDemo = s
+End Function</examplecode>
+    <seealso ChangeDateTime="2006-02-07T09:37:06Z" cref="Scripting~Dictionary~Add" cat="" id="41b74501-0386-410d-a1a3-47dd0380df99">Add Method</seealso>
+    <seealso ChangeDateTime="2006-02-07T09:37:06Z" cref="Scripting~Dictionary~Exists" cat="" id="95e04595-e678-4565-af48-33d10c5945df">Exists Method</seealso>
+    <seealso ChangeDateTime="2006-02-07T09:37:06Z" cref="Scripting~Dictionary~Keys" cat="" id="6bff9485-ac9a-4a24-8d11-09eb51fd103f">Keys Method</seealso>
+    <seealso ChangeDateTime="2006-02-07T09:37:06Z" cref="Scripting~Dictionary~Remove" cat="" id="cce6d480-fca4-4556-8a7b-ac198847fb08">Remove Method</seealso>
+    <seealso ChangeDateTime="2006-02-07T09:37:06Z" cref="Scripting~Dictionary~RemoveAll" cat="" id="8c942621-00b3-48cb-adee-35e1b047f87d">RemoveAll Method</seealso>
+  </item>
+  <item qn="Scripting~Dictionary~Keys">
+    <summary ChangeDateTime="2006-02-07T09:37:06Z">Returns an array containing all existing keys in a &lt;B&gt;Dictionary&lt;/B&gt; object.</summary>
+    <exampleintro ChangeDateTime="2006-02-07T09:37:06Z">The following code illustrates use of the &lt;B&gt;Keys&lt;/B&gt; method:</exampleintro>
+    <examplecode ChangeDateTime="2006-02-07T09:37:06Z" title="Using Keys" description="" pagetype="" inline="true" escaped="false" id="4fffa6df-af63-4647-bece-1a9c33fffadc" lang="JScript">function KeysDemo()
+{
+   var a, d, i, s;                  // Create some variables.
+   d = new ActiveXObject("Scripting.Dictionary");  
+   d.Add ("a", "Athens");              // Add some keys and items.
+   d.Add ("b", "Belgrade");
+   d.Add ("c", "Cairo");
+   a = (new VBArray(d.Keys())).toArray();   // Get the keys.
+   s = "";
+   for (i in a)                  // Iterate the dictionary.
+   {
+      s += a[i] + " - " + d(a[i]) + "&lt;br&gt;";
+   }
+   return(s);                     // Return the results.
+}</examplecode>
+    <examplecode ChangeDateTime="2006-02-07T09:37:06Z" title="Using Keys" description="" pagetype="" inline="true" escaped="false" id="eb684612-dee5-4e7f-afae-8cd7b15f4d5a" lang="VB">Function DicDemo
+   Dim a, d, i   ' Create some variables.
+   Set d = CreateObject("Scripting.Dictionary")
+   d.Add "a", "Athens"   ' Add some keys and items.
+   d.Add "b", "Belgrade"
+   d.Add "c", "Cairo"
+   a = d.Keys   ' Get the keys.
+   For i = 0 To d.Count -1 ' Iterate the array.
+      s = s &amp; a(i) &amp; "&lt;BR&gt;" ' Return results.
+   Next
+   DicDemo = s
+End Function</examplecode>
+    <seealso ChangeDateTime="2006-02-07T09:37:06Z" cref="Scripting~Dictionary~Add" cat="" id="e353b4d2-90ed-47da-b2b4-d8cba36d0ea7">Add Method</seealso>
+    <seealso ChangeDateTime="2006-02-07T09:37:06Z" cref="Scripting~Dictionary~Exists" cat="" id="7cf3dbe7-1907-4288-9c09-25950a0f0477">Exists Method</seealso>
+    <seealso ChangeDateTime="2006-02-07T09:37:06Z" cref="Scripting~Dictionary~Items" cat="" id="d80be85c-2b48-4fca-b977-6242340da1a7">Items Method</seealso>
+    <seealso ChangeDateTime="2006-02-07T09:37:06Z" cref="Scripting~Dictionary~Remove" cat="" id="52fe668e-e7ea-41e2-b8b0-d1c27408f37d">Remove Method</seealso>
+    <seealso ChangeDateTime="2006-02-07T09:37:06Z" cref="Scripting~Dictionary~RemoveAll" cat="" id="489c548d-8e9e-408c-8623-6ea16c7c8d1a">RemoveAll Method</seealso>
+  </item>
+  <item qn="Scripting~Dictionary~Remove">
+    <summary ChangeDateTime="2006-02-07T09:37:06Z">Removes a key, item pair from a &lt;B&gt;Dictionary&lt;/B&gt; object.</summary>
+    <remarks ChangeDateTime="2006-02-07T09:37:06Z">An error occurs if the specified key, item pair does not exist.</remarks>
+    <exampleintro ChangeDateTime="2006-02-07T09:37:06Z">&lt;P&gt;The following code illustrates use of the &lt;B&gt;Remove&lt;/B&gt; method: &lt;/P&gt;</exampleintro>
+    <examplecode ChangeDateTime="2006-02-07T09:37:06Z" title="Removing an item" description="" pagetype="" inline="true" escaped="false" id="e0c07b07-d46b-4537-b2bb-6fea202fbf04" lang="JScript">var a, d, i, s;              // Create some variables.
+d = new ActiveXObject("Scripting.Dictionary");  
+d.Add ("a", "Athens");       // Add some keys and items.
+d.Add ("b", "Belgrade");
+d.Add ("c", "Cairo");
+...
+d.Remove("b");               // Remove second pair.</examplecode>
+    <examplecode ChangeDateTime="2006-02-07T09:37:06Z" title="Removing an item" description="" pagetype="" inline="true" escaped="false" id="d147ffd7-852e-46bc-9f34-ecf7cd3ec58f" lang="VB">Dim a, d   ' Create some variables.
+Set d = CreateObject("Scripting.Dictionary")
+d.Add "a", "Athens"   ' Add some keys and items.
+d.Add "b", "Belgrade"
+d.Add "c", "Cairo"
+...
+d.Remove("b")   ' Remove second pair.</examplecode>
+    <seealso ChangeDateTime="2006-02-07T09:37:06Z" cref="Scripting~Dictionary~Add" cat="" id="2e3a9662-3dd7-4e22-8ea8-31f9304d26c6">Add Method</seealso>
+    <seealso ChangeDateTime="2006-02-07T09:37:06Z" cref="Scripting~Dictionary~Exists" cat="" id="41ba527a-32f7-4a9a-bd02-d51d6f749750">Exists Method</seealso>
+    <seealso ChangeDateTime="2006-02-07T09:37:06Z" cref="Scripting~Dictionary~Items" cat="" id="6bd2061f-4680-4108-8515-658ecd881d34">Items Method</seealso>
+    <seealso ChangeDateTime="2006-02-07T09:37:06Z" cref="Scripting~Dictionary~Keys" cat="" id="abba2d80-506f-4e1f-ad7f-af5eb71bf771">Keys Method</seealso>
+    <seealso ChangeDateTime="2006-02-07T09:37:06Z" cref="Scripting~Dictionary~RemoveAll" cat="" id="4e1f2e88-b49b-42f2-8729-00cb6b28ebd9">RemoveAll Method</seealso>
+  </item>
+  <item qn="Scripting~Dictionary~Remove:Key">
+    <param ChangeDateTime="2006-02-07T09:37:06Z">&lt;EM&gt;Key&lt;/EM&gt; associated with the key, item pair you want to remove from the &lt;B&gt;Dictionary&lt;/B&gt; object.</param>
+  </item>
+  <item qn="Scripting~Dictionary~RemoveAll">
+    <summary ChangeDateTime="2006-02-07T09:37:06Z">The &lt;B&gt;RemoveAll&lt;/B&gt; method removes all key, item pairs from a &lt;B&gt;Dictionary&lt;/B&gt; object.</summary>
+    <exampleintro ChangeDateTime="2006-02-07T09:37:06Z">&lt;P&gt;The following code illustrates use of the &lt;B&gt;RemoveAll&lt;/B&gt; method: &lt;/P&gt;</exampleintro>
+    <examplecode ChangeDateTime="2006-02-07T09:37:06Z" title="Removing All Items" description="" pagetype="" inline="true" escaped="false" id="4f281c5c-102c-4a67-addc-319f383afe0d" lang="JScript">var a, d, i;             // Create some variables.
+d = new ActiveXObject("Scripting.Dictionary");
+d.Add ("a", "Athens");   // Add some keys and items.
+d.Add ("b", "Belgrade");
+d.Add ("c", "Cairo");
+...
+d.RemoveAll( );       // Clear the dictionary.</examplecode>
+    <examplecode ChangeDateTime="2006-02-07T09:37:06Z" title="Removing All Items" description="" pagetype="" inline="true" escaped="false" id="e70800c6-2c8f-48e7-9a2b-e9855a089b62" lang="VB">Dim a, d, i   ' Create some variables.
+Set d = CreateObject("Scripting.Dictionary")
+d.Add "a", "Athens"   ' Add some keys and items.
+d.Add "b", "Belgrade"
+d.Add "c", "Cairo"
+...
+a = d.RemoveAll   ' Clear the dictionary.</examplecode>
+  </item>
+  <item qn="Scripting~Dictionary~CompareMode">
+    <summary ChangeDateTime="2006-02-07T09:37:06Z">Sets and returns the comparison mode for comparing string keys in a &lt;B&gt;Dictionary&lt;/B&gt; object.</summary>
+    <returns ChangeDateTime="2006-02-07T09:37:06Z">A&amp;nbsp;value representing the comparison mode. Acceptable values are 0 (Binary), 1 (Text), 2 (Database). Values greater than 2 can be used to refer to comparisons using specific Locale IDs (LCID).</returns>
+    <remarks ChangeDateTime="2006-02-07T09:37:06Z">An error occurs if you try to change the comparison mode of a &lt;B&gt;Dictionary&lt;/B&gt; object that already contains data.</remarks>
+    <exampleintro ChangeDateTime="2006-02-07T09:37:06Z">The following example illustrates the use of the CompareMode property:</exampleintro>
+    <examplecode ChangeDateTime="2006-02-07T09:37:06Z" title="Using CompareMode" description="" pagetype="" inline="true" escaped="false" id="6ff32b19-76cb-4fee-8f40-dcf32e10b4b7" lang="JScript">function TestCompareMode(key)
+{
+   // Create some variables.
+   var a, d; 
+   var BinaryCompare = 0, TextCompare = 1;
+   d = new ActiveXObject("Scripting.Dictionary");
+   // Set Compare mode to Text.
+   d.CompareMode = TextCompare;
+   // Add some keys and items.
+   d.Add("a", "Athens"); 
+   d.Add("b", "Belgrade");
+   d.Add("c", "Cairo");
+   return(d.Item(key));
+}</examplecode>
+    <examplecode ChangeDateTime="2006-02-07T09:37:06Z" title="Using CompareMode" description="" pagetype="" inline="true" escaped="false" id="1fc36b41-4069-4d15-b274-0d8296fa8fc6" lang="VB">Dim d
+Set d = CreateObject("Scripting.Dictionary")
+
+d.CompareMode = vbTextCompare
+d.Add "a", "Athens"   ' Add some keys and items.
+d.Add "b", "Belgrade"
+d.Add "c", "Cairo"
+d.Add "B", "Baltimore"   ' Add method fails on this line because the 
+                         ' letter b already exists in the Dictionary.</examplecode>
+    <seealso ChangeDateTime="2006-02-07T09:37:06Z" cref="Scripting~Dictionary~Key" cat="" id="a74d6d22-cec3-4593-aef8-40bf5c32bc7b">Key Property</seealso>
+  </item>
+  <item qn="Scripting~Dictionary~Count">
+    <summary ChangeDateTime="2006-02-07T09:37:06Z">Returns the number of items in a collection or &lt;B&gt;Dictionary&lt;/B&gt; object.</summary>
+    <exampleintro ChangeDateTime="2006-02-07T09:37:06Z">The following code illustrates use of the Count property:</exampleintro>
+    <examplecode ChangeDateTime="2006-02-07T09:37:06Z" title="Item Count" description="" pagetype="" inline="true" escaped="false" id="37ede914-755c-4a4e-b0b8-106b4c8727bd" lang="JScript">function CountDemo()
+{
+   var a, d, i, s;                 // Create some variables.
+   d = new ActiveXObject("Scripting.Dictionary");   
+   d.Add ("a", "Athens");          // Add some keys and items.
+   d.Add ("b", "Belgrade");
+   d.Add ("c", "Cairo");
+   a = (new VBArray(d.Keys()));    // Get the keys.
+   s = "";
+   for (i = 0; i &lt; d.Count; i++)   //Iterate the dictionary.
+   {
+      s += a.getItem(i) + " - " + d(a.getItem(i)) + "&lt;br&gt;";
+   }
+   return(s);                      // Return the results.
+}</examplecode>
+    <examplecode ChangeDateTime="2006-02-07T09:37:06Z" title="Item Count" description="" pagetype="" inline="true" escaped="false" id="72d1e4d2-0a3c-46fb-98d0-c7876310c253" lang="VB">Function ShowKeys
+   Dim a, d, i, s   ' Create some variables.
+   Set d = CreateObject("Scripting.Dictionary")
+   d.Add "a", "Athens"   ' Add some keys and items.
+   d.Add "b", "Belgrade"
+   d.Add "c", "Cairo"
+   a = d.Keys   ' Get the keys.
+   For i = 0 To d.Count -1 ' Iterate the array.
+      s = s &amp; a(i) &amp; "&lt;BR&gt;" ' Create return string.
+   Next
+   ShowKeys = s
+End Function</examplecode>
+    <seealso ChangeDateTime="2006-02-07T09:37:06Z" cref="Scripting~Dictionary~CompareMode" cat="" id="f75f0eb3-f90a-4c05-8d6e-29fcd94d15eb">CompareMode Property</seealso>
+    <seealso ChangeDateTime="2006-02-07T09:37:06Z" cref="Scripting~Dictionary~Item" cat="" id="e6df1027-7a5e-4a70-a70f-7a9d44441ac9">Item Property</seealso>
+    <seealso ChangeDateTime="2006-02-07T09:37:06Z" cref="Scripting~Dictionary~Key" cat="" id="0162bbeb-5906-4dce-8d2e-07ea7755e7c7">Key Property</seealso>
+  </item>
+  <item qn="Scripting~Dictionary~Item">
+    <summary ChangeDateTime="2006-02-07T09:37:06Z">Sets or returns an &lt;I&gt;item&lt;/I&gt; for a specified &lt;I&gt;key&lt;/I&gt; in a &lt;B&gt;Dictionary&lt;/B&gt; object. For collections, returns an &lt;I&gt;item&lt;/I&gt; based on the specified &lt;I&gt;key&lt;/I&gt;.</summary>
+    <returns ChangeDateTime="2006-02-07T09:37:06Z">Used for &lt;B&gt;Dictionary&lt;/B&gt; object only; no application for collections. If provided, &lt;I&gt;newitem&lt;/I&gt; is the new value associated with the specified &lt;I&gt;key&lt;/I&gt;.</returns>
+    <remarks ChangeDateTime="2006-02-07T09:37:06Z">If &lt;I&gt;key&lt;/I&gt; is not found when changing an &lt;I&gt;item&lt;/I&gt;, a new &lt;I&gt;key&lt;/I&gt; is created with the specified &lt;I&gt;newitem&lt;/I&gt;. If &lt;I&gt;key&lt;/I&gt; is not found when attempting to return an existing item, a new &lt;I&gt;key&lt;/I&gt; is created and its corresponding item is left empty.</remarks>
+    <examplecode ChangeDateTime="2006-02-07T09:37:06Z" title="Getting an Item" description="" pagetype="" inline="true" escaped="false" id="966cd571-02ec-4863-bec2-8443bdf1bda7" lang="JScript">function DicTest(keyword)
+{
+   var a, d; 
+   d = new ActiveXObject("Scripting.Dictionary");
+   d.Add("a", "Athens");
+   d.Add("b", "Belgrade");
+   d.Add("c", "Cairo");
+   a = d.Item(keyword);
+   return(a);
+}</examplecode>
+    <examplecode ChangeDateTime="2006-02-07T09:37:06Z" title="Getting an Item" description="" pagetype="" inline="true" escaped="false" id="7ccf689f-6154-4ea3-9929-452576cc614d" lang="VB">Function ItemDemo
+   Dim d   ' Create some variables.
+   Set d = CreateObject("Scripting.Dictionary")
+   d.Add "a", "Athens"   ' Add some keys and items.
+   d.Add "b", "Belgrade"
+   d.Add "c", "Cairo"
+   ItemDemo = d.Item("c")   ' Get the item.
+End Function</examplecode>
+    <seealso ChangeDateTime="2006-02-07T09:37:06Z" cref="Scripting~Dictionary~CompareMode" cat="" id="0248e839-4367-4042-9e60-03c62e38d04e">CompareMode Property</seealso>
+    <seealso ChangeDateTime="2006-02-07T09:37:06Z" cref="Scripting~Dictionary~Count" cat="" id="00c490f4-53e7-4755-85f2-28430b4a618e">Count Property</seealso>
+    <seealso ChangeDateTime="2006-02-07T09:37:06Z" cref="Scripting~Dictionary~Key" cat="" id="526357ae-d2fb-47f6-b772-1add4f651b69">Key Property</seealso>
+    <exampleintro ChangeDateTime="2006-02-07T09:37:06Z">The following example illustrates the use of the Item property.</exampleintro>
+  </item>
+  <item qn="Scripting~Dictionary~Key">
+    <summary ChangeDateTime="2006-02-07T09:37:06Z">Sets a &lt;I&gt;key&lt;/I&gt; in a &lt;B&gt;Dictionary&lt;/B&gt; object.</summary>
+    <remarks ChangeDateTime="2006-02-07T09:37:06Z">If &lt;I&gt;key&lt;/I&gt; is not found when changing a &lt;I&gt;key&lt;/I&gt;, a new &lt;I&gt;key&lt;/I&gt; is created and its associated &lt;I&gt;item&lt;/I&gt; is left empty.</remarks>
+    <examplecode ChangeDateTime="2006-02-07T09:37:06Z" title="Getting a Key" description="" pagetype="" inline="true" escaped="false" id="109ff955-dac9-4a64-a23a-462686901745" lang="JScript">var d;
+d = new ActiveXObject("Scripting.Dictionary");
+
+function AddStuff()
+{
+   var a;
+   d.Add("a", "Athens");
+   d.Add("b", "Belgrade");
+   d.Add("c", "Cairo");
+}
+
+function ChangeKey(oldkey, newkey)
+{
+   var s;
+   d.Key("c") = "Ca";
+   s = "Key " + oldkey + " changed to " + newkey;
+   return(s);
+}</examplecode>
+    <examplecode ChangeDateTime="2006-02-07T09:37:06Z" title="Getting a Key" description="" pagetype="" inline="true" escaped="false" id="ad99fe07-47e3-4d4f-97d4-be456de0c468" lang="VB">Function DicDemo
+   Dim d   ' Create some variables.
+   Set d = CreateObject("Scripting.Dictionary")
+   d.Add "a", "Athens"   ' Add some keys and items.
+   d.Add "b", "Belgrade"
+   d.Add "c", "Cairo"
+   d.Key("c") = "d"   ' Set key for "c" to "d".
+   DicDemo = d.Item("d")   ' Return associate item.
+End Function</examplecode>
+    <exampleintro ChangeDateTime="2006-02-07T09:37:06Z">The following example illustrates the use of the &lt;STRONG&gt;Key&lt;/STRONG&gt; property:</exampleintro>
+    <seealso ChangeDateTime="2006-02-07T09:37:06Z" cref="Scripting~Dictionary~CompareMode" cat="" id="3dc62775-5095-4f00-b4ee-5580c0ebfd40">CompareMode Property</seealso>
+    <seealso ChangeDateTime="2006-02-07T09:37:06Z" cref="Scripting~Dictionary~Count" cat="" id="1591b701-7ede-499a-8032-9c4338e8132e">Count Property</seealso>
+    <seealso ChangeDateTime="2006-02-07T09:37:06Z" cref="Scripting~Dictionary~Item" cat="" id="2b671be2-01fd-4400-bdca-a0b36fdc5e08">Item Property</seealso>
+  </item>
+  <item qn="Scripting~Dictionary~Key:Key">
+    <param ChangeDateTime="2006-02-07T09:37:06Z">&lt;EM&gt;Key&lt;/EM&gt; value being changed.</param>
+  </item>
+  <item qn="Scripting~Dictionary~Key:RHS">
+    <param ChangeDateTime="2006-02-07T09:37:06Z">New value that replaces the specified &lt;I&gt;key&lt;/I&gt;.</param>
+  </item>
+  <item qn="Scripting~Files">
+    <module_is_collection ChangeDateTime="2016-08-20T14:09:34.5274468Z" />
+    <summary ChangeDateTime="2016-08-20T14:26:02.9276852Z">Collection of all %File% objects within a folder.</summary>
+  </item>
+  <item qn="Scripting~Folder">
+    <examplecode ChangeDateTime="2016-08-20T14:11:24.1812891Z" title="Show Date Created" description="The following code illustrates how to obtain a Folder object and how to return one of its properties:" pagetype="" inline="true" escaped="false" groupname="ShowDateCreated" id="0b069594-a7ea-43a6-a56f-e042c9998a02" lang="VBScript">Function ShowDateCreated(folderspec)
+   Dim fso, f
+   Set fso = CreateObject("Scripting.FileSystemObject")
+   Set f = fso.GetFolder(folderspec)
+   ShowDateCreated = f.DateCreated
+End Function</examplecode>
+    <examplecode ChangeDateTime="2016-08-20T14:11:48.7288274Z" title="Show Date Created" description="" pagetype="" inline="true" escaped="false" groupname="ShowDateCreated" id="e5b1a2e6-1495-41b6-b0e3-fbe1ab657088" lang="JScript">function ShowFolderInfo(folderspec)
+{
+   var fso, folder, s;
+   fso = new ActiveXObject("Scripting.FileSystemObject");
+   folder = fso.GetFolder(folderspec);
+   s = folder.DateCreated;
+   return(s);
+}</examplecode>
+    <summary ChangeDateTime="2016-08-20T14:13:06.4125737Z">Provides access to all the properties of a folder. Can be obtained from the&amp;nbsp;&lt;A href="Scripting~FileSystemObject~GetFolder.html" style="auto-update-caption: true"&gt;GetFolder Method&lt;/A&gt;&amp;nbsp;on the&amp;nbsp;&lt;A href="Scripting~FileSystemObject.html" style="auto-update-caption: true"&gt;FileSystemObject Object&lt;/A&gt;.</summary>
+  </item>
+  <item qn="Scripting~IOMode~ForAppending">
+    <summary ChangeDateTime="2016-08-20T14:14:47.1557393Z">Open a file and write to the end of the file.</summary>
+  </item>
+  <item qn="Scripting~IOMode~ForReading">
+    <summary ChangeDateTime="2016-08-20T14:14:47.1557393Z">Open a file for reading only. You can't write to this file.</summary>
+  </item>
+  <item qn="Scripting~IOMode~ForWriting">
+    <summary ChangeDateTime="2016-08-20T14:14:47.1557393Z">Open a file for writing. If a file with the same name exists, its previous contents are overwritten.</summary>
+  </item>
+  <item qn="Scripting~Tristate~TristateUseDefault">
+    <summary ChangeDateTime="2016-08-20T14:15:02.5275949Z">Opens the file using the system default.</summary>
+  </item>
+  <item qn="Scripting~Tristate~TristateFalse">
+    <summary ChangeDateTime="2016-08-20T14:15:32.8519712Z">Opens the file as ASCII.</summary>
+  </item>
+  <item qn="Scripting~Tristate~TristateMixed">
+    <summary ChangeDateTime="2016-08-20T14:15:32.8519712Z">n/a</summary>
+  </item>
+  <item qn="Scripting~Tristate~TristateTrue">
+    <summary ChangeDateTime="2016-08-20T14:15:32.8519712Z">Opens the file as Unicode.</summary>
+  </item>
+  <item qn="Scripting~Dictionary~Item:Key">
+    <param ChangeDateTime="2016-08-20T14:16:37.2209947Z">Key associated with the item being retrieved or added.</param>
+  </item>
+  <item qn="Scripting~CompareMethod~BinaryCompare">
+    <summary ChangeDateTime="2016-08-20T14:17:32.492455Z">Binary Comparison.</summary>
+  </item>
+  <item qn="Scripting~CompareMethod~DatabaseCompare">
+    <summary ChangeDateTime="2016-08-20T14:17:32.492455Z">Database Comparison.</summary>
+  </item>
+  <item qn="Scripting~CompareMethod~TextCompare">
+    <summary ChangeDateTime="2016-08-20T14:17:32.492455Z">Text Comparison.</summary>
+  </item>
+  <item qn="Scripting~Drive">
+    <summary ChangeDateTime="2016-08-20T14:19:41.9407323Z">Provides access to the properties of a particular disk drive or network share.</summary>
+  </item>
+  <item qn="Scripting~Drive~AvailableSpace">
+    <summary ChangeDateTime="2016-08-20T14:19:46.9596858Z">Returns the amount of space available to a user on the specified drive or network share.</summary>
+  </item>
+  <item qn="Scripting~Drive~DriveLetter">
+    <summary ChangeDateTime="2016-08-20T14:19:59.1735284Z">Returns the drive letter of a physical local drive or a network share.</summary>
+  </item>
+  <item qn="Scripting~Drive~DriveType">
+    <summary ChangeDateTime="2016-08-20T14:20:09.0561188Z">Returns a value indicating the type of a specified drive.</summary>
+  </item>
+  <item qn="Scripting~Drive~FileSystem">
+    <summary ChangeDateTime="2016-08-20T14:20:20.0226664Z">Returns the type of file system in use for the specified drive.</summary>
+  </item>
+  <item qn="Scripting~Drive~FreeSpace">
+    <summary ChangeDateTime="2016-08-20T14:20:30.6192905Z">Returns the amount of free space available to a user on the specified drive or network share.</summary>
+  </item>
+  <item qn="Scripting~Drive~IsReady">
+    <summary ChangeDateTime="2016-08-20T14:20:38.5088622Z">Returns True if the specified drive is ready; False if it is not.</summary>
+  </item>
+  <item qn="Scripting~Drive~Path">
+    <summary ChangeDateTime="2016-08-20T14:20:53.3995517Z">Returns the path for a specified file, folder, or drive.</summary>
+  </item>
+  <item qn="Scripting~Drive~RootFolder">
+    <summary ChangeDateTime="2016-08-20T14:21:08.8326082Z">Returns a %Folder% object representing the root folder of a specified drive.</summary>
+  </item>
+  <item qn="Scripting~Drive~SerialNumber">
+    <summary ChangeDateTime="2016-08-20T14:21:21.5136713Z">Returns the decimal serial number used to uniquely identify a disk volume.</summary>
+  </item>
+  <item qn="Scripting~Drive~ShareName">
+    <summary ChangeDateTime="2016-08-20T14:21:30.6004511Z">Returns the network share name for a specified drive.</summary>
+  </item>
+  <item qn="Scripting~Drive~TotalSize">
+    <summary ChangeDateTime="2016-08-20T14:21:38.9060486Z">Returns the total space, in bytes, of a drive or network share.</summary>
+  </item>
+  <item qn="Scripting~Drive~VolumeName">
+    <summary ChangeDateTime="2016-08-20T14:21:49.1227317Z">Sets or returns the volume name of the specified drive. Read/write.</summary>
+  </item>
+  <item qn="Scripting~DriveTypeConst">
+    <summary ChangeDateTime="2016-08-20T14:23:02.6377959Z">Returns a value indicating the type of a specified drive.</summary>
+  </item>
+  <item qn="Scripting~DriveTypeConst~CDRom">
+    <summary ChangeDateTime="2016-08-20T14:23:02.6377959Z">CD-ROM Drive</summary>
+  </item>
+  <item qn="Scripting~DriveTypeConst~Fixed">
+    <summary ChangeDateTime="2016-08-20T14:23:02.6377959Z">Fixed Drive</summary>
+  </item>
+  <item qn="Scripting~DriveTypeConst~RamDisk">
+    <summary ChangeDateTime="2016-08-20T14:23:02.6377959Z">Ram Disk Drive</summary>
+  </item>
+  <item qn="Scripting~DriveTypeConst~Remote">
+    <summary ChangeDateTime="2016-08-20T14:23:02.6377959Z">Remote Drive</summary>
+  </item>
+  <item qn="Scripting~DriveTypeConst~Removable">
+    <summary ChangeDateTime="2016-08-20T14:23:02.6377959Z">Removable Drive</summary>
+  </item>
+  <item qn="Scripting~DriveTypeConst~UnknownType">
+    <summary ChangeDateTime="2016-08-20T14:23:02.6377959Z">Unknown Drive Type</summary>
+  </item>
+  <item qn="Scripting~Drives">
+    <remarks ChangeDateTime="2016-08-20T14:23:46.6914007Z">Removable-media drives need not have media inserted for them to appear in the Drives collection.</remarks>
+  </item>
+  <item qn="Scripting~FileAttribute">
+    <summary ChangeDateTime="2016-08-20T14:25:35.6228053Z">Attributes of files or folders.</summary>
+  </item>
+  <item qn="Scripting~FileAttribute~Alias">
+    <summary ChangeDateTime="2016-08-20T14:25:35.6228053Z">Link or shortcut. Attribute is read-only.</summary>
+  </item>
+  <item qn="Scripting~FileAttribute~Archive">
+    <summary ChangeDateTime="2016-08-20T14:25:35.6228053Z">File has changed since last backup. Attribute is read/write.</summary>
+  </item>
+  <item qn="Scripting~FileAttribute~Compressed">
+    <summary ChangeDateTime="2016-08-20T14:25:35.6228053Z">Compressed file. Attribute is read-only.</summary>
+  </item>
+  <item qn="Scripting~FileAttribute~Directory">
+    <summary ChangeDateTime="2016-08-20T14:25:35.6228053Z">Folder or directory. Attribute is read-only.</summary>
+  </item>
+  <item qn="Scripting~FileAttribute~Hidden">
+    <summary ChangeDateTime="2016-08-20T14:25:35.6228053Z">Hidden file. Attribute is read/write.</summary>
+  </item>
+  <item qn="Scripting~FileAttribute~Normal">
+    <summary ChangeDateTime="2016-08-20T14:25:35.6228053Z">Normal file. No attributes are set.</summary>
+  </item>
+  <item qn="Scripting~FileAttribute~ReadOnly">
+    <summary ChangeDateTime="2016-08-20T14:25:35.6228053Z">Read-only file. Attribute is read/write.</summary>
+  </item>
+  <item qn="Scripting~FileAttribute~System">
+    <summary ChangeDateTime="2016-08-20T14:25:35.6228053Z">System file. Attribute is read/write.</summary>
+  </item>
+  <item qn="Scripting~FileAttribute~Volume">
+    <summary ChangeDateTime="2016-08-20T14:25:35.6228053Z">Disk drive volume label. Attribute is read-only.</summary>
+  </item>
+  <item qn="Scripting~FileSystemObject">
+    <summary ChangeDateTime="2016-08-20T14:26:30.1922051Z">Provides access to a computer's file system.</summary>
+  </item>
+  <item qn="Scripting~FileSystemObject~BuildPath:Path">
+    <param ChangeDateTime="2016-08-20T14:27:01.7407431Z">Existing path to which name is appended. Path can be absolute or relative and need not specify an existing folder.</param>
+  </item>
+  <item qn="Scripting~FileSystemObject~BuildPath:Name">
+    <param ChangeDateTime="2016-08-20T14:27:01.7417226Z">Name being appended to the existing path.</param>
+  </item>
+  <item qn="Scripting~FileSystemObject~CopyFile">
+    <summary ChangeDateTime="2016-08-20T14:27:14.2519725Z">Copies one or more files from one location to another.</summary>
+  </item>
+  <item qn="Scripting~FileSystemObject~CopyFolder">
+    <summary ChangeDateTime="2016-08-20T14:30:11.3078808Z">Recursively copies a folder from one location to another.</summary>
+  </item>
+  <item qn="Scripting~FileSystemObject~CreateTextFile">
+    <summary ChangeDateTime="2016-08-20T14:30:11.3078808Z">Creates a specified file name and returns a %TextStream% object that can be used to read from or write to the file.</summary>
+  </item>
+  <item qn="Scripting~FileSystemObject~GetBaseName">
+    <summary ChangeDateTime="2016-08-20T14:30:11.3078808Z">Returns a string containing the base name of the last component, less any file extension, in a path.</summary>
+  </item>
+  <item qn="Scripting~FileSystemObject~GetDrive">
+    <summary ChangeDateTime="2016-08-20T14:30:11.3078808Z">Returns a %Drive% object corresponding to the drive in a specified path.</summary>
+  </item>
+  <item qn="Scripting~FileSystemObject~GetDriveName">
+    <summary ChangeDateTime="2016-08-20T14:30:11.3089377Z">Returns a string containing the name of the drive for a specified path.</summary>
+  </item>
+  <item qn="Scripting~FileSystemObject~GetExtensionName">
+    <summary ChangeDateTime="2016-08-20T14:30:11.3089377Z">Returns the extension (for example "txt" or "exe") of the last component in a path.</summary>
+  </item>
+  <item qn="Scripting~FileSystemObject~GetFile">
+    <summary ChangeDateTime="2016-08-20T14:30:11.3089377Z">Returns a %File% Object corresponding to the file in a specified path.</summary>
+  </item>
+  <item qn="Scripting~FileSystemObject~GetFolder">
+    <summary ChangeDateTime="2016-08-20T14:30:11.3089377Z">Returns a %Folder% object corresponding to the folder in a specified path.</summary>
+  </item>
+  <item qn="Scripting~FileSystemObject~MoveFile">
+    <summary ChangeDateTime="2016-08-20T14:30:11.3089377Z">Moves one or more files from one location to another.</summary>
+  </item>
+  <item qn="Scripting~FileSystemObject~MoveFolder">
+    <summary ChangeDateTime="2016-08-20T14:30:11.3089377Z">Moves one or more folders from one location to another.</summary>
+  </item>
+  <item qn="Scripting~FileSystemObject~OpenTextFile">
+    <summary ChangeDateTime="2016-08-20T14:30:11.3089377Z">Opens a specified file and returns a %TextStream% object that can be used to read from, write to, or append to the file.</summary>
+  </item>
+  <item qn="Scripting~Folders~Add">
+    <summary ChangeDateTime="2016-08-20T14:31:11.0301048Z">Adds a new folder to a Folders collection.</summary>
+  </item>
+  <item qn="Scripting~IFileSystem3">
+    <all_content_from cref="Scripting~FileSystemObject" ChangeDateTime="2016-08-20T14:31:31.8008061Z" id="a13f482f-01a7-4185-b333-c610daba9025" filter="" />
+  </item>
+  <item qn="Scripting~TextStream">
+    <summary ChangeDateTime="2016-08-20T14:32:31.3196397Z">Facilitates sequential access to file.</summary>
+  </item>
+  <item qn="Scripting~IOMode">
+    <summary ChangeDateTime="2016-08-20T14:33:43.5657049Z">Indicates input/output mode. Can be one of three constants: ForReading, ForWriting, or ForAppending.</summary>
+  </item>
+  <Filters>
+    <CONTENTSTORECOMMON>
+      <IsIncludedItemsOnly>true</IsIncludedItemsOnly>
+    </CONTENTSTORECOMMON>
+    <CONTENTSTORELOCALIZATION>
+      <IsPrimaryLocaleContentPreviewEnabled>true</IsPrimaryLocaleContentPreviewEnabled>
+    </CONTENTSTORELOCALIZATION>
+    <DX.COMCONTENTSTOREFILTER>
+      <ShowProtectedMembers>true</ShowProtectedMembers>
+      <ShowProtectedFriendMembers>true</ShowProtectedFriendMembers>
+      <ShowFriendMembers>false</ShowFriendMembers>
+      <ShowPrivateMembers>false</ShowPrivateMembers>
+      <ShowInheritedMembers>false</ShowInheritedMembers>
+      <IsSourceCodeContentVisible>true</IsSourceCodeContentVisible>
+    </DX.COMCONTENTSTOREFILTER>
+  </Filters>
+</ContentFile>

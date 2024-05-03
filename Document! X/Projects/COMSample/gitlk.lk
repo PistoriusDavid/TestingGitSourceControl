@@ -1,7 +1,4 @@
 {
-  "\\COMSample.dxp": {
-    "O": "DPISTORIUS-LT01"
-  },
   "\\COMSample.dxp.bak": {
     "O": "DPISTORIUS-LT01"
   },
@@ -20,15 +17,6 @@
   "\\images\\hs-tip.gif": {
     "O": "DPISTORIUS-LT01"
   },
-  "\\projectdata\\glossary.xml": {
-    "O": "DPISTORIUS-LT01"
-  },
-  "\\projectdata\\tableofcontents.xml": {
-    "O": "DPISTORIUS-LT01"
-  },
-  "\\projectdata\\tasks.xml": {
-    "O": "DPISTORIUS-LT01"
-  },
   "\\script\\community.js": {
     "O": "DPISTORIUS-LT01"
   },
@@ -39,9 +27,6 @@
     "O": "DPISTORIUS-LT01"
   },
   "\\scripts\\mshs.js": {
-    "O": "DPISTORIUS-LT01"
-  },
-  "\\scrrun.dxc": {
     "O": "DPISTORIUS-LT01"
   },
   "\\stylesheets\\branding.css": {
@@ -717,9 +702,6 @@
     "O": "DPISTORIUS-LT01"
   },
   "\\template\\packages\\plugins-topics\\script\\default\\jquery-plugins.min.js.map": {
-    "O": "DPISTORIUS-LT01"
-  },
-  "\\topicdata\\43b0ba05-7c7f-46ed-afd0-3af7773110e0.xml": {
     "O": "DPISTORIUS-LT01"
   },
   "\\topicdata\\98f398a3-1917-4f5e-a402-5187a6ef9acd.xml": {
