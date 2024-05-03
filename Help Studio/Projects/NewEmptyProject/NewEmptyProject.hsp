@@ -37,7 +37,7 @@
     <OtherFiles>
       <OtherFile Id="c592b6d4-e84a-4cd0-a9d8-7b80ba24b8d8" FileName="stylesheets\customstyles.css" SourceData="" BuildFlags="" />
     </OtherFiles>
-    <DefaultStylesheet>stylesheets\customstyles.css</DefaultStylesheet>
+    <DefaultStylesheet>..\..\..\..\..\Documents\Document! X\NewEmptyProject\stylesheets\customstyles.css</DefaultStylesheet>
     <DefaultCaptureDirectory></DefaultCaptureDirectory>
   </OtherFilesProjectPlugin>
   <SourceControlProjectPlugin />
@@ -48,13 +48,6 @@
     <TopicCategories>
       <TopicCategory Id="-" AutoIndex="false">
         <Caption m="2009-09-11T10:57:19.7639331Z">(Un-categorized)</Caption>
-        <ChildTopicCategories />
-        <Topics>
-          <Topic Id="cbd30ceb-257b-4619-a847-370bf903fc61" />
-        </Topics>
-      </TopicCategory>
-      <TopicCategory Id="CONTENTSNIPPETS" AutoIndex="false">
-        <Caption m="2024-04-30T16:26:42.4784662Z">Content Snippets</Caption>
         <ChildTopicCategories />
         <Topics />
       </TopicCategory>
@@ -68,9 +61,7 @@
     <IncludeTopicNameInTitle>false</IncludeTopicNameInTitle>
     <TopicEditorState>
       <Attributes>
-        <Assembly key="community_showPrivate" valuetype="boolean">True</Assembly>
-        <Assembly key="community_showPublic" valuetype="boolean">True</Assembly>
-        <Assembly key="scrollPosition" valuetype="integer">0</Assembly>
+        <Assembly key="dtscrollpos" valuetype="integer">0</Assembly>
       </Attributes>
     </TopicEditorState>
   </TopicsProjectPlugin>
@@ -462,7 +453,7 @@
         <IsHelp3SigningEnabled>false</IsHelp3SigningEnabled>
         <IsHelp3ValidationEnabled>false</IsHelp3ValidationEnabled>
         <IsHelp3KeywordsEnabled>false</IsHelp3KeywordsEnabled>
-        <BrowserHelpTemplateName>Classic</BrowserHelpTemplateName>
+        <BrowserHelpTemplateName></BrowserHelpTemplateName>
         <IsCustomHtmlHelpWindowSettings>false</IsCustomHtmlHelpWindowSettings>
         <CustomHtmlHelpWindowSettings>
           <IsExpandVisible>true</IsExpandVisible>
