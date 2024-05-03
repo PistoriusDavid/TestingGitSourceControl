@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SourceControlConnection>
+  <Provider>TEAMFOUNDATION2012</Provider>
+  <RemoteMoniker>$/Test/DatabaseSample</RemoteMoniker>
+  <ProviderProperties>
+    <ServerUrl>https://dev.azure.com/innovasys</ServerUrl>
+    <IsLockingDisabled>false</IsLockingDisabled>
+  </ProviderProperties>
+</SourceControlConnection>

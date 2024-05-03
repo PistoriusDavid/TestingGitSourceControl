@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ContentFile Version="2010" Moniker="&lt;Database Name=&quot;Northwind&quot; DatabaseType=&quot;Access&quot; FileName=&quot;..\..\..\..\..\repos\renatus\.localconfig\samples\dx.db\northwind\Northwind.mdb&quot;&gt;&#xD;&#xA;  &lt;UserName&gt;&lt;/UserName&gt;&#xD;&#xA;&lt;/Database&gt;" DocType="DX.DB" IsLocalizationDisabled="false">
+  <RelatedProject>DatabaseSample.dxp</RelatedProject>
+  <State>
+    <Attributes>
+      <Assembly key="dtscrollpos" valuetype="integer">0</Assembly>
+    </Attributes>
+  </State>
+  <LastSelectedItem>Northwind_db</LastSelectedItem>
+  <item qn="Northwind_db">
+    <summary ChangeDateTime="2010-03-04T00:45:44.4156069Z">&lt;P&gt;The Northwind Access Database. &lt;/P&gt;
+&lt;P&gt;Most descriptions are derived by Document! X directly from the Table and Column descriptions entered in the Access table designer. Additional content can be added in a Document! X content file.&lt;/P&gt;</summary>
+  </item>
+  <Filters>
+    <DX.DB>
+      <IsExtendedPropertyContentVisible>true</IsExtendedPropertyContentVisible>
+      <IsSourceCommentsVisible>true</IsSourceCommentsVisible>
+    </DX.DB>
+  </Filters>
+  <Filters>
+    <CONTENTSTORECOMMON>
+      <IsIncludedItemsOnly>true</IsIncludedItemsOnly>
+    </CONTENTSTORECOMMON>
+    <CONTENTSTORELOCALIZATION>
+      <IsPrimaryLocaleContentPreviewEnabled>true</IsPrimaryLocaleContentPreviewEnabled>
+    </CONTENTSTORELOCALIZATION>
+  </Filters>
+</ContentFile>
