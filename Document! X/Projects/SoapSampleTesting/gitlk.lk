@@ -889,5 +889,44 @@
   },
   "\\template\\packages\\plugins-xsd\\script\\default\\jquery-plugins.min.js.map": {
     "O": "DPISTORIUS-LT01"
+  },
+  "\\SoapSampleTesting.dxp": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\Bing Translator Web Service.dxc": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\Bing Translator-Imports Schema.dxc": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\http---api.microsofttranslator.com-V2 Schema.dxc": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\Serialization-Arrays Schema.dxc": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\Microsoft.MT.Web.Service.V2 Schema.dxc": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\Serialization- Schema.dxc": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\CommonXsdItems.dxa": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\projectdata\\glossary.xml": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\stylesheets\\customstyles.css": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\projectdata\\tasks.xml": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\projectdata\\tableofcontents.xml": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\topicdata\\9a4318df-972a-41d0-87a3-f1feeb5ccf14.xml": {
+    "O": "DPISTORIUS-LT01"
   }
 }
