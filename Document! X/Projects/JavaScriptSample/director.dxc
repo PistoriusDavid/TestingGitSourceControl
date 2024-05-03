@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ContentFile Version="2010" Moniker="&lt;JavascriptComponent ComponentName=&quot;director&quot; IgnoreUnderscoredNamespaces=&quot;false&quot; IgnoreUnderscoredTypesAndMembers=&quot;false&quot; UnderscorePrefixIsPrivate=&quot;true&quot; Title=&quot;director&quot;&gt;&#xD;&#xA;  &lt;CacheableRootNames&gt;&#xD;&#xA;    &lt;CacheableRootName&gt;window&lt;/CacheableRootName&gt;&#xD;&#xA;    &lt;CacheableRootName&gt;window.jQuery&lt;/CacheableRootName&gt;&#xD;&#xA;    &lt;CacheableRootName&gt;window.jQuery.fn&lt;/CacheableRootName&gt;&#xD;&#xA;  &lt;/CacheableRootNames&gt;&#xD;&#xA;  &lt;SearchRootNames&gt;&#xD;&#xA;    &lt;SearchRootName&gt;window&lt;/SearchRootName&gt;&#xD;&#xA;    &lt;SearchRootName&gt;window.jQuery&lt;/SearchRootName&gt;&#xD;&#xA;    &lt;SearchRootName&gt;window.jQuery.fn&lt;/SearchRootName&gt;&#xD;&#xA;  &lt;/SearchRootNames&gt;&#xD;&#xA;  &lt;ExplicitNames /&gt;&#xD;&#xA;  &lt;CustomObjectTypes /&gt;&#xD;&#xA;  &lt;IncludedGlobalNames /&gt;&#xD;&#xA;  &lt;ScriptFiles&gt;&#xD;&#xA;    &lt;ScriptFile FileName=&quot;director.js&quot; IsAmd=&quot;false&quot; IsDependency=&quot;false&quot; /&gt;&#xD;&#xA;  &lt;/ScriptFiles&gt;&#xD;&#xA;  &lt;Browsers&gt;&#xD;&#xA;    &lt;Browser Version=&quot;8&quot; IsIncluded=&quot;true&quot; Name=&quot;InternetExplorer&quot; /&gt;&#xD;&#xA;    &lt;Browser Version=&quot;5&quot; IsIncluded=&quot;true&quot; Name=&quot;Firefox&quot; /&gt;&#xD;&#xA;    &lt;Browser Version=&quot;&quot; IsIncluded=&quot;true&quot; Name=&quot;Opera&quot; /&gt;&#xD;&#xA;    &lt;Browser Version=&quot;&quot; IsIncluded=&quot;true&quot; Name=&quot;Chrome&quot; /&gt;&#xD;&#xA;    &lt;Browser Version=&quot;5&quot; IsIncluded=&quot;true&quot; Name=&quot;Safari&quot; /&gt;&#xD;&#xA;  &lt;/Browsers&gt;&#xD;&#xA;  &lt;JQueryPluginMethodInfos /&gt;&#xD;&#xA;&lt;/JavascriptComponent&gt;" DocType="DX.JAVASCRIPT" IsLocalizationDisabled="false">
+  <RelatedProject>..\..\..\..\..\repos\renatus\.writableconfig\samples\dx.javascript\director\marked.dxp</RelatedProject>
+  <RelatedProject>JavaScriptSample.dxp</RelatedProject>
+  <State>
+    <Attributes>
+      <Assembly key="scrollPosition" valuetype="integer">0</Assembly>
+    </Attributes>
+  </State>
+  <LastSelectedItem>director~-.Router</LastSelectedItem>
+  <item qn="director">
+    <summary ChangeDateTime="2013-05-15T12:39:28.4264906Z">A sample project documenting the director javascript library (&lt;a href="https://github.com/flatiron/director"&gt;&lt;u&gt;&lt;font color="#0066cc"&gt;https://github.com/flatiron/director&lt;/font&gt;&lt;/u&gt;&lt;/a&gt;)</summary>
+    <remarks ChangeDateTime="2013-05-15T12:43:57.727418Z">A routing library that works in both the browser and node.js environments with as few differences as possible. Simplifies the development of Single Page Apps and Node.js applications. Dependency free (doesn't require jQuery or Express, etc).</remarks>
+  </item>
+  <item qn="director~-.Router">
+    <examplecode ChangeDateTime="2013-05-15T12:44:38.7305179Z" title="Example" description="" pagetype="" inline="true" escaped="false" id="a7548196-8d8c-434b-84eb-1301310eca79" lang="HTML">&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+  &lt;head&gt;
+    &lt;meta charset="utf-8"&gt;
+    &lt;title&gt;A Gentle Introduction&lt;/title&gt;
+    &lt;script src="https://raw.github.com/flatiron/director/master/build/director.min.js"&gt;&lt;/script&gt;
+    &lt;script&gt;
+
+      var author = function () { console.log("author"); },
+          books = function () { console.log("books"); },
+          viewBook = function(bookId) { console.log("viewBook: bookId is populated: " + bookId); };
+
+      var routes = {
+        '/author': author,
+        '/books': [books, function() { console.log("An inline route handler."); }],
+        '/books/view/:bookId': viewBook
+      };
+
+      var router = Router(routes);
+      router.init();
+
+    &lt;/script&gt;
+  &lt;/head&gt;
+  &lt;body&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href="#/author"&gt;#/author&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href="#/books"&gt;#/books&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href="#/books/view/1"&gt;#/books/view/1&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/body&gt;
+&lt;/html&gt;</examplecode>
+    <summary ChangeDateTime="2013-05-15T12:44:44.9791427Z">Client-side routing (aka hash-routing) allows you to specify some information about the state of the application using the URL. So that when the user visits a specific URL, the application can be transformed accordingly.</summary>
+  </item>
+  <item qn="director~-.Router~route">
+    <exclude ChangeDateTime="2013-05-17T13:21:46.8267813Z" />
+  </item>
+  <item qn="director~-.Router~async">
+    <summary ChangeDateTime="2016-08-20T20:40:22.4394048Z">Controls async routing. Use true or false. Default is false.</summary>
+  </item>
+  <item qn="director~-.Router~delimiter">
+    <summary ChangeDateTime="2016-08-20T20:40:22.4394048Z">Character separator between route fragments. Default is /.</summary>
+  </item>
+  <item qn="director~-.Router~every">
+    <summary ChangeDateTime="2016-08-20T20:40:22.4394048Z">A function (or list of functions) to call on every call to router.dispatch() when a route is found.</summary>
+  </item>
+  <item qn="director~-.Router~history">
+    <summary ChangeDateTime="2016-08-20T20:40:22.4394048Z">History object.</summary>
+  </item>
+  <item qn="director~-.Router~historySupport">
+    <summary ChangeDateTime="2016-08-20T20:40:22.4394048Z">If set to true and client supports pushState(), then uses HTML5 History API instead of hash fragments. See History API for more information.</summary>
+  </item>
+  <item qn="director~-.Router~notfound">
+    <summary ChangeDateTime="2016-08-20T20:40:22.4394048Z">A function to call if no route is found on a call to router.dispatch().</summary>
+  </item>
+  <item qn="director~-.Router~params">
+    <summary ChangeDateTime="2016-08-20T20:40:22.4394048Z">URL Params.</summary>
+  </item>
+  <item qn="director~-.Router~recurse">
+    <summary ChangeDateTime="2016-08-20T20:40:22.4394048Z">Controls route recursion. Use forward, backward, or false. Default is false Client-side, and backward Server-side.</summary>
+  </item>
+  <item qn="director~-.Router~resource">
+    <summary ChangeDateTime="2016-08-20T20:40:22.4404165Z">An object to which string-based routes will be bound. This can be especially useful for late-binding to route functions (such as async client-side requires).</summary>
+  </item>
+  <item qn="director~-.Router~routes">
+    <summary ChangeDateTime="2016-08-20T20:40:22.4404165Z">Set of routes.</summary>
+  </item>
+  <item qn="director~-.Router~run_in_init">
+    <summary ChangeDateTime="2016-08-20T20:40:22.4404165Z">If html5history is enabled, the route handler by default is executed upon Router.init() since with real URIs the router can not know if it should call a route handler or not. Setting this to false disables the route handler initial execution.</summary>
+  </item>
+  <item qn="director~-.Router~scope">
+    <summary ChangeDateTime="2016-08-20T20:40:22.4404165Z">Route scope information</summary>
+  </item>
+  <item qn="director~-.Router~strict">
+    <summary ChangeDateTime="2016-08-20T20:40:22.4404165Z">If set to false, then trailing slashes (or other delimiters) are allowed in routes. Default is true.</summary>
+  </item>
+  <item qn="director~-.Router~methods">
+    <exclude ChangeDateTime="2016-08-20T20:40:30.5183493Z" />
+  </item>
+  <item qn="director~-_namespace">
+    <summary ChangeDateTime="2016-08-20T20:41:28.4996868Z">Global Namespace.</summary>
+  </item>
+  <Filters>
+    <CONTENTSTORECOMMON>
+      <IsIncludedItemsOnly>true</IsIncludedItemsOnly>
+    </CONTENTSTORECOMMON>
+    <CONTENTSTORELOCALIZATION>
+      <IsPrimaryLocaleContentPreviewEnabled>true</IsPrimaryLocaleContentPreviewEnabled>
+    </CONTENTSTORELOCALIZATION>
+    <DX.AJAXCONTENTSTOREFILTER>
+      <ShowProtectedMembers>true</ShowProtectedMembers>
+      <ShowProtectedFriendMembers>true</ShowProtectedFriendMembers>
+      <ShowFriendMembers>false</ShowFriendMembers>
+      <ShowPrivateMembers>false</ShowPrivateMembers>
+      <ShowInheritedMembers>false</ShowInheritedMembers>
+      <IsSourceCodeContentVisible>true</IsSourceCodeContentVisible>
+    </DX.AJAXCONTENTSTOREFILTER>
+  </Filters>
+</ContentFile>
