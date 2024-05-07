@@ -510,4 +510,39 @@
     "O": "DPISTORIUS-LT01"
   },
   "\\template\\packages\\plugins-topics\\images\\i-slimbox-closelabel-dark.png": {
-    "O": "DPISTORIUS-LT
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\template\\packages\\plugins-topics\\images\\i-slimbox-closelabel.png": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\template\\packages\\plugins-topics\\images\\i-slimbox-nextlabel.png": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\template\\packages\\plugins-topics\\images\\i-slimbox-prevlabel.png": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\template\\packages\\plugins-topics\\script\\chm.mshc\\debug\\jquery-plugins.js": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\template\\packages\\plugins-topics\\script\\chm.mshc\\debug\\jquery-plugins.js.map": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\template\\packages\\plugins-topics\\script\\chm.mshc\\jquery-plugins.min.js": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\template\\packages\\plugins-topics\\script\\chm.mshc\\jquery-plugins.min.js.map": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\template\\packages\\plugins-topics\\script\\default\\debug\\jquery-plugins.js": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\template\\packages\\plugins-topics\\script\\default\\debug\\jquery-plugins.js.map": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\template\\packages\\plugins-topics\\script\\default\\jquery-plugins.min.js": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\template\\packages\\plugins-topics\\script\\default\\jquery-plugins.min.js.map": {
+    "O": "DPISTORIUS-LT01"
+  }
+}
