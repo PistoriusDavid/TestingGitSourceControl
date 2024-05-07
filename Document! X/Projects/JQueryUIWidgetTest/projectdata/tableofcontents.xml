@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TableOfContents>
+  <TocLayout Id="c7552482-a1ae-44a2-a9fc-c757d62b5073">
+    <Name />
+    <Description />
+    <RootNodes>
+      <TocNode Name="" DependsOnItemTypeName="" Id="4487b4d7-21f4-4308-ae38-57562ec6ccdc" IconIndex="-1" IsNew="false" Target="" DependsOnItemTypeFilter="" DependsOnMinimumCount="0" DependsOnStillProcessChildNodes="false" BuildFlags="" NodeType="ALLTEMPLATETOCS">
+        <ChildNodes />
+      </TocNode>
+    </RootNodes>
+  </TocLayout>
+</TableOfContents>

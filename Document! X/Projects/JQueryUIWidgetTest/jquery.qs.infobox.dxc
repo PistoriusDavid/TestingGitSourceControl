@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ContentFile Version="2010" Moniker="&lt;JavascriptComponent ComponentName=&quot;jquery.qs.infobox&quot; IgnoreUnderscoredNamespaces=&quot;false&quot; IgnoreUnderscoredTypesAndMembers=&quot;false&quot; UnderscorePrefixIsPrivate=&quot;true&quot; Title=&quot;jquery.qs.infobox&quot;&gt;&#xD;&#xA;  &lt;CacheableRootNames&gt;&#xD;&#xA;    &lt;CacheableRootName&gt;window&lt;/CacheableRootName&gt;&#xD;&#xA;    &lt;CacheableRootName&gt;window.jQuery&lt;/CacheableRootName&gt;&#xD;&#xA;    &lt;CacheableRootName&gt;window.jQuery.fn&lt;/CacheableRootName&gt;&#xD;&#xA;  &lt;/CacheableRootNames&gt;&#xD;&#xA;  &lt;SearchRootNames&gt;&#xD;&#xA;    &lt;SearchRootName&gt;window&lt;/SearchRootName&gt;&#xD;&#xA;    &lt;SearchRootName&gt;window.jQuery&lt;/SearchRootName&gt;&#xD;&#xA;    &lt;SearchRootName&gt;window.jQuery.fn&lt;/SearchRootName&gt;&#xD;&#xA;  &lt;/SearchRootNames&gt;&#xD;&#xA;  &lt;ExplicitNames /&gt;&#xD;&#xA;  &lt;CustomObjectTypes /&gt;&#xD;&#xA;  &lt;IncludedGlobalNames /&gt;&#xD;&#xA;  &lt;ScriptFiles&gt;&#xD;&#xA;    &lt;ScriptFile FileName=&quot;jquery-ui.js&quot; IsAmd=&quot;false&quot; IsDependency=&quot;true&quot; /&gt;&#xD;&#xA;    &lt;ScriptFile FileName=&quot;jquery.qs.infobox.js&quot; IsAmd=&quot;false&quot; IsDependency=&quot;false&quot; /&gt;&#xD;&#xA;  &lt;/ScriptFiles&gt;&#xD;&#xA;  &lt;Browsers&gt;&#xD;&#xA;    &lt;Browser Version=&quot;8&quot; IsIncluded=&quot;true&quot; Name=&quot;InternetExplorer&quot; /&gt;&#xD;&#xA;    &lt;Browser Version=&quot;5&quot; IsIncluded=&quot;true&quot; Name=&quot;Firefox&quot; /&gt;&#xD;&#xA;    &lt;Browser Version=&quot;&quot; IsIncluded=&quot;true&quot; Name=&quot;Opera&quot; /&gt;&#xD;&#xA;    &lt;Browser Version=&quot;&quot; IsIncluded=&quot;true&quot; Name=&quot;Chrome&quot; /&gt;&#xD;&#xA;    &lt;Browser Version=&quot;5&quot; IsIncluded=&quot;true&quot; Name=&quot;Safari&quot; /&gt;&#xD;&#xA;  &lt;/Browsers&gt;&#xD;&#xA;  &lt;JQueryPluginMethodInfos&gt;&#xD;&#xA;    &lt;JQueryPluginMethodInfo IsWidget=&quot;true&quot; UseLiteralCallingSyntax=&quot;false&quot; OptionsCaption=&quot;options&quot; Name=&quot;jquery.qs.infobox~jQuery.fn.-~infobox&quot; OptionsType=&quot;jquery.qs.infobox~jQuery.qs.infobox.options&quot; ImplementationType=&quot;jquery.qs.infobox~jQuery.qs.infobox&quot; /&gt;&#xD;&#xA;  &lt;/JQueryPluginMethodInfos&gt;&#xD;&#xA;&lt;/JavascriptComponent&gt;" DocType="DX.JAVASCRIPT" IsLocalizationDisabled="false">
+  <RelatedProject>..\..\..\..\..\repos\renatus\.writableconfig\samples\dx.javascript\jquery.qs.infobox\marked.dxp</RelatedProject>
+  <RelatedProject>JQueryUIWidgetTest.dxp</RelatedProject>
+  <State>
+    <Attributes>
+      <Assembly key="scrollPosition" valuetype="integer">0</Assembly>
+    </Attributes>
+  </State>
+  <LastSelectedItem>jquery.qs.infobox</LastSelectedItem>
+  <item qn="jquery.qs.infobox~jQuery.qs.infobox.options">
+    <javascriptsyntax ChangeDateTime="2013-05-15T12:16:34.3240029Z" id="476c6d5f-78cb-465c-bbe4-06a45180aa54">
+      <JavascriptSyntaxJQuery Ordinal="20" Selector=".selector" Name="JQUERY" />
+    </javascriptsyntax>
+    <summary ChangeDateTime="2016-08-20T20:48:06.8274879Z">infobox Options type.</summary>
+  </item>
+  <item qn="jquery.qs.infobox~jQuery.qs.infobox~destroy">
+    <exclude_toc ChangeDateTime="2013-05-15T12:20:38.8635456Z" />
+    <summary ChangeDateTime="2016-08-20T20:55:47.6580423Z">Destroy this Widget.</summary>
+  </item>
+  <item qn="jquery.qs.infobox~jQuery.qs.infobox~widget">
+    <exclude_toc ChangeDateTime="2013-05-15T12:20:42.0608653Z" />
+    <summary ChangeDateTime="2016-08-20T20:55:47.6580423Z">Returns a jQuery object containing the original element or other relevant generated element.</summary>
+  </item>
+  <item qn="jquery.qs.infobox~jQuery.qs.infobox~widgetBaseClass">
+    <exclude ChangeDateTime="2013-05-15T12:20:53.5280119Z" />
+  </item>
+  <item qn="jquery.qs.infobox~jQuery.fn.-~infobox">
+    <summary ChangeDateTime="2013-05-15T12:23:25.6172193Z">&lt;p&gt;A single infobox widget is attached to the page's body element. After it's attached, it creates a &amp;lt;div&amp;gt; element and dynamically adds it to the page's
+element&lt;/p&gt;</summary>
+  </item>
+  <item qn="jquery.qs.infobox">
+    <summary ChangeDateTime="2013-05-15T12:24:59.5826149Z">A sample project documenting the qs.infobox widget from the Project Silk Microsoft sample (&lt;a href="http://msdn.microsoft.com/en-us/library/hh404096.aspx"&gt;&lt;u&gt;&lt;font color="#0066cc"&gt;http://msdn.microsoft.com/en-us/library/hh404096.aspx&lt;/font&gt;&lt;/u&gt;&lt;/a&gt;)</summary>
+  </item>
+  <item qn="jquery.qs.infobox~jQuery_namespace">
+    <summary ChangeDateTime="2016-08-20T20:45:21.6844797Z">jQuery root namespace.</summary>
+  </item>
+  <item qn="jquery.qs.infobox~jQuery.qs_namespace">
+    <summary ChangeDateTime="2016-08-20T20:46:21.5339697Z">jQuery.qs namespace.</summary>
+  </item>
+  <item qn="jquery.qs.infobox~jQuery.qs.infobox_namespace">
+    <summary ChangeDateTime="2016-08-20T20:46:21.5339697Z">jQuery.qs.infobox namespace.</summary>
+  </item>
+  <item qn="jquery.qs.infobox~jQuery.qs.infobox.options~create">
+    <summary ChangeDateTime="2016-08-20T20:48:06.8274879Z">Widget creation function.</summary>
+  </item>
+  <item qn="jquery.qs.infobox~jQuery.qs.infobox.options~disabled">
+    <summary ChangeDateTime="2016-08-20T20:48:06.8274879Z">Disable the infobox.</summary>
+  </item>
+  <item qn="jquery.qs.infobox~jQuery.qs.infobox~disable">
+    <summary ChangeDateTime="2016-08-20T20:55:47.6580423Z">Disable this Widget.</summary>
+  </item>
+  <item qn="jquery.qs.infobox~jQuery.qs.infobox~enable">
+    <summary ChangeDateTime="2016-08-20T20:55:47.6580423Z">Enable this Widget.</summary>
+  </item>
+  <item qn="jquery.qs.infobox~jQuery.qs.infobox~option">
+    <summary ChangeDateTime="2016-08-20T20:55:47.6580423Z">Get or Set one or more Widget options.</summary>
+  </item>
+  <Filters>
+    <CONTENTSTORECOMMON>
+      <IsIncludedItemsOnly>true</IsIncludedItemsOnly>
+    </CONTENTSTORECOMMON>
+    <CONTENTSTORELOCALIZATION>
+      <IsPrimaryLocaleContentPreviewEnabled>true</IsPrimaryLocaleContentPreviewEnabled>
+    </CONTENTSTORELOCALIZATION>
+    <DX.AJAXCONTENTSTOREFILTER>
+      <ShowProtectedMembers>true</ShowProtectedMembers>
+      <ShowProtectedFriendMembers>true</ShowProtectedFriendMembers>
+      <ShowFriendMembers>false</ShowFriendMembers>
+      <ShowPrivateMembers>false</ShowPrivateMembers>
+      <ShowInheritedMembers>false</ShowInheritedMembers>
+      <IsSourceCodeContentVisible>true</IsSourceCodeContentVisible>
+    </DX.AJAXCONTENTSTOREFILTER>
+  </Filters>
+</ContentFile>
