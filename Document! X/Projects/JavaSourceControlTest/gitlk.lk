@@ -641,4 +641,121 @@
   "\\template\\packages\\light\\images\\svg\\icon-39.svg": {
     "O": "DPISTORIUS-LT01"
   },
-  "\\template\\
+  "\\template\\packages\\light\\images\\svg\\icon-40.svg": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\template\\packages\\light\\images\\svg\\icon-41.svg": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\template\\packages\\light\\images\\svg\\icon-42.svg": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\template\\packages\\light\\images\\svg\\icon-43.svg": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\template\\packages\\light\\images\\svg\\icon-44.svg": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\template\\packages\\light\\images\\svg\\icon-45.svg": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\template\\packages\\light\\images\\svg\\icon-46.svg": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\template\\packages\\plugins-java\\css\\chm.mshc\\jquery-plugins.css": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\template\\packages\\plugins-java\\css\\default\\jquery-plugins.css": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\template\\packages\\plugins-java\\images\\i-loading-dark.png": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\template\\packages\\plugins-java\\images\\i-loading.png": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\template\\packages\\plugins-java\\images\\i-slimbox-closelabel-dark.png": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\template\\packages\\plugins-java\\images\\i-slimbox-closelabel.png": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\template\\packages\\plugins-java\\images\\i-slimbox-nextlabel.png": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\template\\packages\\plugins-java\\images\\i-slimbox-prevlabel.png": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\template\\packages\\plugins-java\\script\\chm.mshc\\debug\\jquery-plugins.js": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\template\\packages\\plugins-java\\script\\chm.mshc\\debug\\jquery-plugins.js.map": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\template\\packages\\plugins-java\\script\\chm.mshc\\jquery-plugins.min.js": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\template\\packages\\plugins-java\\script\\chm.mshc\\jquery-plugins.min.js.map": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\template\\packages\\plugins-java\\script\\default\\debug\\jquery-plugins.js": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\template\\packages\\plugins-java\\script\\default\\debug\\jquery-plugins.js.map": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\template\\packages\\plugins-java\\script\\default\\jquery-plugins.min.js": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\template\\packages\\plugins-java\\script\\default\\jquery-plugins.min.js.map": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\template\\packages\\plugins-topics\\css\\chm.mshc\\jquery-plugins.css": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\template\\packages\\plugins-topics\\css\\default\\jquery-plugins.css": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\template\\packages\\plugins-topics\\images\\i-loading-dark.png": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\template\\packages\\plugins-topics\\images\\i-loading.png": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\template\\packages\\plugins-topics\\images\\i-slimbox-closelabel-dark.png": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\template\\packages\\plugins-topics\\images\\i-slimbox-closelabel.png": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\template\\packages\\plugins-topics\\images\\i-slimbox-nextlabel.png": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\template\\packages\\plugins-topics\\images\\i-slimbox-prevlabel.png": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\template\\packages\\plugins-topics\\script\\chm.mshc\\debug\\jquery-plugins.js": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\template\\packages\\plugins-topics\\script\\chm.mshc\\debug\\jquery-plugins.js.map": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\template\\packages\\plugins-topics\\script\\chm.mshc\\jquery-plugins.min.js": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\template\\packages\\plugins-topics\\script\\chm.mshc\\jquery-plugins.min.js.map": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\template\\packages\\plugins-topics\\script\\default\\debug\\jquery-plugins.js": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\template\\packages\\plugins-topics\\script\\default\\debug\\jquery-plugins.js.map": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\template\\packages\\plugins-topics\\script\\default\\jquery-plugins.min.js": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\template\\packages\\plugins-topics\\script\\default\\jquery-plugins.min.js.map": {
+    "O": "DPISTORIUS-LT01"
+  }
+}
