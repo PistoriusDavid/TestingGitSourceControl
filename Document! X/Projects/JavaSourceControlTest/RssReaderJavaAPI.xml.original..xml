@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+    <members>
+        <member id="dc179aac-0bd7-4a63-b384-cddea466aa7a" name="getRssFeeds">
+            <summary>Gets the RSS feeds.</summary>
+            <value>The RSS feeds.</value>
+        </member>
+        <member id="a2efd44a-279a-40a2-9a39-75671d876d30" name="AddFeed">
+            <summary>Creates a new 
+                <see cref="2bc80c38-685b-40e6-957e-2bd9eeff9c7c" info="T:innovasys.rssreader.RssFeed"/> from a given url and adds it to the 
+                <see cref="dc179aac-0bd7-4a63-b384-cddea466aa7a" info="M:innovasys.rssreader.RssManager.getRssFeeds()"/> collection.
+            </summary>
+            <param name="url">The URL to the feed xml.</param>
+        </member>
+        <member id="e59b88c7-2a47-4b6d-bbe5-faffc06a4979" name="RemoveFeed">
+            <summary>Removes an 
+                <see cref="2bc80c38-685b-40e6-957e-2bd9eeff9c7c" info="T:innovasys.rssreader.RssFeed"/> from the 
+                <see cref="dc179aac-0bd7-4a63-b384-cddea466aa7a" info="M:innovasys.rssreader.RssManager.getRssFeeds()"/> collection.
+            </summary>
+            <param name="RssFeed">The 
+                <see cref="2bc80c38-685b-40e6-957e-2bd9eeff9c7c" info="T:innovasys.rssreader.RssFeed"/> to remove.
+            </param>
+        </member>
+        <member id="6d1d2110-8c1e-4be5-be3f-c9b2f4c60262" name="RemoveFeed">
+            <summary>Removes an 
+                <see cref="2bc80c38-685b-40e6-957e-2bd9eeff9c7c" info="T:innovasys.rssreader.RssFeed"/> from the 
+                <see cref="dc179aac-0bd7-4a63-b384-cddea466aa7a" info="M:innovasys.rssreader.RssManager.getRssFeeds()"/> collection.
+            </summary>
+            <param name="name">The name of the 
+                <see cref="2bc80c38-685b-40e6-957e-2bd9eeff9c7c" info="T:innovasys.rssreader.RssFeed"/> to remove.
+            </param>
+        </member>
+        <member id="860b5c0b-31c0-4cfc-8347-2c6d428b92fa" name="UpdateFeeds">
+            <summary>Downloads any new available 
+                <see cref="501cbe7a-e44c-470b-8c31-9994fb8b9f73" info="T:innovasys.rssreader.RssItem"/> objects for every 
+                <see cref="2bc80c38-685b-40e6-957e-2bd9eeff9c7c" info="T:innovasys.rssreader.RssFeed"/> in the 
+                <see cref="dc179aac-0bd7-4a63-b384-cddea466aa7a" info="M:innovasys.rssreader.RssManager.getRssFeeds()"/> collection.
+            </summary>
+        </member>
+        <member id="1dbb52a9-543f-45a8-a1dd-d101f15d0a9e" name="New">
+            <summary>A new 
+                <see cref="501cbe7a-e44c-470b-8c31-9994fb8b9f73" info="T:innovasys.rssreader.RssItem"/>.
+            </summary>
+        </member>
+        <member id="76324518-2fb9-47b1-a4fe-5144ca86b94b" name="Unread">
+            <summary>An 
+                <see cref="501cbe7a-e44c-470b-8c31-9994fb8b9f73" info="T:innovasys.rssreader.RssItem"/> not downloaded in the last update but still unread.
+            </summary>
+        </member>
+        <member id="7e1111e9-1e74-4a3d-8f99-a9ea6ef83549" name="Read">
+            <summary>An 
+                <see cref="501cbe7a-e44c-470b-8c31-9994fb8b9f73" info="T:innovasys.rssreader.RssItem"/> that has ben viewed.
+            </summary>
+        </member>
+        <member id="ce642c47-f14c-4839-987f-68fbc7cea1ef" name="RssItemState">
+            <summary>Defines the 3 different states than an 
+                <see cref="501cbe7a-e44c-470b-8c31-9994fb8b9f73" info="T:innovasys.rssreader.RssItem"/> will be.
+            </summary>
+        </member>
+        <member id="b8211c34-0ab6-4aae-9e5a-16a2a3c8a669" name="ItemById">
+            <summary>Returns an item from a given id.</summary>
+            <param name="id">The id of the item to return.</param>
+        </member>
+        <member id="d4594af5-7a91-412f-991b-2e5b67c4a7b5" name="RssItemCollection">
+            <summary>Initializes a new instance of the 
+                <see cref="RssItemCollection"/> class.
+            </summary>
+        </member>
+        <member id="db799f75-9d42-4ce5-8466-e87e05b05bff" name="getTitle">
+            <summary>Gets the title.</summary>
+            <value>The title.</value>
+        </member>
+        <member id="18c26f53-435f-4ac5-b157-903b77c1a22a" name="getDescription">
+            <summary>Gets the description.</summary>
+            <value>The description.</value>
+        </member>
+        <member id="545c9340-12d2-48a9-83cc-1edb0b6fd135" name="getLink">
+            <summary>Gets the link.</summary>
+            <value>The link.</value>
+        </member>
+        <member id="71fd6daa-a556-4908-a383-dd50d7c142d2" name="getModifiedOn">
+            <summary>Gets the modified on.</summary>
+            <value>The modified on.</value>
+        </member>
+        <member id="1eba1ed0-b8a9-40bb-b6e4-0ae7f2a30455" name="getId">
+            <summary>Gets the ID.</summary>
+            <value>The id.</value>
+        </member>
+        <member id="52cd6705-ce69-4e91-be4d-c40ed022df53" name="getState">
+            <summary>Gets or sets the state.</summary>
+            <value>The state.</value>
+        </member>
+        <member id="c5f1b6cc-cb0d-4187-9ec6-ad6e435903d1" name="getParentFeed">
+            <summary>Gets or sets the parent feed.</summary>
+            <value>The parent feed.</value>
+        </member>
+        <member id="038bf6de-f9c6-448a-87d3-1ccb3f1d3fb2" name="RssItem">
+            <summary>Initializes a new instance of the 
+                <see cref="501cbe7a-e44c-470b-8c31-9994fb8b9f73" info="T:innovasys.rssreader.RssItem"/> class.
+            </summary>
+            <param name="title">The title of the 
+                <see cref="501cbe7a-e44c-470b-8c31-9994fb8b9f73" info="T:innovasys.rssreader.RssItem"/>.
+            </param>
+            <param name="link">Link to the source behind the 
+                <see cref="501cbe7a-e44c-470b-8c31-9994fb8b9f73" info="T:innovasys.rssreader.RssItem"/>.
+            </param>
+        </member>
+        <member id="ce0f5938-bc53-49b2-adfb-dfd63dee7787" name="RssItem">
+            <summary>Initializes a new instance of the 
+                <see cref="501cbe7a-e44c-470b-8c31-9994fb8b9f73" info="T:innovasys.rssreader.RssItem"/> class.
+            </summary>
+            <param name="title">The title of the 
+                <see cref="501cbe7a-e44c-470b-8c31-9994fb8b9f73" info="T:innovasys.rssreader.RssItem"/>.
+            </param>
+            <param name="description">The description of the 
+                <see cref="501cbe7a-e44c-470b-8c31-9994fb8b9f73" info="T:innovasys.rssreader.RssItem"/>.
+            </param>
+            <param name="link">Link to the source behind the 
+                <see cref="501cbe7a-e44c-470b-8c31-9994fb8b9f73" info="T:innovasys.rssreader.RssItem"/>.
+            </param>
+            <param name="modifiedOn">The date that the item was published.</param>
+        </member>
+        <member id="3525520e-92fa-44c5-8996-b81acf2cc6bf" name="RssItem">
+            <summary>Initializes a new instance of the 
+                <see cref="501cbe7a-e44c-470b-8c31-9994fb8b9f73" info="T:innovasys.rssreader.RssItem"/> class.
+            </summary>
+            <param name="title">The title of the 
+                <see cref="501cbe7a-e44c-470b-8c31-9994fb8b9f73" info="T:innovasys.rssreader.RssItem"/>.
+            </param>
+            <param name="description">The description.</param>
+            <param name="link">Link to the source behind the 
+                <see cref="501cbe7a-e44c-470b-8c31-9994fb8b9f73" info="T:innovasys.rssreader.RssItem"/>.
+            </param>
+            <param name="modifiedOn">The modified on.</param>
+            <param name="state">The 
+                <see cref="ce642c47-f14c-4839-987f-68fbc7cea1ef" info="T:innovasys.rssreader.RssItemState"/> to set the item to.
+            </param>
+        </member>
+        <member id="f1c1feb4-504b-4078-9170-bbede88fc263" name="ItemByName">
+            <summary>Returns an Item for a given name.</summary>
+            <param name="name">The name of the Item to return.</param>
+        </member>
+        <member id="439b4d22-0a26-4f31-adcf-7eda965de4e2" name="RssFeedCollection">
+            <summary>Initializes a new instance of the 
+                <see cref="f76141d5-8bd1-425e-89e7-421bb66accdd" info="T:innovasys.rssreader.RssFeedCollection"/> class.
+            </summary>
+        </member>
+        <member id="b2bb8a34-675a-42f3-b486-2dbd029e854c" name="getRssItems">
+            <summary>Gets the RSS items.</summary>
+            <value>The RSS items.</value>
+        </member>
+        <member id="519dbdc4-5894-4851-a3ee-134ddcff2d2a" name="getUrl">
+            <summary>Gets the URL.</summary>
+            <value>The URL.</value>
+        </member>
+        <member id="56cd3cb8-1d02-40c1-8047-6b4b1e1a7837" name="getDescription">
+            <summary>Gets the description.</summary>
+            <value>The description.</value>
+        </member>
+        <member id="6af9afbe-b382-48fa-a542-eef7b904c2ff" name="getName">
+            <summary>Gets the name.</summary>
+            <value>The name.</value>
+        </member>
+        <member id="87931673-2633-48fc-8518-0e723b2f3ba6" name="getModifiedOn">
+            <summary>Gets the modified on.</summary>
+            <value>The modified on.</value>
+        </member>
+        <member id="f5846f79-28ad-4f4f-8704-a477805b1192" name="UpdateFeed">
+            <summary>Retrieves any new 
+                <see cref="501cbe7a-e44c-470b-8c31-9994fb8b9f73" info="T:innovasys.rssreader.RssItem"/> objects for this feed.
+            </summary>
+            <returns>A collection of 
+                <see cref="501cbe7a-e44c-470b-8c31-9994fb8b9f73" info="T:innovasys.rssreader.RssItem"/> objects, with state set to New.
+            </returns>
+        </member>
+        <member id="229d1e73-eeca-408c-89b3-77efa5aabcb2" name="DeleteRssItem">
+            <summary>Deletes the 
+                <see cref="501cbe7a-e44c-470b-8c31-9994fb8b9f73" info="T:innovasys.rssreader.RssItem"/>
+            </summary>
+            <param name="item">The 
+                <see cref="501cbe7a-e44c-470b-8c31-9994fb8b9f73" info="T:innovasys.rssreader.RssItem"/> to delete.
+            </param>
+        </member>
+        <member id="e2ed0cc1-6bb0-4e11-9aec-039b55f877a1" name="DeleteRssItem">
+            <summary>Deletes the 
+                <see cref="501cbe7a-e44c-470b-8c31-9994fb8b9f73" info="T:innovasys.rssreader.RssItem"/>.
+            </summary>
+            <param name="rssItemId">The 
+                <see cref="501cbe7a-e44c-470b-8c31-9994fb8b9f73" info="T:innovasys.rssreader.RssItem"/> ID.
+            </param>
+        </member>
+        <member id="c89d7b0c-abc3-4805-807f-0b098927b10d" name="GetRssXml">
+            <summary>Gets the RSS XML.</summary>
+            <param name="url">The URL.</param>
+        </member>
+        <member id="2e3abc8f-c279-4fe1-ae2a-0d2fceb692d4" name="RssFeed">
+            <summary>Initializes a new instance of the 
+                <see cref="2bc80c38-685b-40e6-957e-2bd9eeff9c7c" info="T:innovasys.rssreader.RssFeed"/> class.
+            </summary>
+            <param name="url">The Url to download the rss feed xml from.</param>
+        </member>
+    </members>
+</doc>
