@@ -641,4 +641,115 @@
   "\\template\\packages\\light\\images\\svg\\icon-43.svg": {
     "O": "DPISTORIUS-LT01"
   },
-  "\\templat
+  "\\template\\packages\\light\\images\\svg\\icon-44.svg": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\template\\packages\\light\\images\\svg\\icon-45.svg": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\template\\packages\\light\\images\\svg\\icon-46.svg": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\template\\packages\\plugins-topics\\css\\chm.mshc\\jquery-plugins.css": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\template\\packages\\plugins-topics\\css\\default\\jquery-plugins.css": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\template\\packages\\plugins-topics\\images\\i-loading-dark.png": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\template\\packages\\plugins-topics\\images\\i-loading.png": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\template\\packages\\plugins-topics\\images\\i-slimbox-closelabel-dark.png": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\template\\packages\\plugins-topics\\images\\i-slimbox-closelabel.png": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\template\\packages\\plugins-topics\\images\\i-slimbox-nextlabel.png": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\template\\packages\\plugins-topics\\images\\i-slimbox-prevlabel.png": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\template\\packages\\plugins-topics\\script\\chm.mshc\\debug\\jquery-plugins.js": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\template\\packages\\plugins-topics\\script\\chm.mshc\\debug\\jquery-plugins.js.map": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\template\\packages\\plugins-topics\\script\\chm.mshc\\jquery-plugins.min.js": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\template\\packages\\plugins-topics\\script\\chm.mshc\\jquery-plugins.min.js.map": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\template\\packages\\plugins-topics\\script\\default\\debug\\jquery-plugins.js": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\template\\packages\\plugins-topics\\script\\default\\debug\\jquery-plugins.js.map": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\template\\packages\\plugins-topics\\script\\default\\jquery-plugins.min.js": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\template\\packages\\plugins-topics\\script\\default\\jquery-plugins.min.js.map": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\template\\packages\\plugins-xsd\\css\\chm.mshc\\jquery-plugins.css": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\template\\packages\\plugins-xsd\\css\\default\\jquery-plugins.css": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\template\\packages\\plugins-xsd\\images\\i-loading-dark.png": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\template\\packages\\plugins-xsd\\images\\i-loading.png": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\template\\packages\\plugins-xsd\\images\\i-slimbox-closelabel-dark.png": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\template\\packages\\plugins-xsd\\images\\i-slimbox-closelabel.png": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\template\\packages\\plugins-xsd\\images\\i-slimbox-nextlabel.png": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\template\\packages\\plugins-xsd\\images\\i-slimbox-prevlabel.png": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\template\\packages\\plugins-xsd\\script\\chm.mshc\\debug\\jquery-plugins.js": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\template\\packages\\plugins-xsd\\script\\chm.mshc\\debug\\jquery-plugins.js.map": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\template\\packages\\plugins-xsd\\script\\chm.mshc\\jquery-plugins.min.js": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\template\\packages\\plugins-xsd\\script\\chm.mshc\\jquery-plugins.min.js.map": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\template\\packages\\plugins-xsd\\script\\default\\debug\\jquery-plugins.js": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\template\\packages\\plugins-xsd\\script\\default\\debug\\jquery-plugins.js.map": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\template\\packages\\plugins-xsd\\script\\default\\jquery-plugins.min.js": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\template\\packages\\plugins-xsd\\script\\default\\jquery-plugins.min.js.map": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\XSDProjectTest.dxp.bak": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\XSDProjectTest.dxw": {
+    "O": "DPISTORIUS-LT01"
+  }
+}
