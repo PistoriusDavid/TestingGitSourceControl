@@ -2,8 +2,22 @@
 <ContentFile Version="2010" Moniker="&lt;XsdSchema SchemaLocationType=&quot;File&quot; SchemaType=&quot;Infer&quot; Title=&quot;Testing add Schema&quot; IsExternallyManaged=&quot;false&quot; SchemaId=&quot;&quot; SchemaParentItemId=&quot;&quot; Name=&quot;Testing add&quot; SchemaLocation=&quot;..\DatabaseSample\projectdata\glossary.xml&quot; /&gt;" DocType="DX.XSD" IsLocalizationDisabled="false">
   <RelatedProject>TestingWithOtherSourceControl.dxp</RelatedProject>
   <State>
-    <Attributes />
+    <Attributes>
+      <Assembly key="scrollPosition" valuetype="integer">0</Assembly>
+    </Attributes>
   </State>
-  <LastSelectedItem />
-  <Filters />
+  <LastSelectedItem>Testing add_xsd~e-GlossaryProjectPlugin~p-Sequence</LastSelectedItem>
+  <Filters>
+    <DX.XSDCONTENTSTOREFILTER>
+      <IsSourceCommentsVisible>true</IsSourceCommentsVisible>
+    </DX.XSDCONTENTSTOREFILTER>
+  </Filters>
+  <Filters>
+    <CONTENTSTORECOMMON>
+      <IsIncludedItemsOnly>true</IsIncludedItemsOnly>
+    </CONTENTSTORECOMMON>
+    <CONTENTSTORELOCALIZATION>
+      <IsPrimaryLocaleContentPreviewEnabled>true</IsPrimaryLocaleContentPreviewEnabled>
+    </CONTENTSTORELOCALIZATION>
+  </Filters>
 </ContentFile>

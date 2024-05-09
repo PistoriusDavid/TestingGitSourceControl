@@ -14,6 +14,7 @@
   <ContentFiles>
     <ContentFile FileName="VBA6.dxc" Moniker="..\..\..\..\..\..\..\repos\Renatus\ThirdParty\ComComponents\VBA6.DLL" DocType="DX.COM" />
     <ContentFile FileName="Testing add Schema.dxc" Moniker="&lt;XsdSchema SchemaLocationType=&quot;File&quot; SchemaType=&quot;Infer&quot; Title=&quot;Testing add Schema&quot; IsExternallyManaged=&quot;false&quot; SchemaId=&quot;&quot; SchemaParentItemId=&quot;&quot; Name=&quot;Testing add&quot; SchemaLocation=&quot;..\DatabaseSample\projectdata\glossary.xml&quot; /&gt;" DocType="DX.XSD" />
+    <ContentFile FileName="Innovasys.HelpStudio.CommandLine.dxc" Moniker="..\..\..\..\..\..\..\repos\Renatus\BuildOutputs\Debug\Innovasys.HelpStudio.CommandLine.exe" DocType="DX.NET" />
   </ContentFiles>
   <AutoDocFiles>
     <AutoDocFile FileName=".Net Assembly documentation.dxa" DocType="DX.NET" />
@@ -46,7 +47,9 @@
   </ComProjectPlugin>
   <AjaxProjectPlugin />
   <JavaProjectPlugin />
-  <DotNetAssemblies />
+  <DotNetAssemblies>
+    <Assembly FileName="..\..\..\..\..\..\..\repos\Renatus\BuildOutputs\Debug\Innovasys.HelpStudio.CommandLine.exe" RootTypeName="" />
+  </DotNetAssemblies>
   <DatabaseProjectPlugin>
     <Databases />
   </DatabaseProjectPlugin>
