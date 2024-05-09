@@ -6,5 +6,20 @@
   </State>
   <LastSelectedItem />
   <AutoDocRules Id="c677cb09-d3bf-48e4-b2c6-f9235a095177" />
-  <Filters />
+  <Filters>
+    <CONTENTSTORECOMMON>
+      <IsIncludedItemsOnly>true</IsIncludedItemsOnly>
+    </CONTENTSTORECOMMON>
+    <CONTENTSTORELOCALIZATION>
+      <IsPrimaryLocaleContentPreviewEnabled>true</IsPrimaryLocaleContentPreviewEnabled>
+    </CONTENTSTORELOCALIZATION>
+    <DX.NETCONTENTSTOREFILTER>
+      <ShowProtectedMembers>true</ShowProtectedMembers>
+      <ShowProtectedFriendMembers>true</ShowProtectedFriendMembers>
+      <ShowFriendMembers>false</ShowFriendMembers>
+      <ShowPrivateMembers>false</ShowPrivateMembers>
+      <ShowInheritedMembers>false</ShowInheritedMembers>
+      <IsSourceCodeContentVisible>true</IsSourceCodeContentVisible>
+    </DX.NETCONTENTSTOREFILTER>
+  </Filters>
 </AutoDocFile>
