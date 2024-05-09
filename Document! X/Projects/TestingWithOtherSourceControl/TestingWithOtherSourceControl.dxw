@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ApplicationWorkspace>
   <RecentItems>
-    <RecentItem Key=".Net Assembly documentation.dxa.-" IsPinned="false" Type="Innovasys.DocumentX.AutoDoc.RecentAutoDocFile" Assembly="Innovasys.DocumentX.AutoDoc">
+    <RecentItem Key="Innovasys.HelpStudio.Client.dxc.-" IsPinned="false" Type="Innovasys.DocumentX.ContentFiles.RecentContentFile" Assembly="Innovasys.DocumentX.ContentFiles">
       <HandlerName>CONTENT FILES</HandlerName>
       <Category>Content Files</Category>
     </RecentItem>
