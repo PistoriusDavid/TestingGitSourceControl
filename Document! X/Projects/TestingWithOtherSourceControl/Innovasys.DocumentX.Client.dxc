@@ -2,8 +2,25 @@
 <ContentFile Version="2010" Moniker="..\..\..\..\..\..\..\repos\Renatus\BuildOutputs\Debug\Innovasys.DocumentX.Client.exe" DocType="DX.NET" IsLocalizationDisabled="false">
   <RelatedProject>TestingWithOtherSourceControl.dxp</RelatedProject>
   <State>
-    <Attributes />
+    <Attributes>
+      <Assembly key="scrollPosition" valuetype="integer">0</Assembly>
+    </Attributes>
   </State>
-  <LastSelectedItem />
-  <Filters />
+  <LastSelectedItem>Innovasys.DocumentX.Client~Innovasys.DocumentX.Client.DummyWindow</LastSelectedItem>
+  <Filters>
+    <CONTENTSTORECOMMON>
+      <IsIncludedItemsOnly>true</IsIncludedItemsOnly>
+    </CONTENTSTORECOMMON>
+    <CONTENTSTORELOCALIZATION>
+      <IsPrimaryLocaleContentPreviewEnabled>true</IsPrimaryLocaleContentPreviewEnabled>
+    </CONTENTSTORELOCALIZATION>
+    <DX.NETCONTENTSTOREFILTER>
+      <ShowProtectedMembers>true</ShowProtectedMembers>
+      <ShowProtectedFriendMembers>true</ShowProtectedFriendMembers>
+      <ShowFriendMembers>false</ShowFriendMembers>
+      <ShowPrivateMembers>false</ShowPrivateMembers>
+      <ShowInheritedMembers>false</ShowInheritedMembers>
+      <IsSourceCodeContentVisible>true</IsSourceCodeContentVisible>
+    </DX.NETCONTENTSTOREFILTER>
+  </Filters>
 </ContentFile>
