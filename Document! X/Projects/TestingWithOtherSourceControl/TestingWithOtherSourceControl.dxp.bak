@@ -13,13 +13,30 @@
   <Title />
   <ContentFiles>
     <ContentFile FileName="Innovasys.SourceControl.Git.dxc" Moniker="..\..\..\..\..\..\..\repos\Renatus\BuildOutputs\Debug\Innovasys.SourceControl.Git.dll" DocType="DX.NET" />
+    <ContentFile FileName="Innovasys.DocumentX.Client.dxc" Moniker="..\..\..\..\..\..\..\repos\Renatus\BuildOutputs\Debug\Innovasys.DocumentX.Client.exe" DocType="DX.NET" />
   </ContentFiles>
   <AutoDocFiles>
     <AutoDocFile FileName=".Net Assembly documentation.dxa" DocType="DX.NET" />
   </AutoDocFiles>
   <ContentFromProjectPlugin />
   <Filters>
-    <ExcludedItems />
+    <ExcludedItems>
+      <ExcludedItem>Innovasys.SourceControl.Git~Innovasys.SourceControl.Git.ExtensionMethods</ExcludedItem>
+      <ExcludedItem>Innovasys.SourceControl.Git~Innovasys.SourceControl.Git.ProcessExecutor</ExcludedItem>
+      <ExcludedItem>Innovasys.SourceControl.Git~Innovasys.SourceControl.Git.AuthorProvider</ExcludedItem>
+      <ExcludedItem>Innovasys.SourceControl.Git~Innovasys.SourceControl.Git.MachineIdentifierProvider</ExcludedItem>
+      <ExcludedItem>Innovasys.SourceControl.Git~Innovasys.SourceControl.Git.UserCredentialsProvider</ExcludedItem>
+      <ExcludedItem>Innovasys.SourceControl.Git~Innovasys.SourceControl.Git.GitSourceLocationProvider</ExcludedItem>
+      <ExcludedItem>Innovasys.SourceControl.Git~Innovasys.SourceControl.Git.LockManager</ExcludedItem>
+      <ExcludedItem>Innovasys.SourceControl.Git~Innovasys.SourceControl.Git.LockRootLocationProvider</ExcludedItem>
+      <ExcludedItem>Innovasys.SourceControl.Git~Innovasys.SourceControl.Git.GitOperationExecutor</ExcludedItem>
+      <ExcludedItem>Innovasys.SourceControl.Git~Innovasys.SourceControl.Git.GitSourceControl</ExcludedItem>
+      <ExcludedItem>Innovasys.SourceControl.Git~Innovasys.SourceControl.Git.GitBranchPickerViewModel+BranchNamesSorting</ExcludedItem>
+      <ExcludedItem>Innovasys.SourceControl.Git~Innovasys.SourceControl.Git.IAuthorProvider</ExcludedItem>
+      <ExcludedItem>Innovasys.SourceControl.Git~Innovasys.SourceControl.Git.ICredentialsProvider</ExcludedItem>
+      <ExcludedItem>Innovasys.SourceControl.Git~Innovasys.SourceControl.Git.ILockManager</ExcludedItem>
+      <ExcludedItem>Innovasys.SourceControl.Git~Innovasys.SourceControl.Git.IGitSourceControl</ExcludedItem>
+    </ExcludedItems>
   </Filters>
   <JavascriptProjectPlugin />
   <ComProjectPlugin />
@@ -27,6 +44,7 @@
   <JavaProjectPlugin />
   <DotNetAssemblies>
     <Assembly FileName="..\..\..\..\..\..\..\repos\Renatus\BuildOutputs\Debug\Innovasys.SourceControl.Git.dll" RootTypeName="" />
+    <Assembly FileName="..\..\..\..\..\..\..\repos\Renatus\BuildOutputs\Debug\Innovasys.DocumentX.Client.exe" RootTypeName="" />
   </DotNetAssemblies>
   <DatabaseProjectPlugin>
     <Databases />
