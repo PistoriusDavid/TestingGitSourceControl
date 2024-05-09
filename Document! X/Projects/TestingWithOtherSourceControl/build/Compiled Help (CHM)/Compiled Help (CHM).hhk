@@ -1,0 +1,1897 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<meta name="GENERATOR" content="Microsoft&reg; HTML Help Workshop 4.1">
+<!-- Sitemap 1.0 -->
+</HEAD><BODY>
+<OBJECT type="text/site properties">
+<param name="Font" value=",8,0">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="AccessControlBanner Class" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.AccessControlBanner.html" >
+
+</OBJECT> 
+<UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Members" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.AccessControlBanner_members.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Overview" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.AccessControlBanner.html" >
+
+</OBJECT> 
+
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="AccessControlBannerViewModel Class" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.AccessControlBannerViewModel.html" >
+
+</OBJECT> 
+<UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Members" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.AccessControlBannerViewModel_members.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Overview" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.AccessControlBannerViewModel.html" >
+
+</OBJECT> 
+
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="AddToSourceControl Class" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.AddToSourceControl.html" >
+
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlCommands.AddToSourceControl.html" >
+
+</OBJECT> 
+<UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Members" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.AddToSourceControl_members.html" >
+
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlCommands.AddToSourceControl_members.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Overview" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.AddToSourceControl.html" >
+
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlCommands.AddToSourceControl.html" >
+
+</OBJECT> 
+
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="AddToSourceControlEventArgs Class" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.AddToSourceControlEventArgs.html" >
+
+</OBJECT> 
+<UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Members" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.AddToSourceControlEventArgs_members.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Overview" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.AddToSourceControlEventArgs.html" >
+
+</OBJECT> 
+
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="AddToSourceControlViewModel Class" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.AddToSourceControlViewModel.html" >
+
+</OBJECT> 
+<UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Members" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.AddToSourceControlViewModel_members.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Overview" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.AddToSourceControlViewModel.html" >
+
+</OBJECT> 
+
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="AutomaticAddToSourceControlException Class" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.Exceptions.AutomaticAddToSourceControlException.html" >
+
+</OBJECT> 
+<UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Members" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.Exceptions.AutomaticAddToSourceControlException_members.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Overview" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.Exceptions.AutomaticAddToSourceControlException.html" >
+
+</OBJECT> 
+
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="BackstageOpenFromSourceControlView Class" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.BackstageOpenFromSourceControlView.html" >
+
+</OBJECT> 
+<UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Members" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.BackstageOpenFromSourceControlView_members.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Overview" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.BackstageOpenFromSourceControlView.html" >
+
+</OBJECT> 
+
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="BrowseOpenProjectResult Class" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.BrowseOpenProjectResult.html" >
+
+</OBJECT> 
+<UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Members" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.BrowseOpenProjectResult_members.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Overview" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.BrowseOpenProjectResult.html" >
+
+</OBJECT> 
+
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="BrowseProjectResult Class" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.BrowseProjectResult.html" >
+
+</OBJECT> 
+<UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Members" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.BrowseProjectResult_members.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Overview" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.BrowseProjectResult.html" >
+
+</OBJECT> 
+
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="BrowseSourceControlConnection Class" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlCommands.BrowseSourceControlConnection.html" >
+
+</OBJECT> 
+<UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Members" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlCommands.BrowseSourceControlConnection_members.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Overview" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlCommands.BrowseSourceControlConnection.html" >
+
+</OBJECT> 
+
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="BrowseSourceControlViewModel Class" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.BrowseSourceControlViewModel.html" >
+
+</OBJECT> 
+<UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Members" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.BrowseSourceControlViewModel_members.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Overview" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.BrowseSourceControlViewModel.html" >
+
+</OBJECT> 
+
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CheckIn Class" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlCommands.CheckIn.html" >
+
+</OBJECT> 
+<UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Members" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlCommands.CheckIn_members.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Overview" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlCommands.CheckIn.html" >
+
+</OBJECT> 
+
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CheckOut Class" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlCommands.CheckOut.html" >
+
+</OBJECT> 
+<UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Members" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlCommands.CheckOut_members.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Overview" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlCommands.CheckOut.html" >
+
+</OBJECT> 
+
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ChildProjectsSourceCallback Delegate" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.ChildProjectsSourceCallback.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Collection Collection" >
+<param name="Local" value="VBA~Collection.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CommandLineHandler Class" >
+<param name="Local" value="Innovasys.HelpStudio.CommandLine~Innovasys.HelpStudio.CommandLine.CommandLineHandler.html" >
+
+</OBJECT> 
+<UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Members" >
+<param name="Local" value="Innovasys.HelpStudio.CommandLine~Innovasys.HelpStudio.CommandLine.CommandLineHandler_members.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Overview" >
+<param name="Local" value="Innovasys.HelpStudio.CommandLine~Innovasys.HelpStudio.CommandLine.CommandLineHandler.html" >
+
+</OBJECT> 
+
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CommandManifest Class" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlCommands.CommandManifest.html" >
+
+</OBJECT> 
+<UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Members" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlCommands.CommandManifest_members.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Overview" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlCommands.CommandManifest.html" >
+
+</OBJECT> 
+
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Constants Object" >
+<param name="Local" value="VBA~Constants.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Conversion Object" >
+<param name="Local" value="VBA~Conversion.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="CreateNewSourceControlProject Class" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlCommands.CreateNewSourceControlProject.html" >
+
+</OBJECT> 
+<UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Members" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlCommands.CreateNewSourceControlProject_members.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Overview" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlCommands.CreateNewSourceControlProject.html" >
+
+</OBJECT> 
+
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="DateTime Object" >
+<param name="Local" value="VBA~DateTime.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="DummyProvider Class" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.DummyProvider.html" >
+
+</OBJECT> 
+<UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Members" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.DummyProvider_members.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Overview" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.DummyProvider.html" >
+
+</OBJECT> 
+
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ErrObject Object" >
+<param name="Local" value="VBA~ErrObject.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ExtensionMethods Class" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.ExtensionMethods.html" >
+
+</OBJECT> 
+<UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Members" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.ExtensionMethods_members.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Overview" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.ExtensionMethods.html" >
+
+</OBJECT> 
+
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="FileSystem Object" >
+<param name="Local" value="VBA~FileSystem.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Financial Object" >
+<param name="Local" value="VBA~Financial.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetLatest Class" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlCommands.GetLatest.html" >
+
+</OBJECT> 
+<UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Members" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlCommands.GetLatest_members.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Overview" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlCommands.GetLatest.html" >
+
+</OBJECT> 
+
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GetRecursiveArgs Class" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.GetRecursiveArgs.html" >
+
+</OBJECT> 
+<UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Members" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.GetRecursiveArgs_members.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Overview" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.GetRecursiveArgs.html" >
+
+</OBJECT> 
+
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GettingStartedSourceControl Class" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.GettingStartedSourceControl.html" >
+
+</OBJECT> 
+<UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Members" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.GettingStartedSourceControl_members.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Overview" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.GettingStartedSourceControl.html" >
+
+</OBJECT> 
+
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GitSourceControlProcessor Class" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.GitSourceControlProcessor.html" >
+
+</OBJECT> 
+<UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Members" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.GitSourceControlProcessor_members.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Overview" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.GitSourceControlProcessor.html" >
+
+</OBJECT> 
+
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="GlossaryProjectPlugin Element" >
+<param name="Local" value="Testing add_xsd~e-GlossaryProjectPlugin.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="History Class" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlCommands.History.html" >
+
+</OBJECT> 
+<UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Members" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlCommands.History_members.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Overview" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlCommands.History.html" >
+
+</OBJECT> 
+
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="IGitProvider Interface" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.IGitProvider.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Information Object" >
+<param name="Local" value="VBA~Information.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Innovasys.HelpStudio.CommandLine Assembly" >
+<param name="Local" value="Innovasys.HelpStudio.CommandLine.html" >
+
+</OBJECT> 
+<UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Overview" >
+<param name="Local" value="Innovasys.HelpStudio.CommandLine.html" >
+
+</OBJECT> 
+
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Innovasys.HelpStudio.CommandLine Namespace" >
+<param name="Local" value="Innovasys.HelpStudio.CommandLine~Innovasys.HelpStudio.CommandLine_namespace.html" >
+
+</OBJECT> 
+<UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Overview" >
+<param name="Local" value="Innovasys.HelpStudio.CommandLine~Innovasys.HelpStudio.CommandLine_namespace.html" >
+
+</OBJECT> 
+
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Innovasys.SourceControl Assembly" >
+<param name="Local" value="Innovasys.SourceControl.html" >
+
+</OBJECT> 
+<UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Overview" >
+<param name="Local" value="Innovasys.SourceControl.html" >
+
+</OBJECT> 
+
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Innovasys.SourceControl Namespace" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl_namespace.html" >
+
+</OBJECT> 
+<UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Overview" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl_namespace.html" >
+
+</OBJECT> 
+
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Innovasys.SourceControl.Exceptions Namespace" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.Exceptions_namespace.html" >
+
+</OBJECT> 
+<UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Overview" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.Exceptions_namespace.html" >
+
+</OBJECT> 
+
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Innovasys.SourceControl.SourceControlCommands Namespace" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlCommands_namespace.html" >
+
+</OBJECT> 
+<UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Overview" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlCommands_namespace.html" >
+
+</OBJECT> 
+
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Interaction Object" >
+<param name="Local" value="VBA~Interaction.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ISourceControlContainer Interface" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.ISourceControlContainer.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ISourceControlCustomBrowse Interface" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.ISourceControlCustomBrowse.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ISourceControlItem Interface" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.ISourceControlItem.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ISourceControlItemContainer Interface" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.ISourceControlItemContainer.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ISourceControlItemInclusion Interface" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.ISourceControlItemInclusion.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ISourceControlProjectEvents Interface" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.ISourceControlProjectEvents.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ISourceControlProvider Interface" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.ISourceControlProvider.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ISourceControlReadiness Interface" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.ISourceControlReadiness.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ISourceControlStandardBrowse Interface" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.ISourceControlStandardBrowse.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ISourceControlSubitem Interface" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.ISourceControlSubitem.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ItemChangeMonitor Class" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.ItemChangeMonitor.html" >
+
+</OBJECT> 
+<UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Members" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.ItemChangeMonitor_members.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Overview" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.ItemChangeMonitor.html" >
+
+</OBJECT> 
+
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ItemOperationEventArgs Class" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.ItemOperationEventArgs.html" >
+
+</OBJECT> 
+<UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Members" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.ItemOperationEventArgs_members.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Overview" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.ItemOperationEventArgs.html" >
+
+</OBJECT> 
+
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ItemsChangedNotificationView Class" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.ItemsChangedNotificationView.html" >
+
+</OBJECT> 
+<UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Members" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.ItemsChangedNotificationView_members.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Overview" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.ItemsChangedNotificationView.html" >
+
+</OBJECT> 
+
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ItemsChangedNotificationViewModel Class" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.ItemsChangedNotificationViewModel.html" >
+
+</OBJECT> 
+<UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Members" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.ItemsChangedNotificationViewModel_members.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Overview" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.ItemsChangedNotificationViewModel.html" >
+
+</OBJECT> 
+
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ItemTree Class" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.ItemTree.html" >
+
+</OBJECT> 
+<UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Members" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.ItemTree_members.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Overview" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.ItemTree.html" >
+
+</OBJECT> 
+
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ItemTreeDataTemplateSelector Class" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.ItemTreeDataTemplateSelector.html" >
+
+</OBJECT> 
+<UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Members" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.ItemTreeDataTemplateSelector_members.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Overview" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.ItemTreeDataTemplateSelector.html" >
+
+</OBJECT> 
+
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ItemWrapper Class" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.ItemWrapper.html" >
+
+</OBJECT> 
+<UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Members" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.ItemWrapper_members.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Overview" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.ItemWrapper.html" >
+
+</OBJECT> 
+
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ItemWrapperCollection Class" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.ItemWrapperCollection.html" >
+
+</OBJECT> 
+<UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Members" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.ItemWrapperCollection_members.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Overview" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.ItemWrapperCollection.html" >
+
+</OBJECT> 
+
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="LogFailureArguments Class" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.LogFailureArguments.html" >
+
+</OBJECT> 
+<UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Members" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.LogFailureArguments_members.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Overview" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.LogFailureArguments.html" >
+
+</OBJECT> 
+
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Math Object" >
+<param name="Local" value="VBA~Math.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="NativeMethods Class" >
+<param name="Local" value="Innovasys.HelpStudio.CommandLine~Innovasys.HelpStudio.CommandLine.NativeMethods.html" >
+
+</OBJECT> 
+<UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Members" >
+<param name="Local" value="Innovasys.HelpStudio.CommandLine~Innovasys.HelpStudio.CommandLine.NativeMethods_members.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Overview" >
+<param name="Local" value="Innovasys.HelpStudio.CommandLine~Innovasys.HelpStudio.CommandLine.NativeMethods.html" >
+
+</OBJECT> 
+
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="NewProject Class" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.NewProject.html" >
+
+</OBJECT> 
+<UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Members" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.NewProject_members.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Overview" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.NewProject.html" >
+
+</OBJECT> 
+
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="NewProjectViewModelBase Class" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.NewProjectViewModelBase.html" >
+
+</OBJECT> 
+<UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Members" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.NewProjectViewModelBase_members.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Overview" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.NewProjectViewModelBase.html" >
+
+</OBJECT> 
+
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OpenFromSourceControl Class" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.OpenFromSourceControl.html" >
+
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlCommands.OpenFromSourceControl.html" >
+
+</OBJECT> 
+<UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Members" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.OpenFromSourceControl_members.html" >
+
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlCommands.OpenFromSourceControl_members.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Overview" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.OpenFromSourceControl.html" >
+
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlCommands.OpenFromSourceControl.html" >
+
+</OBJECT> 
+
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OpenFromSourceControlEventArgs Class" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.OpenFromSourceControlEventArgs.html" >
+
+</OBJECT> 
+<UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Members" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.OpenFromSourceControlEventArgs_members.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Overview" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.OpenFromSourceControlEventArgs.html" >
+
+</OBJECT> 
+
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OpenFromSourceControlViewModel Class" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.OpenFromSourceControlViewModel.html" >
+
+</OBJECT> 
+<UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Members" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.OpenFromSourceControlViewModel_members.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Overview" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.OpenFromSourceControlViewModel.html" >
+
+</OBJECT> 
+
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OpenSourceControlIntegrationOptions Class" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlCommands.OpenSourceControlIntegrationOptions.html" >
+
+</OBJECT> 
+<UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Members" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlCommands.OpenSourceControlIntegrationOptions_members.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Overview" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlCommands.OpenSourceControlIntegrationOptions.html" >
+
+</OBJECT> 
+
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="OpenSourceControlProviderOptions Class" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlCommands.OpenSourceControlProviderOptions.html" >
+
+</OBJECT> 
+<UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Members" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlCommands.OpenSourceControlProviderOptions_members.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Overview" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlCommands.OpenSourceControlProviderOptions.html" >
+
+</OBJECT> 
+
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ProgressMonitor Class" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.ProgressMonitor.html" >
+
+</OBJECT> 
+<UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Members" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.ProgressMonitor_members.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Overview" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.ProgressMonitor.html" >
+
+</OBJECT> 
+
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ProjectOperation Class" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.ProjectOperation.html" >
+
+</OBJECT> 
+<UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Members" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.ProjectOperation_members.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Overview" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.ProjectOperation.html" >
+
+</OBJECT> 
+
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ProjectOperationSelectionType Enumeration" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.ProjectOperationSelectionType.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ProjectOperationViewModel Class" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.ProjectOperationViewModel.html" >
+
+</OBJECT> 
+<UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Members" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.ProjectOperationViewModel_members.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Overview" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.ProjectOperationViewModel.html" >
+
+</OBJECT> 
+
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ProjectRootSourceControlItem Class" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.ProjectRootSourceControlItem.html" >
+
+</OBJECT> 
+<UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Members" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.ProjectRootSourceControlItem_members.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Overview" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.ProjectRootSourceControlItem.html" >
+
+</OBJECT> 
+
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="RemoveFromSourceControl Class" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlCommands.RemoveFromSourceControl.html" >
+
+</OBJECT> 
+<UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Members" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlCommands.RemoveFromSourceControl_members.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Overview" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlCommands.RemoveFromSourceControl.html" >
+
+</OBJECT> 
+
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SelectSourceControlProject Class" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlCommands.SelectSourceControlProject.html" >
+
+</OBJECT> 
+<UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Members" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlCommands.SelectSourceControlProject_members.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Overview" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlCommands.SelectSourceControlProject.html" >
+
+</OBJECT> 
+
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SelectSourceControlProjectArgs Class" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SelectSourceControlProjectArgs.html" >
+
+</OBJECT> 
+<UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Members" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SelectSourceControlProjectArgs_members.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Overview" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SelectSourceControlProjectArgs.html" >
+
+</OBJECT> 
+
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SourceControlAction Enumeration" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlAction.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SourceControlActionEventArgs Class" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlActionEventArgs.html" >
+
+</OBJECT> 
+<UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Members" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlActionEventArgs_members.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Overview" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlActionEventArgs.html" >
+
+</OBJECT> 
+
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SourceControlAddOptions Enumeration" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlAddOptions.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SourceControlApplicationPlugin Class" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlApplicationPlugin.html" >
+
+</OBJECT> 
+<UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Members" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlApplicationPlugin_members.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Overview" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlApplicationPlugin.html" >
+
+</OBJECT> 
+
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SourceControlBeforeActionEventArgs Class" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlBeforeActionEventArgs.html" >
+
+</OBJECT> 
+<UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Members" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlBeforeActionEventArgs_members.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Overview" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlBeforeActionEventArgs.html" >
+
+</OBJECT> 
+
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SourceControlBrowser Class" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlBrowser.html" >
+
+</OBJECT> 
+<UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Members" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlBrowser_members.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Overview" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlBrowser.html" >
+
+</OBJECT> 
+
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SourceControlCheckInOptions Enumeration" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlCheckInOptions.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SourceControlCheckOutOptions Enumeration" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlCheckOutOptions.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SourceControlCommandAvailability Class" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlCommandAvailability.html" >
+
+</OBJECT> 
+<UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Members" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlCommandAvailability_members.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Overview" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlCommandAvailability.html" >
+
+</OBJECT> 
+
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SourceControlCommentsView Class" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlCommentsView.html" >
+
+</OBJECT> 
+<UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Members" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlCommentsView_members.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Overview" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlCommentsView.html" >
+
+</OBJECT> 
+
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SourceControlCompareOptions Enumeration" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlCompareOptions.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SourceControlConfiguration Class" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlConfiguration.html" >
+
+</OBJECT> 
+<UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Members" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlConfiguration_members.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Overview" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlConfiguration.html" >
+
+</OBJECT> 
+
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SourceControlDataTemplateType Class" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlDataTemplateType.html" >
+
+</OBJECT> 
+<UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Members" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlDataTemplateType_members.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Overview" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlDataTemplateType.html" >
+
+</OBJECT> 
+
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SourceControlDeleteOptions Enumeration" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlDeleteOptions.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SourceControlExplorerViewModel Class" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlExplorerViewModel.html" >
+
+</OBJECT> 
+<UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Members" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlExplorerViewModel_members.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Overview" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlExplorerViewModel.html" >
+
+</OBJECT> 
+
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SourceControlGetOptions Enumeration" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlGetOptions.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SourceControlHelpers Class" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlHelpers.html" >
+
+</OBJECT> 
+<UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Members" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlHelpers_members.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Overview" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlHelpers.html" >
+
+</OBJECT> 
+
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SourceControlInformationFile Class" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlInformationFile.html" >
+
+</OBJECT> 
+<UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Members" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlInformationFile_members.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Overview" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlInformationFile.html" >
+
+</OBJECT> 
+
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SourceControlIntegrationOptionsEditor Class" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlIntegrationOptionsEditor.html" >
+
+</OBJECT> 
+<UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Members" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlIntegrationOptionsEditor_members.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Overview" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlIntegrationOptionsEditor.html" >
+
+</OBJECT> 
+
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SourceControlIntegrationOptionsViewModel Class" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlIntegrationOptionsViewModel.html" >
+
+</OBJECT> 
+<UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Members" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlIntegrationOptionsViewModel_members.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Overview" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlIntegrationOptionsViewModel.html" >
+
+</OBJECT> 
+
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SourceControlItem Class" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlItem.html" >
+
+</OBJECT> 
+<UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Members" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlItem_members.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Overview" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlItem.html" >
+
+</OBJECT> 
+
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SourceControlItemChangedEventArgs Class" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlItemChangedEventArgs.html" >
+
+</OBJECT> 
+<UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Members" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlItemChangedEventArgs_members.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Overview" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlItemChangedEventArgs.html" >
+
+</OBJECT> 
+
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SourceControlItemCollection Class" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlItemCollection.html" >
+
+</OBJECT> 
+<UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Members" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlItemCollection_members.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Overview" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlItemCollection.html" >
+
+</OBJECT> 
+
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SourceControlItemFilter Class" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlItemFilter.html" >
+
+</OBJECT> 
+<UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Members" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlItemFilter_members.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Overview" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlItemFilter.html" >
+
+</OBJECT> 
+
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SourceControlMessageEventArgs Class" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlMessageEventArgs.html" >
+
+</OBJECT> 
+<UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Members" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlMessageEventArgs_members.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Overview" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlMessageEventArgs.html" >
+
+</OBJECT> 
+
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SourceControlMessageType Enumeration" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlMessageType.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SourceControlOptions Class" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlOptions.html" >
+
+</OBJECT> 
+<UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Members" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlOptions_members.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Overview" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlOptions.html" >
+
+</OBJECT> 
+
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SourceControlProgressEventArgs Class" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlProgressEventArgs.html" >
+
+</OBJECT> 
+<UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Members" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlProgressEventArgs_members.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Overview" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlProgressEventArgs.html" >
+
+</OBJECT> 
+
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SourceControlProject Class" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlProject.html" >
+
+</OBJECT> 
+<UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Members" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlProject_members.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Overview" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlProject.html" >
+
+</OBJECT> 
+
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SourceControlProjectCollection Class" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlProjectCollection.html" >
+
+</OBJECT> 
+<UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Members" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlProjectCollection_members.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Overview" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlProjectCollection.html" >
+
+</OBJECT> 
+
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SourceControlProjectPlugin Class" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlProjectPlugin.html" >
+
+</OBJECT> 
+<UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Members" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlProjectPlugin_members.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Overview" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlProjectPlugin.html" >
+
+</OBJECT> 
+
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SourceControlPrompt Class" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlPrompt.html" >
+
+</OBJECT> 
+<UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Members" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlPrompt_members.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Overview" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlPrompt.html" >
+
+</OBJECT> 
+
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SourceControlPromptPreference Enumeration" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlPromptPreference.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SourceControlPromptViewModel Class" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlPromptViewModel.html" >
+
+</OBJECT> 
+<UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Members" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlPromptViewModel_members.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Overview" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlPromptViewModel.html" >
+
+</OBJECT> 
+
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SourceControlProvider Class" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlProvider.html" >
+
+</OBJECT> 
+<UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Members" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlProvider_members.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Overview" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlProvider.html" >
+
+</OBJECT> 
+
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SourceControlProviderCollection Class" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlProviderCollection.html" >
+
+</OBJECT> 
+<UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Members" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlProviderCollection_members.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Overview" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlProviderCollection.html" >
+
+</OBJECT> 
+
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SourceControlProviderOptionsEditor Class" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlProviderOptionsEditor.html" >
+
+</OBJECT> 
+<UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Members" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlProviderOptionsEditor_members.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Overview" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlProviderOptionsEditor.html" >
+
+</OBJECT> 
+
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SourceControlProviderOptionsViewModel Class" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlProviderOptionsViewModel.html" >
+
+</OBJECT> 
+<UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Members" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlProviderOptionsViewModel_members.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Overview" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlProviderOptionsViewModel.html" >
+
+</OBJECT> 
+
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SourceControlProviderViewModel Class" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlProviderViewModel.html" >
+
+</OBJECT> 
+<UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Members" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlProviderViewModel_members.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Overview" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlProviderViewModel.html" >
+
+</OBJECT> 
+
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SourceControlProviderViewModelCollection Class" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlProviderViewModelCollection.html" >
+
+</OBJECT> 
+<UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Members" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlProviderViewModelCollection_members.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Overview" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlProviderViewModelCollection.html" >
+
+</OBJECT> 
+
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SourceControlRenameArguments Class" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlRenameArguments.html" >
+
+</OBJECT> 
+<UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Members" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlRenameArguments_members.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Overview" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlRenameArguments.html" >
+
+</OBJECT> 
+
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="SourceControlUndoCheckOutOptions Enumeration" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlUndoCheckOutOptions.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Startup Class" >
+<param name="Local" value="Innovasys.HelpStudio.CommandLine~Innovasys.HelpStudio.CommandLine.Startup.html" >
+
+</OBJECT> 
+<UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Members" >
+<param name="Local" value="Innovasys.HelpStudio.CommandLine~Innovasys.HelpStudio.CommandLine.Startup_members.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Overview" >
+<param name="Local" value="Innovasys.HelpStudio.CommandLine~Innovasys.HelpStudio.CommandLine.Startup.html" >
+
+</OBJECT> 
+
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="StatusIndicator Class" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.StatusIndicator.html" >
+
+</OBJECT> 
+<UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Members" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.StatusIndicator_members.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Overview" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.StatusIndicator.html" >
+
+</OBJECT> 
+
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Strings Object" >
+<param name="Local" value="VBA~Strings.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Testing add Schema" >
+<param name="Local" value="Testing add_xsd.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="TestSourceControlConnection Class" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlCommands.TestSourceControlConnection.html" >
+
+</OBJECT> 
+<UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Members" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlCommands.TestSourceControlConnection_members.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Overview" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlCommands.TestSourceControlConnection.html" >
+
+</OBJECT> 
+
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="UndoCheckOut Class" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlCommands.UndoCheckOut.html" >
+
+</OBJECT> 
+<UL><LI><OBJECT type="text/sitemap">
+<param name="Name" value="Members" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlCommands.UndoCheckOut_members.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="Overview" >
+<param name="Local" value="Innovasys.SourceControl~Innovasys.SourceControl.SourceControlCommands.UndoCheckOut.html" >
+
+</OBJECT> 
+
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="VBA ActiveX DLL" >
+<param name="Local" value="VBA_P.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="VbAppWinStyle Enumeration" >
+<param name="Local" value="VBA~VbAppWinStyle.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="VbCalendar Enumeration" >
+<param name="Local" value="VBA~VbCalendar.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="VbCallType Enumeration" >
+<param name="Local" value="VBA~VbCallType.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="VbCompareMethod Enumeration" >
+<param name="Local" value="VBA~VbCompareMethod.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="VbDateTimeFormat Enumeration" >
+<param name="Local" value="VBA~VbDateTimeFormat.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="VbDayOfWeek Enumeration" >
+<param name="Local" value="VBA~VbDayOfWeek.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="VbFileAttribute Enumeration" >
+<param name="Local" value="VBA~VbFileAttribute.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="VbFirstWeekOfYear Enumeration" >
+<param name="Local" value="VBA~VbFirstWeekOfYear.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="VbIMEStatus Enumeration" >
+<param name="Local" value="VBA~VbIMEStatus.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="VbMsgBoxResult Enumeration" >
+<param name="Local" value="VBA~VbMsgBoxResult.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="VbMsgBoxStyle Enumeration" >
+<param name="Local" value="VBA~VbMsgBoxStyle.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="VbStrConv Enumeration" >
+<param name="Local" value="VBA~VbStrConv.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="VbTriState Enumeration" >
+<param name="Local" value="VBA~VbTriState.html" >
+
+</OBJECT> 
+
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="VbVarType Enumeration" >
+<param name="Local" value="VBA~VbVarType.html" >
+
+</OBJECT> 
+
+
+</UL>
+</BODY></HTML>
