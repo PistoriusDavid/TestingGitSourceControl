@@ -1,8 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <DocumentXProject Id="e630322d-5f46-43f2-b713-be75528d8963" Version="2018.1">
-  <Features>
-    <Feature>Document! X</Feature>
-  </Features>
+  <Features />
   <SeparateFiles>true</SeparateFiles>
   <Flags>
     <Flag Id="{46CEF21D-3301-4517-A875-A0906828390E}" HighlightColor="#FFA1FFD0">Exclude from Online</Flag>
@@ -11,11 +9,10 @@
   <PropertyDefinitions />
   <PropertyDefinitionValues />
   <Title />
-  <ContentFiles>
-    <ContentFile FileName="Innovasys.SourceControl.Git.dxc" Moniker="..\..\..\..\..\..\..\repos\Renatus\BuildOutputs\Debug\Innovasys.SourceControl.Git.dll" DocType="DX.NET" />
-  </ContentFiles>
+  <ContentFiles />
   <AutoDocFiles>
     <AutoDocFile FileName=".Net Assembly documentation.dxa" DocType="DX.NET" />
+    <AutoDocFile FileName=".Net Assembly documentation1.dxa" DocType="DX.NET" />
   </AutoDocFiles>
   <ContentFromProjectPlugin />
   <Filters>
@@ -43,11 +40,7 @@
   <ComProjectPlugin />
   <AjaxProjectPlugin />
   <JavaProjectPlugin />
-  <DotNetAssemblies>
-    <Assembly FileName="..\..\..\..\..\..\..\repos\Renatus\BuildOutputs\Debug\Innovasys.SourceControl.Git.dll" RootTypeName="" />
-    <Assembly FileName="..\..\..\..\..\..\..\repos\Renatus\BuildOutputs\Debug\Innovasys.DocumentX.Client.exe" RootTypeName="" />
-    <Assembly FileName="..\..\..\..\..\..\..\repos\Renatus\BuildOutputs\Debug\Innovasys.HelpStudio.Client.exe" RootTypeName="" />
-  </DotNetAssemblies>
+  <DotNetAssemblies />
   <DatabaseProjectPlugin>
     <Databases />
   </DatabaseProjectPlugin>
