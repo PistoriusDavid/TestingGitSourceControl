@@ -12,7 +12,6 @@
   <ContentFiles />
   <AutoDocFiles>
     <AutoDocFile FileName=".Net Assembly documentation.dxa" DocType="DX.NET" />
-    <AutoDocFile FileName=".Net Assembly documentation1.dxa" DocType="DX.NET" />
   </AutoDocFiles>
   <ContentFromProjectPlugin />
   <Filters>
