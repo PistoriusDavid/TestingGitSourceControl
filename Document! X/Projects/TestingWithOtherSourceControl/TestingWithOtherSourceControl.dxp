@@ -1,6 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <DocumentXProject Id="e630322d-5f46-43f2-b713-be75528d8963" Version="2018.1">
-  <Features />
+  <Features>
+    <Feature>Document! X</Feature>
+  </Features>
   <SeparateFiles>true</SeparateFiles>
   <Flags>
     <Flag Id="{46CEF21D-3301-4517-A875-A0906828390E}" HighlightColor="#FFA1FFD0">Exclude from Online</Flag>
@@ -9,8 +11,12 @@
   <PropertyDefinitions />
   <PropertyDefinitionValues />
   <Title />
-  <ContentFiles />
-  <AutoDocFiles />
+  <ContentFiles>
+    <ContentFile FileName="Innovasys.SourceControl.Git.dxc" Moniker="..\..\..\..\..\..\..\repos\Renatus\BuildOutputs\Debug\Innovasys.SourceControl.Git.dll" DocType="DX.NET" />
+  </ContentFiles>
+  <AutoDocFiles>
+    <AutoDocFile FileName=".Net Assembly documentation.dxa" DocType="DX.NET" />
+  </AutoDocFiles>
   <ContentFromProjectPlugin />
   <Filters>
     <ExcludedItems />
@@ -19,7 +25,9 @@
   <ComProjectPlugin />
   <AjaxProjectPlugin />
   <JavaProjectPlugin />
-  <DotNetAssemblies />
+  <DotNetAssemblies>
+    <Assembly FileName="..\..\..\..\..\..\..\repos\Renatus\BuildOutputs\Debug\Innovasys.SourceControl.Git.dll" RootTypeName="" />
+  </DotNetAssemblies>
   <DatabaseProjectPlugin>
     <Databases />
   </DatabaseProjectPlugin>
@@ -48,6 +56,11 @@
     <TopicCategories>
       <TopicCategory Id="-" AutoIndex="false">
         <Caption m="2009-09-11T10:57:19.7639331Z">(Un-categorized)</Caption>
+        <ChildTopicCategories />
+        <Topics />
+      </TopicCategory>
+      <TopicCategory Id="CONTENTSNIPPETS" AutoIndex="false">
+        <Caption m="2024-05-08T12:01:13.407525Z">Content Snippets</Caption>
         <ChildTopicCategories />
         <Topics />
       </TopicCategory>
@@ -454,7 +467,7 @@
         <IsHelp3SigningEnabled>false</IsHelp3SigningEnabled>
         <IsHelp3ValidationEnabled>false</IsHelp3ValidationEnabled>
         <IsHelp3KeywordsEnabled>false</IsHelp3KeywordsEnabled>
-        <BrowserHelpTemplateName></BrowserHelpTemplateName>
+        <BrowserHelpTemplateName>Classic</BrowserHelpTemplateName>
         <IsCustomHtmlHelpWindowSettings>false</IsCustomHtmlHelpWindowSettings>
         <CustomHtmlHelpWindowSettings>
           <IsExpandVisible>true</IsExpandVisible>
