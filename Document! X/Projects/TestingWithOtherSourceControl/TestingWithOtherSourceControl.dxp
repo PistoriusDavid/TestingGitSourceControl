@@ -13,6 +13,7 @@
   <Title />
   <ContentFiles>
     <ContentFile FileName="VBA6.dxc" Moniker="..\..\..\..\..\..\..\repos\Renatus\ThirdParty\ComComponents\VBA6.DLL" DocType="DX.COM" />
+    <ContentFile FileName="Testing add Schema.dxc" Moniker="&lt;XsdSchema SchemaLocationType=&quot;File&quot; SchemaType=&quot;Infer&quot; Title=&quot;Testing add Schema&quot; IsExternallyManaged=&quot;false&quot; SchemaId=&quot;&quot; SchemaParentItemId=&quot;&quot; Name=&quot;Testing add&quot; SchemaLocation=&quot;..\DatabaseSample\projectdata\glossary.xml&quot; /&gt;" DocType="DX.XSD" />
   </ContentFiles>
   <AutoDocFiles>
     <AutoDocFile FileName=".Net Assembly documentation.dxa" DocType="DX.NET" />
@@ -50,7 +51,9 @@
     <Databases />
   </DatabaseProjectPlugin>
   <XsdProjectPlugin>
-    <XsdSchemas />
+    <XsdSchemas>
+      <XsdSchema SchemaLocationType="File" SchemaType="Infer" Title="Testing add Schema" IsExternallyManaged="false" SchemaId="" SchemaParentItemId="" Name="Testing add" SchemaLocation="..\DatabaseSample\projectdata\glossary.xml" />
+    </XsdSchemas>
   </XsdProjectPlugin>
   <GlossaryProjectPlugin>
     <IsGlossaryOutputEnabled>true</IsGlossaryOutputEnabled>
