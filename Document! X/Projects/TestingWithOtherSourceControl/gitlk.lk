@@ -1,5 +1,14 @@
 {
   "\\Innovasys.SourceControl.dxc": {
     "O": "DPISTORIUS-LT01"
+  },
+  "\\VBA6.dxc": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\Testing add Schema.dxc": {
+    "O": "DPISTORIUS-LT01"
+  },
+  "\\Innovasys.HelpStudio.CommandLine.dxc": {
+    "O": "DPISTORIUS-LT01"
   }
 }
