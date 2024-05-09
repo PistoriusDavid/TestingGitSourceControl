@@ -14,6 +14,7 @@
   <ContentFiles>
     <ContentFile FileName="Innovasys.SourceControl.Git.dxc" Moniker="..\..\..\..\..\..\..\repos\Renatus\BuildOutputs\Debug\Innovasys.SourceControl.Git.dll" DocType="DX.NET" />
     <ContentFile FileName="Innovasys.DocumentX.Client.dxc" Moniker="..\..\..\..\..\..\..\repos\Renatus\BuildOutputs\Debug\Innovasys.DocumentX.Client.exe" DocType="DX.NET" />
+    <ContentFile FileName="Innovasys.HelpStudio.Client.dxc" Moniker="..\..\..\..\..\..\..\repos\Renatus\BuildOutputs\Debug\Innovasys.HelpStudio.Client.exe" DocType="DX.NET" />
   </ContentFiles>
   <AutoDocFiles>
     <AutoDocFile FileName=".Net Assembly documentation.dxa" DocType="DX.NET" />
@@ -36,6 +37,8 @@
       <ExcludedItem>Innovasys.SourceControl.Git~Innovasys.SourceControl.Git.ICredentialsProvider</ExcludedItem>
       <ExcludedItem>Innovasys.SourceControl.Git~Innovasys.SourceControl.Git.ILockManager</ExcludedItem>
       <ExcludedItem>Innovasys.SourceControl.Git~Innovasys.SourceControl.Git.IGitSourceControl</ExcludedItem>
+      <ExcludedItem>Innovasys.DocumentX.Client~Innovasys.DocumentX.Client.NativeMethods</ExcludedItem>
+      <ExcludedItem>Innovasys.DocumentX.Client~Innovasys.DocumentX.Client.MainWindowEventListeners</ExcludedItem>
     </ExcludedItems>
   </Filters>
   <JavascriptProjectPlugin />
@@ -45,6 +48,7 @@
   <DotNetAssemblies>
     <Assembly FileName="..\..\..\..\..\..\..\repos\Renatus\BuildOutputs\Debug\Innovasys.SourceControl.Git.dll" RootTypeName="" />
     <Assembly FileName="..\..\..\..\..\..\..\repos\Renatus\BuildOutputs\Debug\Innovasys.DocumentX.Client.exe" RootTypeName="" />
+    <Assembly FileName="..\..\..\..\..\..\..\repos\Renatus\BuildOutputs\Debug\Innovasys.HelpStudio.Client.exe" RootTypeName="" />
   </DotNetAssemblies>
   <DatabaseProjectPlugin>
     <Databases />
