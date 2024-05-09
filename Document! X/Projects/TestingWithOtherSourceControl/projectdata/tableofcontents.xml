@@ -8,6 +8,9 @@
         <CaptionTemplate />
         <ChildNodes />
       </TocNode>
+      <TocNode Name="" DependsOnItemTypeName="" Id="4c885748-66ec-4654-bc4b-b0b7d3d926f1" IconIndex="-1" IsNew="false" Target="" DependsOnItemTypeFilter="" DependsOnMinimumCount="0" DependsOnStillProcessChildNodes="false" BuildFlags="" NodeType="ALLTEMPLATETOCS">
+        <ChildNodes />
+      </TocNode>
     </RootNodes>
   </TocLayout>
 </TableOfContents>
