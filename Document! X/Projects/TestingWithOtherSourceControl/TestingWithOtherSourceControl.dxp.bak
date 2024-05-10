@@ -14,7 +14,6 @@
   <ContentFiles>
     <ContentFile FileName="VBA6.dxc" Moniker="..\..\..\..\..\..\..\repos\Renatus\ThirdParty\ComComponents\VBA6.DLL" DocType="DX.COM" />
     <ContentFile FileName="Testing add Schema.dxc" Moniker="&lt;XsdSchema SchemaLocationType=&quot;File&quot; SchemaType=&quot;Infer&quot; Title=&quot;Testing add Schema&quot; IsExternallyManaged=&quot;false&quot; SchemaId=&quot;&quot; SchemaParentItemId=&quot;&quot; Name=&quot;Testing add&quot; SchemaLocation=&quot;..\DatabaseSample\projectdata\glossary.xml&quot; /&gt;" DocType="DX.XSD" />
-    <ContentFile FileName="Innovasys.HelpStudio.CommandLine.dxc" Moniker="..\..\..\..\..\..\..\repos\Renatus\BuildOutputs\Debug\Innovasys.HelpStudio.CommandLine.exe" DocType="DX.NET" />
     <ContentFile FileName="Innovasys.SourceControl.dxc" Moniker="..\..\..\..\..\..\..\repos\Renatus\BuildOutputs\Debug\Innovasys.SourceControl.dll" DocType="DX.NET" />
   </ContentFiles>
   <AutoDocFiles>
@@ -40,6 +39,8 @@
       <ExcludedItem>Innovasys.SourceControl.Git~Innovasys.SourceControl.Git.IGitSourceControl</ExcludedItem>
       <ExcludedItem>Innovasys.DocumentX.Client~Innovasys.DocumentX.Client.NativeMethods</ExcludedItem>
       <ExcludedItem>Innovasys.DocumentX.Client~Innovasys.DocumentX.Client.MainWindowEventListeners</ExcludedItem>
+      <ExcludedItem>Innovasys.SourceControl~Innovasys.SourceControl.FileComparisonInfo</ExcludedItem>
+      <ExcludedItem>Innovasys.SourceControl~Innovasys.SourceControl.SourceControlProjectPlugin+ShowSourceControlPromptResult</ExcludedItem>
     </ExcludedItems>
   </Filters>
   <JavascriptProjectPlugin />
@@ -49,7 +50,6 @@
   <AjaxProjectPlugin />
   <JavaProjectPlugin />
   <DotNetAssemblies>
-    <Assembly FileName="..\..\..\..\..\..\..\repos\Renatus\BuildOutputs\Debug\Innovasys.HelpStudio.CommandLine.exe" RootTypeName="" />
     <Assembly FileName="..\..\..\..\..\..\..\repos\Renatus\BuildOutputs\Debug\Innovasys.SourceControl.dll" RootTypeName="" />
   </DotNetAssemblies>
   <DatabaseProjectPlugin>
@@ -940,7 +940,7 @@
         <IsHelp3SigningEnabled>false</IsHelp3SigningEnabled>
         <IsHelp3ValidationEnabled>false</IsHelp3ValidationEnabled>
         <IsHelp3KeywordsEnabled>false</IsHelp3KeywordsEnabled>
-        <BrowserHelpTemplateName></BrowserHelpTemplateName>
+        <BrowserHelpTemplateName>Classic</BrowserHelpTemplateName>
         <IsCustomHtmlHelpWindowSettings>false</IsCustomHtmlHelpWindowSettings>
         <CustomHtmlHelpWindowSettings>
           <IsExpandVisible>true</IsExpandVisible>
