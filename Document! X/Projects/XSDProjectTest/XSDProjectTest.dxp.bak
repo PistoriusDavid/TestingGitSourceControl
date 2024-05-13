@@ -41,7 +41,7 @@
   <HelpProjectPlugin ShowGettingStartedPage="true" />
   <OtherFilesProjectPlugin>
     <OtherFiles />
-    <DefaultStylesheet>..\..\..\..\..\Documents\Document! X\XSDProjectTest\stylesheets\customstyles.css</DefaultStylesheet>
+    <DefaultStylesheet>..\..\..\..\..\..\..\Documents\Document! X\XSDProjectTest\stylesheets\customstyles.css</DefaultStylesheet>
     <DefaultCaptureDirectory></DefaultCaptureDirectory>
   </OtherFilesProjectPlugin>
   <SourceControlProjectPlugin />
@@ -528,7 +528,7 @@
           <Property Name="TEMPLATEFILEFEATURE_NAVIGATION">True</Property>
           <Property Name="TEMPLATEFILEFEATURE_RESPONSIVE">True</Property>
         </PropertyBag>
-        <HelpFileName>..\..\..\..\..\Documents\Document! X\XSDProjectTest\po.light.chm</HelpFileName>
+        <HelpFileName>..\..\..\..\..\..\..\Documents\Document! X\XSDProjectTest\po.light.chm</HelpFileName>
       </HelpCompiler>
       <RuleEngine>
         <Rules MatchType="All" Caption="" IsReadOnly="false" Id="root">
@@ -1012,7 +1012,7 @@
           <Property Name="TEMPLATEFILEFEATURE_NAVIGATION">True</Property>
           <Property Name="TEMPLATEFILEFEATURE_RESPONSIVE">True</Property>
         </PropertyBag>
-        <HelpFileName>..\..\..\..\..\Documents\Document! X\XSDProjectTest\po.light.chm</HelpFileName>
+        <HelpFileName>..\..\..\..\..\..\..\Documents\Document! X\XSDProjectTest\po.light.chm</HelpFileName>
       </HelpCompiler>
       <RuleEngine>
         <Rules MatchType="All" Caption="" IsReadOnly="false" Id="root">
@@ -1495,7 +1495,7 @@
           <Property Name="TEMPLATEFILEFEATURE_NAVIGATION">True</Property>
           <Property Name="TEMPLATEFILEFEATURE_RESPONSIVE">True</Property>
         </PropertyBag>
-        <HelpFileName>..\..\..\..\..\Documents\Document! X\XSDProjectTest\po.classic.chm</HelpFileName>
+        <HelpFileName>..\..\..\..\..\..\..\Documents\Document! X\XSDProjectTest\po.classic.chm</HelpFileName>
       </HelpCompiler>
       <RuleEngine>
         <Rules MatchType="All" Caption="" IsReadOnly="false" Id="root">
@@ -1978,7 +1978,7 @@
           <Property Name="TEMPLATEFILEFEATURE_NAVIGATION">True</Property>
           <Property Name="TEMPLATEFILEFEATURE_RESPONSIVE">True</Property>
         </PropertyBag>
-        <HelpFileName>..\..\..\..\..\Documents\Document! X\XSDProjectTest\po.classic.chm</HelpFileName>
+        <HelpFileName>..\..\..\..\..\..\..\Documents\Document! X\XSDProjectTest\po.classic.chm</HelpFileName>
       </HelpCompiler>
       <RuleEngine>
         <Rules MatchType="All" Caption="" IsReadOnly="false" Id="root">
@@ -2462,7 +2462,7 @@
           <Property Name="TEMPLATEFILEFEATURE_NAVIGATION">True</Property>
           <Property Name="TEMPLATEFILEFEATURE_RESPONSIVE">True</Property>
         </PropertyBag>
-        <HelpFileName>..\..\..\..\..\Documents\Document! X\XSDProjectTest\po.material.chm</HelpFileName>
+        <HelpFileName>..\..\..\..\..\..\..\Documents\Document! X\XSDProjectTest\po.material.chm</HelpFileName>
       </HelpCompiler>
       <RuleEngine>
         <Rules MatchType="All" Caption="" IsReadOnly="false" Id="root">
@@ -2946,7 +2946,7 @@
           <Property Name="TEMPLATEFILEFEATURE_NAVIGATION">True</Property>
           <Property Name="TEMPLATEFILEFEATURE_RESPONSIVE">True</Property>
         </PropertyBag>
-        <HelpFileName>..\..\..\..\..\Documents\Document! X\XSDProjectTest\po.material.chm</HelpFileName>
+        <HelpFileName>..\..\..\..\..\..\..\Documents\Document! X\XSDProjectTest\po.material.chm</HelpFileName>
       </HelpCompiler>
       <RuleEngine>
         <Rules MatchType="All" Caption="" IsReadOnly="false" Id="root">
