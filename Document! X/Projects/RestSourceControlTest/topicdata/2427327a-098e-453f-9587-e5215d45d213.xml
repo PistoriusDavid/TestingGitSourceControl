@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Topic Id="2427327a-098e-453f-9587-e5215d45d213" Status="New Topic" CreatedOn="2013-04-18T10:59:12.1434925Z" ModifiedOn="2013-04-18T11:01:04.0213766Z" PageTypeName="" AutoIndex="true" HelpContextIds="" Name="Introduction" BuildFlags="">
+  <Title />
+  <ContentsTitle />
+  <Notes></Notes>
+  <CanonicalLink></CanonicalLink>
+  <TopicSections>
+    <TopicSection Name="BodyText">
+      <Content m="2013-04-18T11:00:40.844081Z">&lt;P&gt;This Document! X sample has been created to illustrate documentation of a REST web service. The web service used for this sample is for a pet store, and includes methods to manage users and pets.&lt;/P&gt;
+&lt;H3&gt;Authoring Content&lt;/H3&gt;
+&lt;P&gt;Most of the content in this sample is contained directly within the web service definition and is used directly by Document! X, except for Json Schemas which in this instance did not contain descriptions for most items. Individual items can easily have this default content overriden by authoring in the Document! X Content File.&lt;/P&gt;
+&lt;H3&gt;Customizing of the Web Service Structure&lt;/H3&gt;
+&lt;P&gt;The resource groupings are also read directly from the web service definition, but individual resources can be moved between resource groups, resource groups can be renamed, and additional resource groups can be created (using the context menu on the Project Explorer) if required.&lt;/P&gt;
+&lt;P&gt;Customizations are stored as additional data in the Document! X project and will not prevent Document! X from reading changed or additional items from the web service definition should it change in future.&lt;/P&gt;
+&lt;P&gt;Json Schemas have been read from the web service definition as well as the resouce groups, resources and operations. If Json Schemas are not present in the web service definition, they can be added manually using the context menu on the Project Explorer in Document! X.&lt;/P&gt;
+&lt;H3&gt;Key Sample Pages&lt;/H3&gt;
+&lt;P&gt;The&amp;nbsp;&lt;A href="Pet Store_ws~r--user-login~o-HttpGet.html" style="auto-update-caption: true"&gt;&lt;U&gt;&lt;FONT color=#0066cc&gt;loginUser&lt;/FONT&gt;&lt;/U&gt;&lt;/A&gt;&amp;nbsp;operation illustrates an operation with parameters and a fault response.&lt;/P&gt;
+&lt;P&gt;The&amp;nbsp;&lt;A href="Pet Store_ws~r--pet-{petId}~o-HttpGet.html" style="auto-update-caption: true"&gt;&lt;U&gt;&lt;FONT color=#0066cc&gt;getPetById (Get)&lt;/FONT&gt;&lt;/U&gt;&lt;/A&gt;&amp;nbsp;operation illustrates an operation that returns a Json response.&lt;/P&gt;</Content>
+    </TopicSection>
+  </TopicSections>
+  <TopicLinks>
+    <TopicLink BuildFlags="" Id="406bbad7-752e-4f3a-afce-efca959baea3" CategoryId="" TopicLinkCategorySource="SpecificValue" Target="https://en.wikipedia.org/wiki/Representational_state_transfer">
+      <Title m="2013-04-18T11:00:40.8651003Z">https://en.wikipedia.org/wiki/Representational_state_transfer</Title>
+      <Category />
+    </TopicLink>
+    <TopicLink BuildFlags="" Id="af25b5d6-644c-4fd7-b4b2-484f5b52f388" CategoryId="" TopicLinkCategorySource="SpecificValue" Target="Pet Store_ws">
+      <Title />
+      <Category />
+    </TopicLink>
+  </TopicLinks>
+  <TopicKeywords />
+  <PropertyDefinitionValues />
+  <ExcludedOtherFiles />
+</Topic>

@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ContentFile Version="2010" Moniker="&lt;WebServiceDefinitionMoniker WebServiceDefinitionLocationKind=&quot;File&quot; WebServiceDefinitionKind=&quot;Swagger&quot; Title=&quot;Pet Store Web Service&quot; Name=&quot;Pet Store&quot; WebServiceDefinitionLocation=&quot;..\..\..\..\..\repos\renatus\.localconfig\samples\dx.webservice\rest\petstore.json&quot;&gt;&#xD;&#xA;  &lt;EndpointUri&gt;&lt;/EndpointUri&gt;&#xD;&#xA;&lt;/WebServiceDefinitionMoniker&gt;" DocType="DX.WEBSERVICE" IsLocalizationDisabled="false">
+  <RelatedProject>RestSourceControlTest.dxp</RelatedProject>
+  <State>
+    <Attributes>
+      <Assembly key="scrollPosition" valuetype="integer">0</Assembly>
+    </Attributes>
+  </State>
+  <LastSelectedItem>Pet Store_ws</LastSelectedItem>
+  <item qn="Pet Store_ws">
+    <summary ChangeDateTime="2013-04-18T11:00:21.1939403Z">&lt;P&gt;This Document! X sample has been created to illustrate documentation of a REST web service. The web service used for this sample is for a pet store, and includes methods to manage users and pets.&lt;/P&gt;
+&lt;P&gt;See the&amp;nbsp;&lt;A href="2427327a-098e-453f-9587-e5215d45d213" style="auto-update-caption: true"&gt;Introduction&lt;/A&gt;&amp;nbsp;topic for more information.&lt;/P&gt;</summary>
+  </item>
+  <item qn="Pet Store_ws~j-User">
+    <summary ChangeDateTime="2013-04-18T09:54:42.9890854Z">Represents an individual user.</summary>
+  </item>
+  <item qn="Pet Store_ws~j-User~y-id">
+    <summary ChangeDateTime="2013-04-18T09:55:53.6770467Z">Unique identifier for this user.</summary>
+  </item>
+  <item qn="Pet Store_ws~j-User~y-lastName">
+    <summary ChangeDateTime="2013-04-18T09:54:42.9890854Z">Last Name.</summary>
+  </item>
+  <item qn="Pet Store_ws~j-User~y-phone">
+    <summary ChangeDateTime="2013-04-18T09:54:42.9890854Z">Phone number.</summary>
+  </item>
+  <item qn="Pet Store_ws~j-User~y-username">
+    <summary ChangeDateTime="2013-04-18T09:54:42.9890854Z">Unique user name.</summary>
+  </item>
+  <item qn="Pet Store_ws~j-User~y-email">
+    <summary ChangeDateTime="2013-04-18T09:54:42.9890854Z">Email address.</summary>
+  </item>
+  <item qn="Pet Store_ws~j-User~y-firstName">
+    <summary ChangeDateTime="2013-04-18T09:54:42.9890854Z">First Name.</summary>
+  </item>
+  <item qn="Pet Store_ws~j-User~y-password">
+    <summary ChangeDateTime="2013-04-18T09:54:42.9890854Z">Current password.</summary>
+  </item>
+  <item qn="Pet Store_ws~j-User~y-userStatus">
+    <summary ChangeDateTime="2013-04-18T09:55:20.8317491Z">1 = registered, 2 = active, 3 = closed.</summary>
+  </item>
+  <item qn="Pet Store_ws~j-Category">
+    <summary ChangeDateTime="2013-04-18T09:55:40.0375981Z">Pet Category.</summary>
+  </item>
+  <item qn="Pet Store_ws~j-Category~y-id">
+    <summary ChangeDateTime="2013-04-18T09:55:40.0375981Z">Unique identifier for this category.</summary>
+  </item>
+  <item qn="Pet Store_ws~j-Pet~y-id">
+    <summary ChangeDateTime="2013-04-18T09:55:45.0904804Z">Unique identifier for this pet.</summary>
+  </item>
+  <item qn="Pet Store_ws~j-Tag~y-id">
+    <summary ChangeDateTime="2013-04-18T09:55:49.295725Z">Unique identifier for this tag.</summary>
+  </item>
+  <item qn="Pet Store_ws~j-Category~y-name">
+    <summary ChangeDateTime="2013-04-18T09:56:04.317634Z">Category Name.</summary>
+  </item>
+  <item qn="Pet Store_ws~j-Pet~y-tags">
+    <summary ChangeDateTime="2013-04-18T09:56:12.3515486Z">Tags currently applied to this Pet.</summary>
+  </item>
+  <item qn="Pet Store_ws~j-Pet">
+    <summary ChangeDateTime="2013-04-18T09:56:24.3047493Z">Represents a single Pet in the Store.</summary>
+  </item>
+  <item qn="Pet Store_ws~j-Pet~y-category">
+    <summary ChangeDateTime="2013-04-18T09:56:39.8916916Z">Pet category.</summary>
+  </item>
+  <item qn="Pet Store_ws~j-Pet~y-status">
+    <summary ChangeDateTime="2013-04-18T09:56:39.8916916Z">Pet Status.</summary>
+  </item>
+  <item qn="Pet Store_ws~j-Pet~y-name">
+    <summary ChangeDateTime="2013-04-18T09:56:54.8562044Z">Pet Name.</summary>
+  </item>
+  <item qn="Pet Store_ws~j-Pet~y-photoUrls">
+    <summary ChangeDateTime="2013-04-18T09:56:54.8562044Z">Photo Urls.</summary>
+  </item>
+  <item qn="Pet Store_ws~j-Tag">
+    <summary ChangeDateTime="2013-04-18T09:57:12.0819836Z">Tag, used to identify Pets.</summary>
+  </item>
+  <item qn="Pet Store_ws~j-Tag~y-name">
+    <summary ChangeDateTime="2013-04-18T09:57:12.0819836Z">Tag Name.</summary>
+  </item>
+  <item qn="Pet Store_ws~j-Order">
+    <summary ChangeDateTime="2013-04-18T10:24:37.0720051Z">Represents an individual order.</summary>
+  </item>
+  <item qn="Pet Store_ws~j-Order~y-id">
+    <summary ChangeDateTime="2013-04-18T10:24:37.074008Z">Order Id.</summary>
+  </item>
+  <item qn="Pet Store_ws~j-Order~y-petId">
+    <summary ChangeDateTime="2013-04-18T10:24:37.074008Z">Pet Id.</summary>
+  </item>
+  <item qn="Pet Store_ws~j-Order~y-quantity">
+    <summary ChangeDateTime="2013-04-18T10:24:37.0750078Z">Quantity.</summary>
+  </item>
+  <item qn="Pet Store_ws~j-Order~y-shipDate">
+    <summary ChangeDateTime="2013-04-18T10:24:37.0750078Z">Shipping Date.</summary>
+  </item>
+  <item qn="Pet Store_ws~j-ApiResponse">
+    <summary ChangeDateTime="2016-08-22T13:55:45.9194583Z">Represents an Api Response</summary>
+  </item>
+  <Filters>
+    <DX.WEBSERVICECONTENTSTOREFILTER>
+      <IsSourceCommentsVisible>true</IsSourceCommentsVisible>
+    </DX.WEBSERVICECONTENTSTOREFILTER>
+  </Filters>
+  <Filters>
+    <CONTENTSTORECOMMON>
+      <IsIncludedItemsOnly>true</IsIncludedItemsOnly>
+    </CONTENTSTORECOMMON>
+    <CONTENTSTORELOCALIZATION>
+      <IsPrimaryLocaleContentPreviewEnabled>true</IsPrimaryLocaleContentPreviewEnabled>
+    </CONTENTSTORELOCALIZATION>
+  </Filters>
+</ContentFile>

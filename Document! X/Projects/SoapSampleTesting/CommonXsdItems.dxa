@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AutoDocFile Version="2010" DocType="DX.XSD" IsLocalizationDisabled="false">
+  <RelatedProject>..\..\..\..\..\repos\renatus\.localconfig\samples\dx.webservice\soap\bingtranslator.dxp</RelatedProject>
+  <State>
+    <Attributes>
+      <Assembly key="scrollPosition" valuetype="integer">0</Assembly>
+    </Attributes>
+  </State>
+  <LastSelectedItem>DxAutoDoc~f4f44df1-783c-470d-88b0-b63fdf3d1201</LastSelectedItem>
+  <item qn="DxAutoDoc~fd8cd7a3-544b-4762-94ce-e25a876340d1">
+    <summary ChangeDateTime="2013-04-18T09:09:21.0927009Z">&lt;SPAN style="WHITE-SPACE: normal; TEXT-TRANSFORM: none; WORD-SPACING: 0px; FLOAT: none; COLOR: rgb(42,42,42); FONT: 13px/18px 'Segoe UI', 'Lucida Grande', Verdana, Arial, Helvetica, sans-serif; DISPLAY: inline !important; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px"&gt;A&lt;SPAN class=Apple-converted-space&gt;&amp;nbsp;&lt;/SPAN&gt;&lt;/SPAN&gt;&lt;SPAN style="WHITE-SPACE: normal; TEXT-TRANSFORM: none; WORD-SPACING: 0px; COLOR: rgb(42,42,42); FONT: 13px/18px 'Segoe UI', 'Lucida Grande', Verdana, Arial, Helvetica, sans-serif; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px"&gt;string&lt;/SPAN&gt;&lt;SPAN style="WHITE-SPACE: normal; TEXT-TRANSFORM: none; WORD-SPACING: 0px; FLOAT: none; COLOR: rgb(42,42,42); FONT: 13px/18px 'Segoe UI', 'Lucida Grande', Verdana, Arial, Helvetica, sans-serif; DISPLAY: inline !important; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px"&gt;&lt;SPAN class=Apple-converted-space&gt;&amp;nbsp;&lt;/SPAN&gt;containing "Bearer" + " " + access token.&lt;/SPAN&gt;</summary>
+  </item>
+  <item qn="DxAutoDoc~7f05fdb8-1df6-4063-849e-045eaaa8eec4">
+    <summary ChangeDateTime="2013-04-18T09:10:18.4414082Z">&lt;SPAN style="WHITE-SPACE: normal; TEXT-TRANSFORM: none; WORD-SPACING: 0px; FLOAT: none; COLOR: rgb(42,42,42); FONT: 13px/18px 'Segoe UI', 'Lucida Grande', Verdana, Arial, Helvetica, sans-serif; DISPLAY: inline !important; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px"&gt;A&lt;SPAN class=Apple-converted-space&gt;&amp;nbsp;&lt;/SPAN&gt;&lt;/SPAN&gt;&lt;SPAN style="WHITE-SPACE: normal; TEXT-TRANSFORM: none; WORD-SPACING: 0px; COLOR: rgb(42,42,42); FONT: 13px/18px 'Segoe UI', 'Lucida Grande', Verdana, Arial, Helvetica, sans-serif; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px"&gt;string&lt;/SPAN&gt;&lt;SPAN style="WHITE-SPACE: normal; TEXT-TRANSFORM: none; WORD-SPACING: 0px; FLOAT: none; COLOR: rgb(42,42,42); FONT: 13px/18px 'Segoe UI', 'Lucida Grande', Verdana, Arial, Helvetica, sans-serif; DISPLAY: inline !important; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px"&gt;&lt;SPAN class=Apple-converted-space&gt;&amp;nbsp;&lt;/SPAN&gt;containing the language code of the source language. Must be a valid culture name.&lt;/SPAN&gt;</summary>
+  </item>
+  <item qn="DxAutoDoc~bc8aaec4-5d58-4bb6-bd10-f26644e51afc">
+    <summary ChangeDateTime="2013-04-18T09:11:00.2766337Z">&lt;SPAN style="WHITE-SPACE: normal; TEXT-TRANSFORM: none; WORD-SPACING: 0px; FLOAT: none; COLOR: rgb(42,42,42); FONT: 13px/18px 'Segoe UI', 'Lucida Grande', Verdana, Arial, Helvetica, sans-serif; DISPLAY: inline !important; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px"&gt;A&lt;SPAN class=Apple-converted-space&gt;&amp;nbsp;&lt;/SPAN&gt;&lt;/SPAN&gt;&lt;SPAN style="WHITE-SPACE: normal; TEXT-TRANSFORM: none; WORD-SPACING: 0px; COLOR: rgb(42,42,42); FONT: 13px/18px 'Segoe UI', 'Lucida Grande', Verdana, Arial, Helvetica, sans-serif; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px"&gt;string&lt;/SPAN&gt;&lt;SPAN style="WHITE-SPACE: normal; TEXT-TRANSFORM: none; WORD-SPACING: 0px; FLOAT: none; COLOR: rgb(42,42,42); FONT: 13px/18px 'Segoe UI', 'Lucida Grande', Verdana, Arial, Helvetica, sans-serif; DISPLAY: inline !important; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px"&gt;&lt;SPAN class=Apple-converted-space&gt;&amp;nbsp;&lt;/SPAN&gt;containing the language code of the target language. Must be a valid culture name.&lt;/SPAN&gt;</summary>
+  </item>
+  <item qn="DxAutoDoc~60233108-afc2-49d2-b866-ed918c15a123">
+    <summary ChangeDateTime="2013-04-18T09:14:54.0162809Z">&lt;P style="MARGIN-BOTTOM: 0px; WHITE-SPACE: normal; TEXT-TRANSFORM: none; WORD-SPACING: 0px; COLOR: rgb(42,42,42); PADDING-BOTTOM: 0px; FONT: 13px/18px 'Segoe UI', 'Lucida Grande', Verdana, Arial, Helvetica, sans-serif; MARGIN-TOP: 0px; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; font-size-adjust: none; font-stretch: normal"&gt;&amp;nbsp;&lt;/P&gt;</summary>
+  </item>
+  <item qn="DxAutoDoc~0559a3c3-2f3f-4481-924e-7301e9ea8259">
+    <summary ChangeDateTime="2013-04-18T09:15:13.0589178Z">&lt;P style="MARGIN-BOTTOM: 0px; WHITE-SPACE: normal; TEXT-TRANSFORM: none; WORD-SPACING: 0px; COLOR: rgb(42,42,42); PADDING-BOTTOM: 0px; FONT: 13px/18px 'Segoe UI', 'Lucida Grande', Verdana, Arial, Helvetica, sans-serif; MARGIN-TOP: 0px; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; font-size-adjust: none; font-stretch: normal"&gt;A set of options. TranslateOptions contain: uri, category, contentType, user.&lt;/P&gt;</summary>
+  </item>
+  <item qn="DxAutoDoc~e58898cb-a4ac-4e48-a252-819827667c31">
+    <summary ChangeDateTime="2013-04-18T09:16:57.1182061Z">&lt;SPAN style="WHITE-SPACE: normal; TEXT-TRANSFORM: none; WORD-SPACING: 0px; FLOAT: none; COLOR: rgb(42,42,42); FONT: 13px/18px 'Segoe UI', 'Lucida Grande', Verdana, Arial, Helvetica, sans-serif; DISPLAY: inline !important; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; font-size-adjust: none; font-stretch: normal"&gt;A&lt;SPAN class=Apple-converted-space&gt;&amp;nbsp;&lt;/SPAN&gt;&lt;/SPAN&gt;&lt;SPAN style="WHITE-SPACE: normal; TEXT-TRANSFORM: none; WORD-SPACING: 0px; COLOR: rgb(42,42,42); FONT: 13px/18px 'Segoe UI', 'Lucida Grande', Verdana, Arial, Helvetica, sans-serif; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; font-size-adjust: none; font-stretch: normal"&gt;string&lt;/SPAN&gt;&lt;SPAN style="WHITE-SPACE: normal; TEXT-TRANSFORM: none; WORD-SPACING: 0px; FLOAT: none; COLOR: rgb(42,42,42); FONT: 13px/18px 'Segoe UI', 'Lucida Grande', Verdana, Arial, Helvetica, sans-serif; DISPLAY: inline !important; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; font-size-adjust: none; font-stretch: normal"&gt;&lt;SPAN class=Apple-converted-space&gt;&amp;nbsp;&lt;/SPAN&gt;representing the text to split into sentences. The size of the text must not exceed 10000 characters.&lt;/SPAN&gt;</summary>
+  </item>
+  <item qn="DxAutoDoc~f4f44df1-783c-470d-88b0-b63fdf3d1201">
+    <summary ChangeDateTime="2013-04-18T09:18:08.5703671Z">&lt;SPAN style="WHITE-SPACE: normal; TEXT-TRANSFORM: none; WORD-SPACING: 0px; FLOAT: none; COLOR: rgb(42,42,42); FONT: 13px/18px 'Segoe UI', 'Lucida Grande', Verdana, Arial, Helvetica, sans-serif; DISPLAY: inline !important; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px"&gt;A&lt;SPAN class=Apple-converted-space&gt;&amp;nbsp;&lt;/SPAN&gt;&lt;/SPAN&gt;&lt;SPAN style="WHITE-SPACE: normal; TEXT-TRANSFORM: none; WORD-SPACING: 0px; COLOR: rgb(42,42,42); FONT: 13px/18px 'Segoe UI', 'Lucida Grande', Verdana, Arial, Helvetica, sans-serif; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px"&gt;string&lt;/SPAN&gt;&lt;SPAN style="WHITE-SPACE: normal; TEXT-TRANSFORM: none; WORD-SPACING: 0px; FLOAT: none; COLOR: rgb(42,42,42); FONT: 13px/18px 'Segoe UI', 'Lucida Grande', Verdana, Arial, Helvetica, sans-serif; DISPLAY: inline !important; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px"&gt;&lt;SPAN class=Apple-converted-space&gt;&amp;nbsp;&lt;/SPAN&gt;array representing the text from an unknown language. The size of the text must not exceed 10000 characters.&lt;/SPAN&gt;</summary>
+  </item>
+  <AutoDocRules Id="a3907857-14d0-4596-9bd9-0bc4d32f3e0b">
+    <AutoDocRule Id="DxAutoDoc~fd8cd7a3-544b-4762-94ce-e25a876340d1" MatchKind="ContinueMatching" Name="appId" ItemType="DX.XSD:ELEMENT">
+      <ChildRules />
+      <Rules MatchType="All" Caption="" IsReadOnly="false" Id="f22b3c35-1324-459b-9c4e-4a8b495a0f4a">
+        <Rules>
+          <Rule MatchType="All" Caption="" IsReadOnly="false" Id="wrapper|78a422a2-fe96-49c5-9f11-ba80a040b315">
+            <Rules />
+            <Conditions>
+              <RuleCondition ItemNameMatchType="IsMatch" Caption="Item Name Rule" IsReadOnly="false" Id="78a422a2-fe96-49c5-9f11-ba80a040b315" Designer="ITEMNAME">
+                <IsQualifiedNameSearch>false</IsQualifiedNameSearch>
+                <FindOptions WholeWord="true" MatchCase="false" SearchInSource="true" IsSearchInSourceEnabled="false" UseRegex="false" FindWhat="appId" ReplaceWith="" />
+              </RuleCondition>
+            </Conditions>
+          </Rule>
+        </Rules>
+      </Rules>
+    </AutoDocRule>
+    <AutoDocRule Id="DxAutoDoc~7f05fdb8-1df6-4063-849e-045eaaa8eec4" MatchKind="ContinueMatching" Name="from" ItemType="DX.XSD:ELEMENT">
+      <ChildRules />
+      <Rules MatchType="All" Caption="" IsReadOnly="false" Id="484d48c4-d533-4e52-bed7-bbc2efb58b02">
+        <Rules>
+          <Rule MatchType="All" Caption="" IsReadOnly="false" Id="wrapper|84906a5b-b8e6-4587-9b80-3eccf12ee030">
+            <Rules />
+            <Conditions>
+              <RuleCondition ItemNameMatchType="IsMatch" Caption="Item Name Rule" IsReadOnly="false" Id="84906a5b-b8e6-4587-9b80-3eccf12ee030" Designer="ITEMNAME">
+                <IsQualifiedNameSearch>false</IsQualifiedNameSearch>
+                <FindOptions WholeWord="true" MatchCase="false" SearchInSource="true" IsSearchInSourceEnabled="false" UseRegex="false" FindWhat="from" ReplaceWith="" />
+              </RuleCondition>
+            </Conditions>
+          </Rule>
+        </Rules>
+      </Rules>
+    </AutoDocRule>
+    <AutoDocRule Id="DxAutoDoc~bc8aaec4-5d58-4bb6-bd10-f26644e51afc" MatchKind="ContinueMatching" Name="to" ItemType="DX.XSD:ELEMENT">
+      <ChildRules />
+      <Rules MatchType="All" Caption="" IsReadOnly="false" Id="df55750f-3922-446b-b389-db40125a011e">
+        <Rules>
+          <Rule MatchType="All" Caption="" IsReadOnly="false" Id="wrapper|c2c813ba-238b-49da-808d-4cc704274191">
+            <Rules />
+            <Conditions>
+              <RuleCondition ItemNameMatchType="IsMatch" Caption="Item Name Rule" IsReadOnly="false" Id="c2c813ba-238b-49da-808d-4cc704274191" Designer="ITEMNAME">
+                <IsQualifiedNameSearch>false</IsQualifiedNameSearch>
+                <FindOptions WholeWord="true" MatchCase="false" SearchInSource="true" IsSearchInSourceEnabled="false" UseRegex="false" FindWhat="to" ReplaceWith="" />
+              </RuleCondition>
+            </Conditions>
+          </Rule>
+        </Rules>
+      </Rules>
+    </AutoDocRule>
+    <AutoDocRule Id="DxAutoDoc~0559a3c3-2f3f-4481-924e-7301e9ea8259" MatchKind="ContinueMatching" Name="options" ItemType="DX.XSD:ELEMENT">
+      <ChildRules />
+      <Rules MatchType="All" Caption="" IsReadOnly="false" Id="4408b46a-1fea-4be7-a60c-c797b58a25a9">
+        <Rules>
+          <Rule MatchType="All" Caption="" IsReadOnly="false" Id="wrapper|595615e3-e325-4e0e-886c-058b1a9208b0">
+            <Rules />
+            <Conditions>
+              <RuleCondition ItemNameMatchType="IsMatch" Caption="Item Name Rule" IsReadOnly="false" Id="595615e3-e325-4e0e-886c-058b1a9208b0" Designer="ITEMNAME">
+                <IsQualifiedNameSearch>false</IsQualifiedNameSearch>
+                <FindOptions WholeWord="true" MatchCase="false" SearchInSource="true" IsSearchInSourceEnabled="false" UseRegex="false" FindWhat="options" ReplaceWith="" />
+              </RuleCondition>
+            </Conditions>
+          </Rule>
+        </Rules>
+      </Rules>
+    </AutoDocRule>
+    <AutoDocRule Id="DxAutoDoc~e58898cb-a4ac-4e48-a252-819827667c31" MatchKind="ContinueMatching" Name="text" ItemType="DX.XSD:ELEMENT">
+      <ChildRules />
+      <Rules MatchType="All" Caption="" IsReadOnly="false" Id="05d7c68f-0454-4387-91e8-303e25f4731a">
+        <Rules>
+          <Rule MatchType="All" Caption="" IsReadOnly="false" Id="wrapper|d62213c8-e773-40da-9b47-cd40f6da16a7">
+            <Rules />
+            <Conditions>
+              <RuleCondition ItemNameMatchType="IsMatch" Caption="Item Name Rule" IsReadOnly="false" Id="d62213c8-e773-40da-9b47-cd40f6da16a7" Designer="ITEMNAME">
+                <IsQualifiedNameSearch>false</IsQualifiedNameSearch>
+                <FindOptions WholeWord="true" MatchCase="false" SearchInSource="true" IsSearchInSourceEnabled="false" UseRegex="false" FindWhat="text" ReplaceWith="" />
+              </RuleCondition>
+            </Conditions>
+          </Rule>
+        </Rules>
+      </Rules>
+    </AutoDocRule>
+    <AutoDocRule Id="DxAutoDoc~f4f44df1-783c-470d-88b0-b63fdf3d1201" MatchKind="ContinueMatching" Name="texts" ItemType="DX.XSD:ELEMENT">
+      <ChildRules />
+      <Rules MatchType="All" Caption="" IsReadOnly="false" Id="47b33f56-eff5-41a9-9f7a-4c30c1335579">
+        <Rules>
+          <Rule MatchType="All" Caption="" IsReadOnly="false" Id="wrapper|9a83349b-6d0c-4bbf-b6d3-70157229e7d1">
+            <Rules />
+            <Conditions>
+              <RuleCondition ItemNameMatchType="IsMatch" Caption="Item Name Rule" IsReadOnly="false" Id="9a83349b-6d0c-4bbf-b6d3-70157229e7d1" Designer="ITEMNAME">
+                <IsQualifiedNameSearch>false</IsQualifiedNameSearch>
+                <FindOptions WholeWord="true" MatchCase="false" SearchInSource="true" IsSearchInSourceEnabled="false" UseRegex="false" FindWhat="texts" ReplaceWith="" />
+              </RuleCondition>
+            </Conditions>
+          </Rule>
+        </Rules>
+      </Rules>
+    </AutoDocRule>
+  </AutoDocRules>
+  <Filters>
+    <DX.XSDCONTENTSTOREFILTER>
+      <IsSourceCommentsVisible>true</IsSourceCommentsVisible>
+    </DX.XSDCONTENTSTOREFILTER>
+  </Filters>
+  <Filters>
+    <CONTENTSTORECOMMON>
+      <IsIncludedItemsOnly>true</IsIncludedItemsOnly>
+    </CONTENTSTORECOMMON>
+    <CONTENTSTORELOCALIZATION>
+      <IsPrimaryLocaleContentPreviewEnabled>true</IsPrimaryLocaleContentPreviewEnabled>
+    </CONTENTSTORELOCALIZATION>
+  </Filters>
+</AutoDocFile>

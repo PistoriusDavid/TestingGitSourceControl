@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ContentFile Version="2010" Moniker="&lt;XsdSchema SchemaLocationType=&quot;Embedded&quot; SchemaType=&quot;Normal&quot; Title=&quot;http://schemas.microsoft.com/2003/10/Serialization/Arrays&quot; IsExternallyManaged=&quot;true&quot; SchemaId=&quot;http://schemas.microsoft.com/2003/10/Serialization/Arrays&quot; SchemaParentItemId=&quot;Bing Translator&quot; Name=&quot;http://schemas.microsoft.com/2003/10/Serialization/Arrays&quot; /&gt;" DocType="DX.XSD" IsLocalizationDisabled="false">
+  <RelatedProject>SoapSampleTesting.dxp</RelatedProject>
+  <State>
+    <Attributes />
+  </State>
+  <LastSelectedItem></LastSelectedItem>
+  <Filters>
+    <DX.XSDCONTENTSTOREFILTER>
+      <IsSourceCommentsVisible>true</IsSourceCommentsVisible>
+    </DX.XSDCONTENTSTOREFILTER>
+  </Filters>
+  <Filters>
+    <CONTENTSTORECOMMON>
+      <IsIncludedItemsOnly>true</IsIncludedItemsOnly>
+    </CONTENTSTORECOMMON>
+    <CONTENTSTORELOCALIZATION>
+      <IsPrimaryLocaleContentPreviewEnabled>true</IsPrimaryLocaleContentPreviewEnabled>
+    </CONTENTSTORELOCALIZATION>
+  </Filters>
+</ContentFile>
