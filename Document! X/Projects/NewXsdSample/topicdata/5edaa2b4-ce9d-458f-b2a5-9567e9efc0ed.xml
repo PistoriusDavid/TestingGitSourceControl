@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Topic Id="5edaa2b4-ce9d-458f-b2a5-9567e9efc0ed" Status="New Topic" CreatedOn="2010-08-17T14:40:49.9328177Z" ModifiedOn="2010-08-17T14:43:31.5388177Z" PageTypeName="" AutoIndex="true" HelpContextIds="" Name="Background" BuildFlags="">
+  <Title />
+  <ContentsTitle />
+  <Notes></Notes>
+  <CanonicalLink></CanonicalLink>
+  <TopicSections>
+    <TopicSection Name="BodyText">
+      <Content m="2010-08-17T14:43:31.3668177Z">&lt;P&gt;There are several reasons why companies use POs.&lt;/P&gt;
+&lt;P&gt;POs allow buyers to clearly and explicitly communicate their intentions to sellers, and sellers are protected in case of a buyer's refusal to pay for goods or services. For example, Alex works for company A and orders parts from company B. The seller assumes that Alex's boss consents. If Alex is not entitled to this order - perhaps due to a miscommunication with their boss - the order can be canceled by either party. Depending on the type of product that is delivered and at what stage the PO is canceled, Company B may be entitled to production (labor, raw materials, etc.) and shipping and handling costs.&lt;/P&gt;</Content>
+    </TopicSection>
+  </TopicSections>
+  <TopicLinks>
+    <TopicLink BuildFlags="" Id="ccbe0b42-2b46-480f-8b7d-1bf01973abf4" CategoryId="" TopicLinkCategorySource="SpecificValue" Target="http://en.wikipedia.org/wiki/Purchase_order">
+      <Title m="2010-08-17T14:43:31.4188177Z">Purchase Order (Wikipedia)</Title>
+      <Category />
+    </TopicLink>
+  </TopicLinks>
+  <TopicKeywords />
+  <PropertyDefinitionValues />
+  <ExcludedOtherFiles />
+</Topic>

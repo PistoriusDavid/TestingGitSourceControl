@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ContentFile Version="2010" Moniker="&lt;XsdSchema SchemaLocationType=&quot;File&quot; SchemaType=&quot;Normal&quot; Title=&quot;PurchaseOrder Schema&quot; IsExternallyManaged=&quot;false&quot; SchemaId=&quot;&quot; SchemaParentItemId=&quot;&quot; Name=&quot;PurchaseOrder&quot; SchemaLocation=&quot;..\..\..\..\..\repos\renatus\.localconfig\samples\dx.xsd\po\po.xsd&quot; /&gt;" DocType="DX.XSD" IsLocalizationDisabled="false">
+  <RelatedProject>NewXsdSample.dxp</RelatedProject>
+  <State>
+    <Attributes>
+      <Assembly key="dtscrollpos" valuetype="integer">0</Assembly>
+    </Attributes>
+  </State>
+  <LastSelectedItem>PurhcaseOrder_xsd~c-PurchaseOrderType</LastSelectedItem>
+  <item qn="PurhcaseOrder_xsd~e-purchaseOrder">
+    <remarks ChangeDateTime="2010-08-18T10:07:22.9157028Z">Referenced type: &lt;A style="auto-update-caption: true" href="PurhcaseOrder_xsd~c-PurchaseOrderType.html"&gt;PurchaseOrderType Complex Type&lt;/A&gt;&amp;nbsp;is defined in this schema.</remarks>
+  </item>
+  <Filters>
+    <DX.XSDCONTENTSTOREFILTER>
+      <IsSourceCommentsVisible>true</IsSourceCommentsVisible>
+    </DX.XSDCONTENTSTOREFILTER>
+  </Filters>
+  <Filters>
+    <CONTENTSTORECOMMON>
+      <IsIncludedItemsOnly>true</IsIncludedItemsOnly>
+    </CONTENTSTORECOMMON>
+    <CONTENTSTORELOCALIZATION>
+      <IsPrimaryLocaleContentPreviewEnabled>true</IsPrimaryLocaleContentPreviewEnabled>
+    </CONTENTSTORELOCALIZATION>
+  </Filters>
+</ContentFile>
