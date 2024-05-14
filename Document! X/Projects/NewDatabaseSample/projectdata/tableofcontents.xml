@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TableOfContents>
+  <TocLayout Id="5e40b511-8af4-4fa6-bcd7-8a1348c5db35">
+    <Name />
+    <Description />
+    <RootNodes>
+      <TocNode Name="" Id="4b6c1b6b-dc71-4c16-8062-a52390ef76db" IconIndex="-1" IsNew="false" Target="" DependsOnItemTypeName="" DependsOnItemTypeFilter="" DependsOnMinimumCount="0" DependsOnStillProcessChildNodes="false" BuildFlags="" NodeType="PROJECTITEM">
+        <CaptionTemplate />
+        <ChildNodes />
+        <TargetItemId>aa5a5420-02ba-4917-a805-b07282838f67</TargetItemId>
+        <TargetItemBookmark></TargetItemBookmark>
+      </TocNode>
+      <TocNode Name="" Id="bb03ee2d-7375-4ddd-825d-5a5a85976283" IconIndex="-1" IsNew="false" Target="" DependsOnItemTypeFilter="" DependsOnMinimumCount="0" DependsOnStillProcessChildNodes="false" BuildFlags="" DocumentationTypeName="DX.DB" TemplateTocType="TemplateSpecific" TemplateTocName="No Schemas" DependsOnItemTypeName="" NodeType="TEMPLATETOC">
+        <ChildNodes />
+      </TocNode>
+    </RootNodes>
+  </TocLayout>
+</TableOfContents>
