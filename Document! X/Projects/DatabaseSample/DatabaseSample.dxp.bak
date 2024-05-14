@@ -3,7 +3,7 @@
   <Features>
     <Feature>Document! X</Feature>
   </Features>
-  <SeparateFiles>true</SeparateFiles>
+  <SeparateFiles>false</SeparateFiles>
   <Flags>
     <Flag Id="{46CEF21D-3301-4517-A875-A0906828390E}" HighlightColor="#FFA1FFD0">Exclude from Online</Flag>
     <Flag Id="{4AAE0FD4-7313-4FEE-A25F-0785B885F736}" HighlightColor="#FFFFFFA1">Exclude from Booklet</Flag>
@@ -26,7 +26,7 @@
   <DotNetAssemblies />
   <DatabaseProjectPlugin>
     <Databases>
-      <Database Name="Northwind" DatabaseType="Access" FileName="..\..\..\..\..\..\..\repos\renatus\.localconfig\samples\dx.db\northwind\Northwind.mdb">
+      <Database Name="Northwind" DatabaseType="Access" FileName="..\..\..\..\..\repos\renatus\.localconfig\samples\dx.db\northwind\Northwind.mdb">
         <UserName></UserName>
       </Database>
     </Databases>
@@ -36,6 +36,10 @@
   </XsdProjectPlugin>
   <GlossaryProjectPlugin>
     <IsGlossaryOutputEnabled>true</IsGlossaryOutputEnabled>
+    <Glossary>
+      <GlossaryItems />
+      <Title />
+    </Glossary>
   </GlossaryProjectPlugin>
   <WebServiceProjectPlugin>
     <WebServices />
@@ -47,9 +51,29 @@
     <DefaultCaptureDirectory></DefaultCaptureDirectory>
   </OtherFilesProjectPlugin>
   <SourceControlProjectPlugin />
-  <TasksProjectPlugin />
+  <TasksProjectPlugin>
+    <Tasks>
+      <TaskItems />
+    </Tasks>
+  </TasksProjectPlugin>
   <BookletsProjectPlugin />
-  <TableOfContents />
+  <TableOfContents>
+    <TocLayout Id="5e40b511-8af4-4fa6-bcd7-8a1348c5db35">
+      <Name />
+      <Description />
+      <RootNodes>
+        <TocNode Name="" Id="4b6c1b6b-dc71-4c16-8062-a52390ef76db" IconIndex="-1" IsNew="false" Target="" DependsOnItemTypeName="" DependsOnItemTypeFilter="" DependsOnMinimumCount="0" DependsOnStillProcessChildNodes="false" BuildFlags="" NodeType="PROJECTITEM">
+          <CaptionTemplate />
+          <ChildNodes />
+          <TargetItemId>aa5a5420-02ba-4917-a805-b07282838f67</TargetItemId>
+          <TargetItemBookmark></TargetItemBookmark>
+        </TocNode>
+        <TocNode Name="" Id="bb03ee2d-7375-4ddd-825d-5a5a85976283" IconIndex="-1" IsNew="false" Target="" DependsOnItemTypeFilter="" DependsOnMinimumCount="0" DependsOnStillProcessChildNodes="false" BuildFlags="" DocumentationTypeName="DX.DB" TemplateTocType="TemplateSpecific" TemplateTocName="No Schemas" DependsOnItemTypeName="" NodeType="TEMPLATETOC">
+          <ChildNodes />
+        </TocNode>
+      </RootNodes>
+    </TocLayout>
+  </TableOfContents>
   <TopicsProjectPlugin>
     <TopicCategories>
       <TopicCategory Id="-" AutoIndex="false">
@@ -61,7 +85,42 @@
         <Caption m="2010-03-04T00:41:45.3126757Z">Introduction</Caption>
         <ChildTopicCategories />
         <Topics>
-          <Topic Id="aa5a5420-02ba-4917-a805-b07282838f67" />
+          <Topic Id="aa5a5420-02ba-4917-a805-b07282838f67" Status="New Topic" CreatedOn="2010-03-04T00:40:39.6353491Z" ModifiedOn="2010-03-04T00:43:26.9327887Z" PageTypeName="" AutoIndex="true" HelpContextIds="" Name="AboutThisSample" BuildFlags="">
+            <Title />
+            <ContentsTitle />
+            <Notes></Notes>
+            <CanonicalLink></CanonicalLink>
+            <TopicSections>
+              <TopicSection Name="BodyText">
+                <Content m="2010-03-04T00:43:26.9327887Z">&lt;H1&gt;About this Sample&lt;/H1&gt;
+&lt;P&gt;This sample Document! X project produces a set of reference documentation for the Northwind sample Access Database. The generated documentation combines:&lt;/P&gt;
+&lt;OL&gt;
+&lt;LI&gt;Descriptions defined in the Database for Tables and Columns; 
+&lt;LI&gt;Content generated automatically by Document! X; 
+&lt;LI&gt;Content authored for specific tables, views and procedures in a Document! X Content File; 
+&lt;LI&gt;Conceptual Topics. &lt;/LI&gt;&lt;/OL&gt;
+&lt;H1&gt;Editing the Content in this Sample&lt;/H1&gt;&lt;?xml:namespace prefix = innovasys ns = "http://www.innovasys.com/widgets" /&gt;&lt;innovasys:widget type="Drop down section" layout="block"&gt;&lt;innovasys:widgetproperty layout="inline" name="Heading"&gt;To edit content in the sample Document! X Content File&lt;/innovasys:widgetproperty&gt; &lt;innovasys:widgetproperty layout="block" name="Content"&gt;
+&lt;UL&gt;
+&lt;LI&gt;Open Document! X; 
+&lt;LI&gt;Open this sample project; 
+&lt;LI&gt;Expand the &lt;STRONG&gt;Content Files&lt;/STRONG&gt; section of the Project Explorer; 
+&lt;LI&gt;Right click on the Content File and choose the &lt;STRONG&gt;Edit&lt;/STRONG&gt; option; &lt;/LI&gt;&lt;/UL&gt;
+&lt;P&gt;The Content File will be opened for edit. Select an item from the tree on the left of the editor to display and edit content for that item.&lt;/P&gt;&lt;/innovasys:widgetproperty&gt;&lt;/innovasys:widget&gt;&lt;innovasys:widget type="Drop down section" layout="block"&gt;&lt;innovasys:widgetproperty layout="inline" name="Heading"&gt;To edit content in the conceptual Topics (such as this one)&lt;/innovasys:widgetproperty&gt; &lt;innovasys:widgetproperty layout="block" name="Content"&gt;
+&lt;UL&gt;
+&lt;LI&gt;Open Document! X; 
+&lt;LI&gt;Open this sample project; 
+&lt;LI&gt;Expand the &lt;STRONG&gt;Topics&lt;/STRONG&gt; section of the Project Explorer; 
+&lt;LI&gt;Right click on a Topic and choose the &lt;STRONG&gt;Edit&lt;/STRONG&gt; option. &lt;/LI&gt;&lt;/UL&gt;
+&lt;P&gt;The Topic will be opened for edit.&lt;/P&gt;&lt;/innovasys:widgetproperty&gt;&lt;/innovasys:widget&gt;
+&lt;H1&gt;Building this Sample&lt;/H1&gt;
+&lt;P&gt;Click on the Build ribbon button to build the output for this sample.&lt;/P&gt;</Content>
+              </TopicSection>
+            </TopicSections>
+            <TopicLinks />
+            <TopicKeywords />
+            <PropertyDefinitionValues />
+            <ExcludedOtherFiles />
+          </Topic>
         </Topics>
       </TopicCategory>
       <TopicCategory Id="CONTENTSNIPPETS" AutoIndex="false">
@@ -531,7 +590,7 @@
         <PropertyBag>
           <Property Name="TEMPLATEFILEFEATURE_RESPONSIVE">True</Property>
         </PropertyBag>
-        <HelpFileName>..\..\..\..\..\Documents\Document! X\DatabaseSample\Northwind.light.chm</HelpFileName>
+        <HelpFileName>Northwind.light.chm</HelpFileName>
       </HelpCompiler>
       <RuleEngine>
         <Rules MatchType="All" Caption="" IsReadOnly="false" Id="root">
@@ -1012,7 +1071,7 @@
         <PropertyBag>
           <Property Name="TEMPLATEFILEFEATURE_RESPONSIVE">True</Property>
         </PropertyBag>
-        <HelpFileName>..\..\..\..\..\Documents\Document! X\DatabaseSample\Northwind.light.chm</HelpFileName>
+        <HelpFileName>Northwind.light.chm</HelpFileName>
       </HelpCompiler>
       <RuleEngine>
         <Rules MatchType="All" Caption="" IsReadOnly="false" Id="root">
@@ -1500,7 +1559,7 @@
           <Property Name="TEMPLATEFILEFEATURE_NAVIGATION">True</Property>
           <Property Name="TEMPLATEFILEFEATURE_RESPONSIVE">True</Property>
         </PropertyBag>
-        <HelpFileName>..\..\..\..\..\Documents\Document! X\DatabaseSample\Northwind.classic.chm</HelpFileName>
+        <HelpFileName>Northwind.classic.chm</HelpFileName>
       </HelpCompiler>
       <RuleEngine>
         <Rules MatchType="All" Caption="" IsReadOnly="false" Id="root">
@@ -1989,7 +2048,7 @@
           <Property Name="TEMPLATEFILEFEATURE_NAVIGATION">True</Property>
           <Property Name="TEMPLATEFILEFEATURE_RESPONSIVE">True</Property>
         </PropertyBag>
-        <HelpFileName>..\..\..\..\..\Documents\Document! X\DatabaseSample\Northwind.classic.chm</HelpFileName>
+        <HelpFileName>Northwind.classic.chm</HelpFileName>
       </HelpCompiler>
       <RuleEngine>
         <Rules MatchType="All" Caption="" IsReadOnly="false" Id="root">
@@ -2471,7 +2530,7 @@
         <PropertyBag>
           <Property Name="TEMPLATEFILEFEATURE_RESPONSIVE">True</Property>
         </PropertyBag>
-        <HelpFileName>..\..\..\..\..\Documents\Document! X\DatabaseSample\Northwind.material.chm</HelpFileName>
+        <HelpFileName>Northwind.material.chm</HelpFileName>
       </HelpCompiler>
       <RuleEngine>
         <Rules MatchType="All" Caption="" IsReadOnly="false" Id="root">
@@ -2952,7 +3011,7 @@
         <PropertyBag>
           <Property Name="TEMPLATEFILEFEATURE_RESPONSIVE">True</Property>
         </PropertyBag>
-        <HelpFileName>..\..\..\..\..\Documents\Document! X\DatabaseSample\Northwind.material.chm</HelpFileName>
+        <HelpFileName>Northwind.material.chm</HelpFileName>
       </HelpCompiler>
       <RuleEngine>
         <Rules MatchType="All" Caption="" IsReadOnly="false" Id="root">
