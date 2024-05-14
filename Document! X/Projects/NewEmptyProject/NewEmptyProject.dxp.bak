@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <DocumentXProject Id="8cf38c72-d364-402c-94a9-e845d218da2b" Version="2018.1">
   <Features />
-  <SeparateFiles>false</SeparateFiles>
+  <SeparateFiles>true</SeparateFiles>
   <Flags>
     <Flag Id="{46CEF21D-3301-4517-A875-A0906828390E}" HighlightColor="#FFA1FFD0">Exclude from Online</Flag>
     <Flag Id="{4AAE0FD4-7313-4FEE-A25F-0785B885F736}" HighlightColor="#FFFFFFA1">Exclude from Booklet</Flag>
@@ -28,10 +28,6 @@
   </XsdProjectPlugin>
   <GlossaryProjectPlugin>
     <IsGlossaryOutputEnabled>true</IsGlossaryOutputEnabled>
-    <Glossary>
-      <GlossaryItems />
-      <Title />
-    </Glossary>
   </GlossaryProjectPlugin>
   <WebServiceProjectPlugin>
     <WebServices />
@@ -45,24 +41,9 @@
     <DefaultCaptureDirectory></DefaultCaptureDirectory>
   </OtherFilesProjectPlugin>
   <SourceControlProjectPlugin />
-  <TasksProjectPlugin>
-    <Tasks>
-      <TaskItems />
-    </Tasks>
-  </TasksProjectPlugin>
+  <TasksProjectPlugin />
   <BookletsProjectPlugin />
-  <TableOfContents>
-    <TocLayout Id="c7552482-a1ae-44a2-a9fc-c757d62b5073">
-      <Name />
-      <Description />
-      <RootNodes>
-        <TocNode IncludeUncategorized="true" Name="" Id="e262289c-f5b3-4783-9451-c2df074be115" IconIndex="-1" IsNew="false" Target="" DependsOnItemTypeName="" DependsOnItemTypeFilter="" DependsOnMinimumCount="0" DependsOnStillProcessChildNodes="false" BuildFlags="" NodeType="ALLTOPICS">
-          <CaptionTemplate />
-          <ChildNodes />
-        </TocNode>
-      </RootNodes>
-    </TocLayout>
-  </TableOfContents>
+  <TableOfContents />
   <TopicsProjectPlugin>
     <TopicCategories>
       <TopicCategory Id="-" AutoIndex="false">
