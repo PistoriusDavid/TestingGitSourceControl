@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<DocumentXProject Id="9fcdfc1d-d2aa-4878-83fe-028865af50bd" Version="2018.1">
+<DocumentXProject Id="642d9cdd-863c-41c4-a556-2b141c0f44de" Version="2018.1">
   <Features>
     <Feature>Document! X</Feature>
   </Features>
@@ -26,7 +26,7 @@
   <DotNetAssemblies />
   <DatabaseProjectPlugin>
     <Databases>
-      <Database Name="Northwind" DatabaseType="Access" FileName="..\..\..\..\..\repos\renatus\.localconfig\samples\dx.db\northwind\Northwind.mdb">
+      <Database Name="Northwind" DatabaseType="Access" FileName="..\..\..\..\..\..\..\repos\renatus\.localconfig\samples\dx.db\northwind\Northwind.mdb">
         <UserName></UserName>
       </Database>
     </Databases>
@@ -531,7 +531,7 @@
         <PropertyBag>
           <Property Name="TEMPLATEFILEFEATURE_RESPONSIVE">True</Property>
         </PropertyBag>
-        <HelpFileName>Northwind.light.chm</HelpFileName>
+        <HelpFileName>..\..\..\..\..\Documents\Document! X\DatabaseSample\Northwind.light.chm</HelpFileName>
       </HelpCompiler>
       <RuleEngine>
         <Rules MatchType="All" Caption="" IsReadOnly="false" Id="root">
@@ -1012,7 +1012,7 @@
         <PropertyBag>
           <Property Name="TEMPLATEFILEFEATURE_RESPONSIVE">True</Property>
         </PropertyBag>
-        <HelpFileName>Northwind.light.chm</HelpFileName>
+        <HelpFileName>..\..\..\..\..\Documents\Document! X\DatabaseSample\Northwind.light.chm</HelpFileName>
       </HelpCompiler>
       <RuleEngine>
         <Rules MatchType="All" Caption="" IsReadOnly="false" Id="root">
@@ -1500,7 +1500,7 @@
           <Property Name="TEMPLATEFILEFEATURE_NAVIGATION">True</Property>
           <Property Name="TEMPLATEFILEFEATURE_RESPONSIVE">True</Property>
         </PropertyBag>
-        <HelpFileName>Northwind.classic.chm</HelpFileName>
+        <HelpFileName>..\..\..\..\..\Documents\Document! X\DatabaseSample\Northwind.classic.chm</HelpFileName>
       </HelpCompiler>
       <RuleEngine>
         <Rules MatchType="All" Caption="" IsReadOnly="false" Id="root">
@@ -1989,7 +1989,7 @@
           <Property Name="TEMPLATEFILEFEATURE_NAVIGATION">True</Property>
           <Property Name="TEMPLATEFILEFEATURE_RESPONSIVE">True</Property>
         </PropertyBag>
-        <HelpFileName>Northwind.classic.chm</HelpFileName>
+        <HelpFileName>..\..\..\..\..\Documents\Document! X\DatabaseSample\Northwind.classic.chm</HelpFileName>
       </HelpCompiler>
       <RuleEngine>
         <Rules MatchType="All" Caption="" IsReadOnly="false" Id="root">
@@ -2471,7 +2471,7 @@
         <PropertyBag>
           <Property Name="TEMPLATEFILEFEATURE_RESPONSIVE">True</Property>
         </PropertyBag>
-        <HelpFileName>Northwind.material.chm</HelpFileName>
+        <HelpFileName>..\..\..\..\..\Documents\Document! X\DatabaseSample\Northwind.material.chm</HelpFileName>
       </HelpCompiler>
       <RuleEngine>
         <Rules MatchType="All" Caption="" IsReadOnly="false" Id="root">
@@ -2952,7 +2952,7 @@
         <PropertyBag>
           <Property Name="TEMPLATEFILEFEATURE_RESPONSIVE">True</Property>
         </PropertyBag>
-        <HelpFileName>Northwind.material.chm</HelpFileName>
+        <HelpFileName>..\..\..\..\..\Documents\Document! X\DatabaseSample\Northwind.material.chm</HelpFileName>
       </HelpCompiler>
       <RuleEngine>
         <Rules MatchType="All" Caption="" IsReadOnly="false" Id="root">
