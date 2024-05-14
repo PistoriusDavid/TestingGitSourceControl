@@ -80,6 +80,7 @@
     <TopicEditorState>
       <Attributes>
         <Assembly key="dtscrollpos" valuetype="integer">0</Assembly>
+        <Assembly key="scrollPosition" valuetype="integer">0</Assembly>
       </Attributes>
     </TopicEditorState>
   </TopicsProjectPlugin>

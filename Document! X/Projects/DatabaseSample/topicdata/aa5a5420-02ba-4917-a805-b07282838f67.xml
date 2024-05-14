@@ -1,25 +1,25 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Topic Id="aa5a5420-02ba-4917-a805-b07282838f67" Status="New Topic" CreatedOn="2010-03-04T00:40:39.6353491Z" ModifiedOn="2010-03-04T00:43:26.9327887Z" PageTypeName="" AutoIndex="true" HelpContextIds="" Name="AboutThisSample" BuildFlags="">
+<Topic Id="aa5a5420-02ba-4917-a805-b07282838f67" Status="New Topic" CreatedOn="2010-03-04T00:40:39.6353491Z" ModifiedOn="2024-05-14T11:02:43.2699671Z" PageTypeName="" AutoIndex="true" HelpContextIds="" Name="AboutThisSample" BuildFlags="">
   <Title />
   <ContentsTitle />
   <Notes></Notes>
   <CanonicalLink></CanonicalLink>
   <TopicSections>
     <TopicSection Name="BodyText">
-      <Content m="2010-03-04T00:43:26.9327887Z">&lt;H1&gt;About this Sample&lt;/H1&gt;
+      <Content m="2024-05-14T11:02:43.2689685Z">&lt;H1&gt;About this Sample&lt;/H1&gt;
 &lt;P&gt;This sample Document! X project produces a set of reference documentation for the Northwind sample Access Database. The generated documentation combines:&lt;/P&gt;
 &lt;OL&gt;
 &lt;LI&gt;Descriptions defined in the Database for Tables and Columns; 
 &lt;LI&gt;Content generated automatically by Document! X; 
 &lt;LI&gt;Content authored for specific tables, views and procedures in a Document! X Content File; 
 &lt;LI&gt;Conceptual Topics. &lt;/LI&gt;&lt;/OL&gt;
-&lt;H1&gt;Editing the Content in this Sample&lt;/H1&gt;&lt;?xml:namespace prefix = innovasys ns = "http://www.innovasys.com/widgets" /&gt;&lt;innovasys:widget type="Drop down section" layout="block"&gt;&lt;innovasys:widgetproperty layout="inline" name="Heading"&gt;To edit content in the sample Document! X Content File&lt;/innovasys:widgetproperty&gt; &lt;innovasys:widgetproperty layout="block" name="Content"&gt;
+&lt;H1&gt;Editing the Content in this Sample&lt;/H1&gt;&lt;innovasys:widget type="Drop Down Section" layout="block"&gt;&lt;innovasys:widgetproperty layout="inline" name="Heading"&gt;To edit content in the sample Document! X Content File&lt;/innovasys:widgetproperty&gt; &lt;innovasys:widgetproperty layout="block" name="Content"&gt;
 &lt;UL&gt;
 &lt;LI&gt;Open Document! X; 
 &lt;LI&gt;Open this sample project; 
 &lt;LI&gt;Expand the &lt;STRONG&gt;Content Files&lt;/STRONG&gt; section of the Project Explorer; 
 &lt;LI&gt;Right click on the Content File and choose the &lt;STRONG&gt;Edit&lt;/STRONG&gt; option; &lt;/LI&gt;&lt;/UL&gt;
-&lt;P&gt;The Content File will be opened for edit. Select an item from the tree on the left of the editor to display and edit content for that item.&lt;/P&gt;&lt;/innovasys:widgetproperty&gt;&lt;/innovasys:widget&gt;&lt;innovasys:widget type="Drop down section" layout="block"&gt;&lt;innovasys:widgetproperty layout="inline" name="Heading"&gt;To edit content in the conceptual Topics (such as this one)&lt;/innovasys:widgetproperty&gt; &lt;innovasys:widgetproperty layout="block" name="Content"&gt;
+&lt;P&gt;The Content File will be opened for edit. Select an item from the tree on the left of the editor to display and edit content for that item.&lt;/P&gt;&lt;/innovasys:widgetproperty&gt;&lt;/innovasys:widget&gt;&lt;innovasys:widget type="Drop Down Section" layout="block"&gt;&lt;innovasys:widgetproperty layout="inline" name="Heading"&gt;To edit content in the conceptual Topics (such as this one)&lt;/innovasys:widgetproperty&gt; &lt;innovasys:widgetproperty layout="block" name="Content"&gt;
 &lt;UL&gt;
 &lt;LI&gt;Open Document! X; 
 &lt;LI&gt;Open this sample project; 
