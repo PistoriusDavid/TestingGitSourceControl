@@ -1,5 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ApplicationWorkspace>
-  <RecentItems />
+  <RecentItems>
+    <RecentItem Key="db727a6e-b918-4d50-80e3-517d48e856e8.-" IsPinned="false" Type="Innovasys.ContentAuthoring.Topics.RecentTopic" Assembly="Innovasys.ContentAuthoring.Topics">
+      <HandlerName>TOPICS</HandlerName>
+      <Category>Topics</Category>
+    </RecentItem>
+  </RecentItems>
   <ProjectProfileApplicationPlugin DesignTimeProjectProfile="20dbd5ff-ead6-417d-9324-e786fff7443b" DesignTimeProjectLocale="-" />
 </ApplicationWorkspace>
