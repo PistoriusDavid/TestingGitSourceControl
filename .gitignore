@@ -2,4 +2,14 @@
 /build/*
 /build/**/*
 /gitlk.lk
+!/*/gitlk.lk/build/
+/build/*
+/build/**/*
+/*/build/
+/*/build/*
+/*/build/**/*
+/**/build/
+/**/build/*
+/**/build/**/*
+/gitlk.lk
 !/*/gitlk.lk
