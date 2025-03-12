@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SourceControlConnection>
+  <Provider>GIT</Provider>
+  <RemoteMoniker>../../$/</RemoteMoniker>
+  <ProviderProperties>
+    <Branch>AnotherTest</Branch>
+    <ServerUrl>https://github.com/PistoriusDavid/TestingGitSourceControl</ServerUrl>
+    <RepositoryFolder>E:\Testing2</RepositoryFolder>
+    <RepositoryDirectoryInfo>E:\Testing2</RepositoryDirectoryInfo>
+    <AuthorEmail>dpistorius@contiem.com</AuthorEmail>
+    <AuthorName>David Pistorius</AuthorName>
+    <UserName></UserName>
+    <Password>fcgvxUyL26JNNOi/BFcb1cDHPrah4zhi0h0mboy3WeU=</Password>
+    <SupplyUserCredentials>false</SupplyUserCredentials>
+  </ProviderProperties>
+</SourceControlConnection>
